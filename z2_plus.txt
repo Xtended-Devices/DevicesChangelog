@@ -1,0 +1,4 @@
+* Kernel Upstream 4.4.205 & re-based over sdm 660, thanks to @DD3Boh for kernel
+* Nuked navbar as utouch is love and requested by u all so dont cry for gestures as navbar is ripped
+* Update vulkan blobs from LA.UM.8.6.r1-01900-89xx.0
+* Misc fixes and improvements
