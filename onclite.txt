@@ -1,0 +1,13 @@
+XQ 6.0:
+-:CLEAN FLASH IS HIGHLY RECOMMENDED:-
+- Update Genom-Magic Kernel to v1.35
+- Fix manual network search
+- Patch ims to remove persistent ims HD icon 
+- Fix Status bar padding on lockscreen
+- Add Gapps
+- Add Smart pixels
+- enable cpuidle during boot
+- Fix notifications led
+- Enhance Spectrum support
+- Fix some sepolicy related bugs
+- Nuke non-working Xiaomi parts
