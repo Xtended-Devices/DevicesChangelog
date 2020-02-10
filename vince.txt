@@ -1,0 +1,5 @@
+XQ 6.0:
+-: clean flash is recommened
+- add overlay to fix system info
+- add overlay to show smart pixels
+- upstream kernel to 4.9.213
