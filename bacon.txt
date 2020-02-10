@@ -1,2 +1,7 @@
-XQ v5:
-Test
+XQ 6.0:
+-:CLEAN FLASH IS HIGHLY RECOMMENDED:-
+- Enforcing SELinux
+- Updated Fz kernel to v4.3
+- GPS improvements
+- More performance and smoothness improvements
+- Under-the-hood improvements
