@@ -1,3 +1,7 @@
-Improved Speaker Output (Do Not Flash Any NXP Zip)
-Goodix Fp Gestures
-Latest Stardust
+** X00T Official Release XQ v6.0 Changelog **
+
+* Improved Overall Sound Quality
+* Updated GPS From Stock
+* Enforcing 
+* Fixed AptX
+* Latest Stardust
