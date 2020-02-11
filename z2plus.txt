@@ -7,3 +7,4 @@ Xq 5.5
 Xq 6.0
  * Kernel Rebased over caf tags thanks to @Dd3Boh
  * Misc Fixes and improvements
+ * Added back Navbar so navbar gestures will work if you dont love navbar you can hide the pill too 
