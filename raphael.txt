@@ -1,0 +1,11 @@
+**MSM Xtended XQ Release-v6.0 Changelogs**
+
+* Added latest los fod changes
+* Added Raise to wake feature
+* Switched to F1XY Kernel (as per my liking ¯\_(ツ)_/¯)
+* Enabled AOSP Bluetooth Hal v2
+* Updated Coral's build fingerprint to Feb 2020 security patch
+* Fixed Ambient in Decor Room
+* Fixed Mi Sound Enhancer
+* Fixed Popup Sound selection
+* Fixed safetynet from previous test build
