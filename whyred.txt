@@ -1,0 +1,23 @@
+**MSM Xtended XQ Release-v6.0 Device Changelogs**
+
+* Switched to Latest RAD HMP kernel
+* Removed Xiaomi Parts
+* Switched to old cam blobs (no more cam shits please)
+* Enabled Smart Pixels
+* Enabled STATE_DOZE
+* Enabled alt. ambient display
+* Adapt the exact values for lockscreen charging info
+* Enabled all apps to use smart replies
+* Enabled smart charging
+* Switched to aosp offline charging
+* Enabled IWLAN assisted mode
+* Added IWLAN assist to manifest
+* Enabled Codec2
+* Fixed rank of QC OMX components
+* sepolicy: Grant permissions to HW info
+* set HighAspectRationScreen
+* Disabled LED color customizations
+* Set value for proximity check on screen wake
+* Added display mode mappings
+* Filtered unmapped display modes
+* Removed dex flags (enabled by default in Q)
