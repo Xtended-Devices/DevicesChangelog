@@ -1,0 +1,13 @@
+* Update Dirac from Tissot-V10.0.12.0.PDHMIXM
+* Update qcrilmsgtunnel from Raphael-QKQ1.190825
+* Update QTI bluetooth from LA.UM.8.6.2.r1-03700-89xx.0
+* Update QC RIL service from LA.UM.8.6.2.r1-03700-89xx.0
+* Update TUI blobs from LA.UM.8.6.r1-02600-89xx.0
+* Update Sensors blobs from LA.UM.8.6.r1-02600-89xx.0
+* Update wcnss_service from LA.UM.8.6.r1-02600-89xx.0
+* Update FM blobs from LA.UM.8.6.r1-02600-89xx.0
+* Update Audio blobs from LA.UM.8.6.r1-02600-89xx.0
+* Update Modem blob from LA.UM.8.6.r1-02600-89xx.0
+* Update ADSP blobs from LA.UM.8.6.r1-02600-89xx.0
+* Update aptX blobs from Google Pixel 4 XL
+* Update Bluetooth + SoundTrigger + Keystore + Gatekeeper + Vulkan + PostProcessing + DRM + CNE + DPM + Media + Graphics blobs from LA.UM.8.6.r1-02600-89xx.0
