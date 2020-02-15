@@ -1,0 +1,3 @@
+**MSM Xtended XQ Release-v6.0 Changelogs - Redmi 4/4X (Santoni)**
+
+• Initial Official Build
