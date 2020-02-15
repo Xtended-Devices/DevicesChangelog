@@ -1,0 +1,4 @@
+**MSM Xtended XQ Release-v6.0 Changelogs**
+
+* initial tree
+* removed some deprecated stuffs
