@@ -1,0 +1,8 @@
+** Tissot Official Release XQ v6.0 Changelog **
+
+* Kernel Upstreamed to 4.9.213
+* Lags Fixed on Live Wallpapers
+* Enforcing 
+* Fixed Miracast
+* Fixed AUX
+* Updated aptX blobs from crosshatch
