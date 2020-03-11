@@ -1,2 +1,16 @@
+** Xtended-hotdogb-20200311-XQ-Official-Beta-2_V7.0 Changelog **
+* Better outdoor brightness handling
+* Fixed Safetynet
+* Correct FOD animation dimen
+* Improved FP recogni
+* Added Offscreen gesture
+* Fixed FCs of OP cam 48mp jpeg
+* Improved OP cam image qualityAdded warp chage 
+* GCam updated to 7.3.018_urnyx05-v1.1
+* Added warp charging flag
+* Removed LED customization from Xtensions
+* Switch kernel to Mad7Series-kernel thanks to @mady51
+* Many other optimizations  
+
 ** hotdogb Release XQ v6.0 Changelog **
 * Initial release
