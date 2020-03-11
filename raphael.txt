@@ -1,3 +1,23 @@
+**MSM Xtended XQ Release-v7.0 Changelogs**
+
+- Updated Coral Build Fingerprint to March Security Patch
+- Updated Anx Cam to latest
+- Switched to Latest Immensity
+- Enable vibration multiple intensities
+* Activates some options on Settings>accessibility>vibration
+- Used USB audio policy configuration from AOSP
+* This can greatly improve audio quality when an external
+  USB DAC is connected
+- Fix dark theme issues
+* This brings SwitchBar widget inline with 10 and fixes the
+  theme issues when the dark mode is enabled
+- Updated vibrator configurations
+- Removed Ambient Display from Display Settings
+- Fixed the shitty HD icon in Statusbar
+- Fixed Ambient FC in Xtensions
+- Defined My Name Tag in About section 😎
+
+
 **MSM Xtended XQ Release-v6.0 Changelogs**
 
 * Added latest los fod changes
