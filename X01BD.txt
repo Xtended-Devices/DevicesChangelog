@@ -1,4 +1,8 @@
-• Upstreamed to 4.4.213
-• Compiled with latest clang 10.0.2
-• Merged latest Q CAF tag LA.UM.8.2.r1-05700-sdm660.0
-• Merged latest pie CAF tag LA.UM.7.2.r1-08200-sdm660.0 in qcacld-3.0,qca-wifi-host-cmn,fw-api
+**MSM Xtended XQ Release-v7.0 Changelogs**
+
+• Enforcing User Build
+• Upstreamed to 4.4.215
+• Compiled with latest clang 10.0.4
+• Merged latest Q CAF tag LA.UM.8.2.r1-06200-sdm660.0
+• Zenparts fixed fully
+• Added more kcal presets in Zenparts
