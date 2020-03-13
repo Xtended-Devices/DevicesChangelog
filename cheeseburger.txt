@@ -1,5 +1,19 @@
-** Cheeseburger Official Release XQ v6.0 Changelog **
+---------------------------------------------------------------------------
+** Cheeseburger Official Release XQ v7.0 Changelog **
+---------------------------------------------------------------------------
+* Added 9.0.11 blobs
+* Added Oneplus Camera with Portrait mod
+* Kernel Upstream to 4.4.216
+* Fixed Smart charging
+* Added Missing Dash Charging flag
+* Compiled with Clang 10.0.4
+* Import Google changes on DEC7 Volume on all mic paths 
+* Update fingerprint settings intent for 10 
+* Fixes P2P when connected to 5GHz access point
 
+----------------------------------------------------------------------------
+** Cheeseburger Official Release XQ v6.0 Changelog **
+----------------------------------------------------------------------------
 * Kernel Upstream to 4.4.213
 * Update media blobs from 'QQ1A.200105.007-515
 * Update libqmi_cci.so from 'QQ1A.200105.007-515
