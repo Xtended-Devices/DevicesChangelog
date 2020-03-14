@@ -1,3 +1,9 @@
+XQ 7.0:
+-:CLEAN FLASH IS HIGHLY RECOMMENDED:-
+- Fixed offline charging
+- improved smoothness
+- Added AptX/HD
+
 XQ 6.0:
 -:CLEAN FLASH IS HIGHLY RECOMMENDED:-
 - Enforcing SELinux
