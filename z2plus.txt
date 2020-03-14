@@ -11,6 +11,7 @@ Xq 6.0
 
 Xq 7.0
  *Se-Linux Enforcing
+ *Encryption
  *Compiled with latest clang 10.0.4
  *Airtel & Vodafone Volte Support added
  *Added FPS meter overlay
