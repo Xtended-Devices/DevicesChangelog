@@ -1,15 +1,12 @@
-* MotoActions: A brand new icon with teal background
-* MotoSettings: Disable Below Divider line
-* Fix Crash When Searching For Moto Actions
-* Prefer HW codec over SW for thumbnail
-* Fixed the incorrect frequencies in power profiles
-* Set use_sched_load to 0
-* Enable Q-Power and Deep sleep at the same time
-* libc2dcolorconvert.so from prebuilt
-* Update fingerprint and firmware blobs from OPS28.65-36-14
-* Update sensor blobs from OPSS28.65-36-14
-* Update framework jars from OPS28.65-36-14
-* Add msm_irqbalance configs
-* Update qcril database from stock OPS28.65-36-14 
-* Patch tinyalsa for Wifi Display
-* Minor Fixes and improvements
+- Sanders : (re-)enforce RRO on everything.
+- Switched  to FM2.
+- Switched to Snap Cam.
+- Exclude Snap overlays from RRO.
+- Add permissions for DTV and DTV working fine. 
+- Compiled with clang 10.0.3.
+- Increase no. of visible max notifications icons.
+- Added 3.0 IMapper instance.
+- Updated egl and vulkan drivers.
+- Added/ prebuilt qteeconnector blob from OPS28.65-36-14
+- Added NCI PN54x blob from stock OPS28.65-36-14
+- Misc Fixes and Changes
