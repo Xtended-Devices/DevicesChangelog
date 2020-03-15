@@ -1,3 +1,27 @@
+XQ 7.0:
+-:CLEAN FLASH IS HIGHLY RECOMMENDED:-
+- Update to March 2020 Security patch with Coral March2020 FP
+- Make Zram 2GB for all device variants
+- Add NotchOverlay from Xiaomi
+- Add NotchBar killer
+- Add memory optimizations
+- Add Energy Awareness services
+- Force Background tasks on little cpu cores
+- Enable Smart charging
+- Netflix HD playback capable
+- Enable Volte/VoWifi for a lot of carriers
+- Prefer HW codecs over SW codecs
+- Allow all apps to use Smart replies
+- Use same thermal node for CPU SysInfo like all kernel managers
+- 4GB dalvik-heap config
+- Fix lags on live Wallpapers
+- Add Back XiaomiParts with following features:
+  ** Kcal (Display colors controls) with lots of presets
+  ** Backlight Dimmer
+  ** Spectrum Profiles support
+  ** Thermal profiles support
+  ** Usb fast charging
+
 XQ 6.0:
 -:CLEAN FLASH IS HIGHLY RECOMMENDED:-
 - Update Genom-Magic Kernel to v1.35
