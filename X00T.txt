@@ -1,7 +1,5 @@
-** X00T Official Release XQ v6.0 Changelog **
+** X00T Official Release XQ v7.0 Changelog **
 
-* Improved Overall Sound Quality
-* Updated GPS From Stock
-* Enforcing 
-* Fixed AptX
+* Updated Stock Blobs To 061
+* Fixed Incall Speaker Mic (After Last Build's Audio Improvements)
 * Latest Stardust
