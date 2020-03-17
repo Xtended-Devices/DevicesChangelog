@@ -1,5 +1,6 @@
-Device changelogs
+Device changelogs for Build (17/3/2020)
 
+- Changed SELINUX Enforced to Permissive
 - Kernel upstreamed to latest
 - Gcam removed flash any gcam u like
 - Remove playground
