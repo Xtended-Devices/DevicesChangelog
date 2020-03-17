@@ -1,7 +1,16 @@
-Initial official build
-Dirac added
-Gcam+playground inbuilt
-Call recording overlay added
-Enbale volte/vowifi added for more carriers
-Azure kernel inbuilt
-Many more flash and check by your self
+Device changelogs
+
+- Kernel upstreamed to latest
+- Gcam removed flash any gcam u like
+- Remove playground
+- Custom modem removed
+- Smart charging enable and working now
+- Fps overlay added
+- Added maintaner name
+- Enable volte/vowifi for idea and digi malaysia
+
+
+
+
+
+
