@@ -1,3 +1,21 @@
+XQ 8.0:
+-:CLEAN FLASH IS A MUST:-
+- FBE encryption
+- Update to April 2020 Security patch with Coral April2020 FP
+- Update vendor blobs to LA.UM.8.6.2.r1-06600-89xx.0 caf tag
+- Fix some sepolicy bugs
+- Permissive selinux
+- Nuke non working Xiaomi parts settings
+- Upstream kernel to 4.9.218
+- Upstream kernel to caf tag LA.UM.8.6.2.r1-06900-89xx.0
+- Introduce Devfreq boost
+- Introduce Cpu Input boost
+- Introduce API to mark IRQs and kthreads as performance critical
+- Mark cpu boost, devfreq boost, Simple LMK, Touchscreen driver, 
+Audio driver, Wifi driver, Fingerprint scanner driver, Gpu driver, camera driver 
+as performance critical to boost performance
+- Introduce Dynamic stune thanks to vvr3ddy Sir
+
 XQ 7.0:
 -:CLEAN FLASH IS HIGHLY RECOMMENDED:-
 - Update to March 2020 Security patch with Coral March2020 FP
