@@ -1,12 +1,15 @@
-- Sanders : (re-)enforce RRO on everything.
-- Switched  to FM2.
-- Switched to Snap Cam.
-- Exclude Snap overlays from RRO.
-- Add permissions for DTV and DTV working fine. 
-- Compiled with clang 10.0.3.
-- Increase no. of visible max notifications icons.
-- Added 3.0 IMapper instance.
-- Updated egl and vulkan drivers.
-- Added/ prebuilt qteeconnector blob from OPS28.65-36-14
-- Added NCI PN54x blob from stock OPS28.65-36-14
-- Misc Fixes and Changes
+Enabled config_inflateSignalStrength.
+Force enable mobile network settings v2.
+Use handset-stereo-dmic-ef for camcorder-mic usecase.
+Limit background cpus used for better battery backup.
+Show Turbo Charging instead of Charging rapidly.
+Updated WFD blobs from LA.UM.8.6.r1-01900-89xx.0.
+Removed HD notification from status bar.
+Added CAF fmradio permission.
+Blob updates from deen_sprout 10.
+Partially update QMI from from LA.UM.8.6.r1-02600-89xx.0.
+Updated Peripheral from deen_sprout 10.
+Updated Thermal blobs from deen_sprout 10.
+Add FM blobs from deen sprout 10.
+Merged lastest tags in Kernel.
+Some fixes and improments for better performance.
