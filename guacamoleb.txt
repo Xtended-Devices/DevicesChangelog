@@ -1,0 +1,19 @@
+- FPS Info Overlay & Tile.
+- Add OnePlus Camera & Gallery from OOS 10.3.2.
+- Added single tap to touch screen gestures.
+- Updated to April Security patches.
+- Switch kernel to Mad7Series-kernel thanks to @mady51.
+- Used coral's April security patch FP (to pass safetynet).
+- Improved vibration.
+- Fixed Lag On Live Wallpapers.
+- Corrected Overlay are Perfect as in OOS.
+- Add Vibration & hapic strength, High, Medium, Low.
+- Auto Brightness Works a Little Better (still doesn't work very well in low light).
+- Enforcing.
+- Update blobs from OOS 10.3.2.
+- Relocate dashd to /system/bin.
+- Single tap for Ambient Display.
+- Updated fingerprint, description and security patch props from OOS 10.3.2.
+- Add Touchscreen Gesture controls.
+
+* Initial release
