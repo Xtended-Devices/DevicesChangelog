@@ -1,3 +1,10 @@
-~ Now official
-~ Updated blobs to 11.0.6.0
-~ Switch to Twisted kernel made by @TwistedPrime
+~ Update common blobs from MIUI v11.0.4.0 polaris
+~ Update kernel to TwistedKernel v25 built with clang 11
+~ USB ADB improvements
+~ More selinux denials fixed
+~ Under the hood improvements
+~ Enable H/W combosition
+~ ViLTE support for AirTEL
+~ Add WiFi configs from MemeUI
+~ Improved Display
+~ I am bored AF
