@@ -5,3 +5,4 @@
 - Kernel upstreamed to 4.9.218.
 - Enabled Vilte for Airtel.
 - Updated build fingerprint to MIUI v11.0.6.0.
+- Fixed ANX portrait.
