@@ -1,5 +1,7 @@
-XQ 7.0:
--: clean flash is recommened
-- upstream kernel to 4.9.216
-- removed trCamera
-- other things i cant remember
+XQ 8.0:
+-: MUST CLEAN FLASH
+- upstream kernel to 4.9.218
+- improve touch detection
+- rebase on new tree
+- bypass safetynet
+- other fixes and improvments
