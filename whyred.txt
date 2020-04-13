@@ -1,7 +1,16 @@
-**MSM Xtended XQ Release-v7.0 Device Changelogs**
+**MSM Xtended XQ Release-v8.0 Device Changelogs**
 
-* Initail Build by new maintainer
-* Enforcing Build
-* Shipped with Latest StormBreaker v4.4 HMP kernel
-* Added Xiaomi Parts
-* Switched to new cam blobs
+* Removed Xiaomi Parts
+* Switched to old cam blobs
+* Kernel Upstreamed to 4.4.218
+* Upstream Wireguard to v1.0.20200401
+* Disable GPU wake up on touch event
+* EXT4 optimizations
+* Merged LA.UM.8.2.r1-06300-sdm660.0 tag into kernel
+* Update wifi drivers from LA.UM.7.2.r1-08500-sdm660.0 caf tag
+* Added Mi cam
+* Fixed FPS counter
+* Fix Headset Mic for Google asst and some other apps
+* Optimized Console FrameBuffer for some Performance boost
+* Gcam fixes
+* Misc Changes
