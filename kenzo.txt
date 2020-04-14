@@ -1,0 +1,3 @@
+* Initial Release
+* Overlay Cleanup
+* Added Permissions for some Apps
