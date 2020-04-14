@@ -1,6 +1,7 @@
 **MSM Xtended XQ Release-v8.0 Device Changelogs**
 
 * Removed Xiaomi Parts
+* Fix app closing animation
 * Switched to old cam blobs
 * Kernel Upstreamed to 4.4.218
 * Upstream Wireguard to v1.0.20200401
