@@ -1,3 +1,7 @@
+XQ 8.0:
+-:CLEAN FLASH IS HIGHLY RECOMMENDED:-
+No new changes sed
+
 XQ 7.0:
 -:CLEAN FLASH IS HIGHLY RECOMMENDED:-
 - Fixed offline charging
