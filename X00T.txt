@@ -1,5 +1,6 @@
-** X00T Official Release XQ v7.0 Changelog **
+** X00T Official Release XQ v8.0 Changelog **
 
-* Updated Stock Blobs To 061
-* Fixed Incall Speaker Mic (After Last Build's Audio Improvements)
+* Reverted to source built hal: Fixes audio issues in some apps
+* Improved Speaker Volume
+* Fixed Hotspot
 * Latest Stardust
