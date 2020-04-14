@@ -1,14 +1,20 @@
-Device changelogs for Build (17/3/2020)
+Device changelogs for Build (14/04/2020)
 
-- Changed SELINUX Enforced to Permissive
-- Kernel upstreamed to latest
-- Gcam removed flash any gcam u like
-- Remove playground
-- Custom modem removed
-- Smart charging enable and working now
-- Fps overlay added
-- Added maintaner name
-- Enable volte/vowifi for idea and digi malaysia
+* Back to Enforce selinux
+* Fixed Dirac sound
+* Fixed FPS overlay not working with selinux Enforced 
+* Fixed CTS failed
+
+
+
+
+
+
+
+
+
+
+
 
 
 
