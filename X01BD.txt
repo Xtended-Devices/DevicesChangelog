@@ -1,8 +1,16 @@
-**MSM Xtended XQ Release-v7.0 Changelogs**
+**MSM Xtended XQ Release-v8.0 Changelogs**
 
-• Enforcing User Build
-• Upstreamed to 4.4.215
-• Compiled with latest clang 10.0.4
-• Merged latest Q CAF tag LA.UM.8.2.r1-06200-sdm660.0
-• Zenparts fixed fully
-• Added more kcal presets in Zenparts
+• Upstreamed kernel to 4.4.218
+• Compiled with latest proton clang 11.0.0
+• Merged latest Q CAF tag LA.UM.8.2.r1-06300-sdm660.0
+• Added TouchGestures in ZenParts (Works for NVT Touch Panels only)
+• Added LogTile (useful for taking logs when needed)
+• Added Ambient Display Gestures in ZenParts
+• Improved ZenParts theming
+• Update GPS HAL from LA.UM.8.2.r1-06200-sdm660.0
+• Sepolicies updated
+
+
+
+
+
