@@ -15,3 +15,10 @@ Xq 7.0
  *Compiled with latest clang 10.0.4
  *Airtel & Vodafone Volte Support added
  *Added FPS meter overlay
+
+Xq 8.0
+ *Compiled with clang 10.0.5
+ *Blobs update
+ *Added back ANT+
+ *Opt-in for QCOM surfaceflinger
+ *Under the hood bug fixes and improvements
