@@ -1,3 +1,13 @@
+** Xtended-hotdogb-20200415-XQ-Official-Beta-3_V8.0 Change log ** 
+• Remove Night mode from Device settings Panel
+• Remove FPS toggle
+• Added FPS via tile
+• Bump mad kernel version to V5
+• Much better auto brightness mode
+• Fixed screen flickering
+• Updated GCam, OOS cam & Gallery
+• Fix smart charging
+
 ** Xtended-hotdogb-20200311-XQ-Official-Beta-2_V7.0 Changelog **
 * Better outdoor brightness handling
 * Fixed Safetynet
