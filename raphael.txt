@@ -1,3 +1,15 @@
+**MSM Xtended XQ Release-v8.0 Changelogs**
+* Fixed DC Dimming
+* Added DC Dimming QS Tile
+* Added ringer mode checking for camera sound effect
+* FOD: Added dispparam handling mechanism as fallback
+* Fixed A2DP when offload is disabled 
+* Improved FOD on AOD
+* Enabled LED Notifications
+* Fixed MultiUser Section FC
+* Switched to April Crosshatch build fingerprint 
+* Switched to Latest Immensity Kernel
+
 **MSM Xtended XQ Release-v7.0 Changelogs**
 
 - Updated Coral Build Fingerprint to March Security Patch
