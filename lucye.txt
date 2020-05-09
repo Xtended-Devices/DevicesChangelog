@@ -1,0 +1,23 @@
+XQ 8.0:
+- Initial build
+
+XQ 9.0:
+Device changelog:
+- Update GPU drivers from daisy_sprout:A10
+- Updated Postproc blobs from daisy_sprout:A10
+- Updated Media blobs from daisy_sprout:A10
+- Updated Perf blobs from daisy_sprout:A10
+- Updated Peripheral Manager blobs from daisy_sprout:A10
+- Updated Thermal blobs from daisy_sprout:A10
+- Updated TimeService blobs from daisy_sprout:A10
+- Updated CNE & DPM blobs from daisy_sprout:A10
+- Updated parts of Telephony from daisy_sprout:A10
+- Fixed FPS tile
+- Sepolicy fixup
+
+Kernel changelog:
+- Reduced overheat & thermal throttle
+- Set CFQ IO sched as default
+- Improved stability & performance
+- Added WireGuard
+- Fixed charging icon bug
