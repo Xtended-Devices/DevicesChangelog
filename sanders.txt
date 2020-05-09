@@ -1,15 +1,14 @@
-Enabled config_inflateSignalStrength.
-Force enable mobile network settings v2.
-Use handset-stereo-dmic-ef for camcorder-mic usecase.
-Limit background cpus used for better battery backup.
-Show Turbo Charging instead of Charging rapidly.
-Updated WFD blobs from LA.UM.8.6.r1-01900-89xx.0.
-Removed HD notification from status bar.
-Added CAF fmradio permission.
-Blob updates from deen_sprout 10.
-Partially update QMI from from LA.UM.8.6.r1-02600-89xx.0.
-Updated Peripheral from deen_sprout 10.
-Updated Thermal blobs from deen_sprout 10.
-Add FM blobs from deen sprout 10.
-Merged lastest tags in Kernel.
-Some fixes and improments for better performance.
+Compiled with libqti_vndfwk_detect 
+Disable DiscoveryService to improve WIFI speeds on few variants
+Removed time_daemon
+Moved extra symlinks to board
+Kang vndk-sp from marlin android-10.0.0_r35 
+Fixup proprietary-files list
+Fixed Chorme crashing
+Fixed time rest on reboots
+Fixed NFC broken on previous build
+Updated blobs and cleanup from vendor
+Update WFD from daisy Q
+Process decrease task freezing timeout
+Implementation of Adreno Idler for MSM8953
+Misc changes, bug fixes etc
