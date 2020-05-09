@@ -1,3 +1,14 @@
+XQ 9.0
+-:CLEAN FLASH IS A MUST:-
+- FBE encryption
+- Update to May 2020 Security patch with Coral May2020 FP
+- Fix all the bugs found in XQ 8.0
+- Introduce Spectrum Intelligent profile with Screen off Ultra power saving mode
+- Upstream kernel to 4.9.222
+- Upstream kernel to CAF Tag LA.UM.8.6.2.r1-07100-89xx.0
+- A lot of Kernel optimization that assures smoothness and battery saving
+- Enforcing vbmeta (no need to flash vbmeta anymore)
+
 XQ 8.0_2
 - If you are updating from v7.0 then you have to clean flash
 - If you are updating from v8.0 then you can dirty flash
