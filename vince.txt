@@ -1,5 +1,6 @@
 XQ 9.0:
 -: MUST CLEAN recommend
+- now enforce
 - upstream kernel to 4.9.222
 - fix dual data sim
 - adder prebuilt cameraGo
