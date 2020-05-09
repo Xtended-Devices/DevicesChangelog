@@ -1,13 +1,15 @@
-(04/19/2020)
-- Dpmservice.apk from LA.UM.8.2.r1-05700-sdm660.0
-- Remove runtime background blkio
-- CAF flags for SF
-- Use Wifi from MIUI Q
-- FBE Encryption
-- Update blobs from LA.UM.8.2.r1-06300-sdm660.0
-- Update audio config from LA.UM.8.2.r1-05100-sdm660.0
-- Update power_profile from jasmine
-- Update post_boot from latest CAF
-- Remove runtime background blkio
-- Some miscellaneous changes and fixes
-- Kernel 4.4.153-perf+ from MoKee
+(05/09/2020)
+- Enable DFS channel scanning in P2P search
+- WiFi and RIL Improvements
+- Update keystore from davinci
+- Enable HW QSInfo overlay
+- Enable FPS Info Tile overlay
+- Use thermal from lavender 11.0.4.0
+- Proper label of some system props
+- SEpolicy clean up
+- Disable VSync for CPU rendered apps
+- Clean up XiaomiParts
+- Reverted power_profile from jasmine
+- Update blobs from LA.UM.8.2.r1-06500-sdm660.0
+- Genom Kernel as Default kernel (4.4.217)
+- Some misc changes and improvements
