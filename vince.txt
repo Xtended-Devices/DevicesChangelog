@@ -1,7 +1,7 @@
-XQ 8.0:
--: MUST CLEAN FLASH
-- upstream kernel to 4.9.218
-- improve touch detection
-- rebase on new tree
-- bypass safetynet
-- other fixes and improvments
+XQ 9.0:
+-: MUST CLEAN recommend
+- upstream kernel to 4.9.222
+- fix dual data sim
+- adder prebuilt cameraGo
+- update blobs
+- others changes i cant remember
