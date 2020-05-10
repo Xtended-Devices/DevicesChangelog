@@ -1,5 +1,8 @@
 XQ 9.0:
--: MUST CLEAN recommend
+-: CLEAN FLASH RECOMMEND
+ 10/05/2020
+- fixed videos lags
+ 09/05/2020
 - now enforce
 - upstream kernel to 4.9.222
 - fix dual data sim
