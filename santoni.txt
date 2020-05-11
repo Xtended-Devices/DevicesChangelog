@@ -1,8 +1,11 @@
-**MSM Xtended XQ Release-v8.0 Changelogs - Redmi 4/4X (Santoni)**
+**MSM Xtended XQ Release-v9.0 Changelogs - Redmi 4/4X (Santoni)**
 
-• Updated ADSP, Audio/ACDB, Bluetooth, Charger, DRM/TEE, Perf, PM, WFD & GPS blobs from LA.UM.8.6.r1-04000-89xx.0
-• Updated Wi-fi and Keymaster blobs from Panther
-• Resolve QSEECOM dependences
-• Import partial IMS blobs from daisy
-• XiaomiAddon: Added Log QS Tile
+• Selinux Enforcing
+• Upstreamed kernel to 4.9.222
+• Updated FM, Sensors, QMI,/Radio/IMS, Wi-FI from  tissot-10.0.20.0.PDHMIXM
+• Import Perf IOP blobs from from LA.UM.8.6.r1-04000-89xx.0
+• Cleanup unused 32-bit blobs
+• Updated post boot scripts, ueventd and config.fs from LA.UM.8.6.2.r1-07100-89xx.0
+• Import data-ipa-cfg-mgr from LA.UM.8.6.2.r1-07100-89xx.0
+• Updated privapp-permissions
 • Misc. Fixes and Improvements
