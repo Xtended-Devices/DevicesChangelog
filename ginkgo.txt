@@ -1,0 +1,5 @@
+XQ v9:
+* Initial official Unified build
+* Trinket-devs tree
+* QuickSilveR kernel (Thanks @ghostrider_reborn)
+* No ANXCamera or Gapps included
