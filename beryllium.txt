@@ -1,8 +1,9 @@
-- First Official build.
-- Fixed FPS info overlay.
-- Added Face Unlock.
-- Removed Mirror Link service.
-- Kernel upstreamed to 4.9.218.
-- Enabled Vilte for Airtel.
-- Updated build fingerprint to MIUI v11.0.6.0.
-- Fixed ANX portrait.
+- Fixed Smart Charging
+- Added F2FS support
+- Using vulkan for UI rendering
+- Removed face unlock
+ Kernel changes
+- Upstreamed kernel to 4.9.221
+- Added KCAL/Klapse support 
+- Added boeffla wakelock blocker
+- Default TCP Algorithm is now westwood
