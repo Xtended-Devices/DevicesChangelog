@@ -1,3 +1,14 @@
+XQ 9.0:
+***YOU MUST CLEAN FLASH***
+- Removed Face unlock
+- Encryption works (backup your data before encrypting)
+- Fixed Slow GPS locking
+- SysUI/Apps crashing should now be gone (let me know if it's not)
+- Fixed bootloop when restoring a Nandroid backup
+- Fixed incorrect time/clock
+- Now you can flash nano gapps
+- Under-the-hood improvements and fixes
+
 XQ 8.0:
 -:CLEAN FLASH IS HIGHLY RECOMMENDED:-
 No new changes sed
