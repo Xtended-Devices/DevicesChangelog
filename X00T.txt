@@ -1,6 +1,4 @@
-** X00T Official Release XQ v8.0 Changelog **
+** X00T Official Release XQ v9.0 Changelog **
 
-* Reverted to source built hal: Fixes audio issues in some apps
-* Improved Speaker Volume
-* Fixed Hotspot
+* Merged 063
 * Latest Stardust
