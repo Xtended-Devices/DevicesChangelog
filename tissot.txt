@@ -6,3 +6,8 @@
 * Fixed Miracast
 * Fixed AUX
 * Updated aptX blobs from crosshatch
+
+** Tissot Official Release XQ v9.0 Changelog **
+
+* Kernel Upstreamed to 4.9.220
+* Updated Blobs
