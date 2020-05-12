@@ -1,17 +1,18 @@
-**MSM Xtended XQ Release-v8.0 Device Changelogs**
+**MSM Xtended XQ Release-v9.0 Device Changelogs**
 
-* Removed Xiaomi Parts
-* Fix app closing animation
-* Switched to old cam blobs
-* Kernel Upstreamed to 4.4.218
-* Upstream Wireguard to v1.0.20200401
-* Disable GPU wake up on touch event
-* EXT4 optimizations
-* Merged LA.UM.8.2.r1-06300-sdm660.0 tag into kernel
-* Update wifi drivers from LA.UM.7.2.r1-08500-sdm660.0 caf tag
-* Added Mi cam
-* Fixed FPS counter
-* Fix Headset Mic for Google asst and some other apps
-* Optimized Console FrameBuffer for some Performance boost
-* Gcam fixes
-* Misc Changes
+* Fixed smart charging
+* Use 8 icons in statusbar
+* Fix status bar padding
+* Add overlay for smart replies
+* Add HW QSInfo Overlay
+* Enable display burn-in-protection in Ambient Display
+* Kernel Upstreamed to 4.4.223
+* Upstream Wireguard to v1.0.20200506Merge tag 'LA.UM.8.2.r1-06200-sdm660.0'
+* Merge tag 'LA.UM.8.2.r1-06300-sdm660.0'
+* Merge tag 'LA.UM.8.2.r1-06500-sdm660.0'
+* Merge tag 'LA.UM.8.2.r2-01300-sdm660.0'
+* Update Wifi drivers from 'LA.UM.7.2.r3-00900-sdm660.0'
+* Enable Power Suspend
+* Enable CPU cooling by declaring cooling-cells
+* add sound control(mic and headphone gain)
+* Some cleanup and many forgetten Changes
