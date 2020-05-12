@@ -1,9 +1,14 @@
-Device changelogs for Build (14/04/2020)
+Device changelogs for Build (12/05/2020)
 
-* Back to Enforce selinux
-* Fixed Dirac sound
-* Fixed FPS overlay not working with selinux Enforced 
-* Fixed CTS failed
+
+• Added ANX camera (tq to @athuld)
+• Misc Audio Improvements
+• Azure kernel Upstreamed 
+• Use vulkan for UI rendering
+• Updated Build FP to May patch
+
+
+
 
 
 
