@@ -22,3 +22,11 @@ Xq 8.0
  *Added back ANT+
  *Opt-in for QCOM surfaceflinger
  *Under the hood bug fixes and improvements
+
+Xq 9.0
+ * Press Home to Wake Fixed
+ * Tweak Thermal Cofig
+ * Wifi Display Fixed 
+ * Use Inverted Current in Lockscreen Charging
+ * Add aptX Blobs back in vendor
+ * Misc Fixes and improvements
