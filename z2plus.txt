@@ -10,18 +10,18 @@ Xq 6.0
  * Added back Navbar so navbar gestures will work if you dont love navbar you can hide the pill too 
 
 Xq 7.0
- *Se-Linux Enforcing
- *Encryption
- *Compiled with latest clang 10.0.4
- *Airtel & Vodafone Volte Support added
- *Added FPS meter overlay
+ * Se-Linux Enforcing
+ * Encryption
+ * Compiled with latest clang 10.0.4
+ * Airtel & Vodafone Volte Support added
+ * Added FPS meter overlay
 
 Xq 8.0
- *Compiled with clang 10.0.5
- *Blobs update
- *Added back ANT+
- *Opt-in for QCOM surfaceflinger
- *Under the hood bug fixes and improvements
+ * Compiled with clang 10.0.5
+ * Blobs update
+ * Added back ANT+
+ * Opt-in for QCOM surfaceflinger
+ * Under the hood bug fixes and improvements
 
 Xq 9.0
  * Press Home to Wake Fixed
