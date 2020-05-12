@@ -1,16 +1,7 @@
-Device Changelogs:-
-• SELinux Enforcing
-• Fixed Dirac
-• All Latest Changes Merged From Zeelog Trees
-• Updated GPS/Wifi Display/MediaThermal/Sensors/Perf/Widevine Blobs From LA.UM.8.6.r1-04000-89xx.0
-• Added LMKD Props
-• Tweaks For Better Ram Management
-• Improved Xiaomi Parts
-• Video Lag Fixed
-• Ambient Fixed
-• Hypercam Crash Fixed (For Some Users There was an issue)
-• Add Netflix-Specific prop
-• Xiaomi Parts Fixed Dark Theme Issue
-• Added Google AR Support
-• Fixed Reading And Night Mode
-• Some Underhood Optimizations
+• Added DolbySound 
+• Added USB Fast Charging Toggle In Xiaomi Parts
+• Added Speaker Gain In Xiaomi Parts
+• Added Spectrum QS Tile
+• Showing Exact Value Of Lockscreen Charging Info
+• Overlay For Intelligent Profile
+• Fixed Screen Burning Issues For Tianma Display Panels
