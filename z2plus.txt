@@ -29,4 +29,5 @@ Xq 9.0
  * Wifi Display Fixed 
  * Use Inverted Current in Lockscreen Charging
  * Add aptX Blobs back in vendor
+ * Moved Qti_Telephony.jar to product as it gave reboot to recovery 
  * Misc Fixes and improvements
