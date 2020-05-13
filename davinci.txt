@@ -1,5 +1,2 @@
-Fixed AOD auto brightness
-Udated ANX camera
-Fixed microphone on WhatsApp
-Updated blobs to 11.0.5.0
-Use modified ims.apk to remove "HD capable" notification
+New device tree with custom vendor
+selinux enforcing
