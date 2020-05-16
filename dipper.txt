@@ -1,10 +1,6 @@
-~ Update common blobs from MIUI v11.0.4.0 polaris
-~ Update kernel to TwistedKernel v25 built with clang 11
-~ USB ADB improvements
-~ More selinux denials fixed
-~ Under the hood improvements
-~ Enable H/W combosition
-~ ViLTE support for AirTEL
-~ Add WiFi configs from MemeUI
-~ Improved Display
-~ I am bored AF
+~ Use Pixel powerhal & powerstats
+~ Enable Atrace hal
+~ Audio improvements
+~ Update blobs from MIUI 11.0.3.0.QEAMIXM
+~ Build with Simple Kernel v1.9
+* Double Tap to Wake is broken for now *
