@@ -1,2 +1,5 @@
 New device tree with custom vendor
 selinux enforcing
+Fixed QS bug
+Fixed voWiFi
+Other additions and improvements
