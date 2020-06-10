@@ -1,5 +1,6 @@
-New device tree with custom vendor
-selinux enforcing
-Fixed QS bug
-Fixed voWiFi
+Update bobs from MIUI 12.0.0.11
+Enable FPS Info
+Fixed VoWifi
+Fixed handsfree bug
+Improved recording quality
 Other additions and improvements
