@@ -1,3 +1,44 @@
+XQ 10.0
+✔Update to Upstreamed sources for June 2020 Security Patch
+✔Update to June 2020 Coral fingerprint
+✔Tune Spectrum profiles:-
+  - Battery profile: conservative cpu governor
+  - Balanced profile:
+    * Set 725 Mhz GPU frequency
+    * Set AdrenoBoost to High
+    * Set BFQ I/O Scheduler
+  - Gaming profile:
+    * Set performance cpu governor
+    * Set Zen I/O Scheduler
+✔Update Wifi blobs to CAF TAG LA.UM.8.6.2.r1-06600-89xx.0
+✔Update Graphics stack blobs to CAF TAG LA.UM.8.6.2.r1-06600-89xx.0
+✔Downgrade SDM blobs to CAF TAG LA.UM.8.6.2.r1-03700-89xx.0
+✔Update AutoBrightness overlay from MIUI V11.0.3.0
+✔Remove HD notification for VoLTE
+✔Fix Smart Charging
+✔Bluetooth Hal V2 with A2DP Offload
+✔Fix FM Radio
+✔Update blobs OpenGL-ES-3.2-V@454.0_treble
+✔Update blobs vulkan 1.1.128_treble
+✔Set proper properties for new Vulkan driver
+✔Add Battery Health overlay
+✔Show correct device and model name
+✔Add Surround recording
+✔Sync Xiaomi changes for Audio
+✔Fix installation of Gapps without Magisk flashing
+✔Camera:-
+  - Update to ANX v180
+  - Update Camera blobs from Miui 11.0.8
+  - Fix bokeh mode
+  - Fix Beauty filters
+  - Fix Short video recording filters
+** Known bugs for Camera right now normal photo filters and Text HDR
+✔Update Genom-Magic to v1.8
+  - Increase Swappiness to 100%
+  - Decrease SLMK Minfree to 64 mb
+  - Increase Reclaim timeout to 400 ms
+✔Lower Thermal settings for less heating
+
 XQ 9.0
 -:CLEAN FLASH IS A MUST:-
 - FBE encryption
