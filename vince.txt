@@ -1,5 +1,6 @@
-XQ 9.0:
+XQ 10 :
 -: CLEAN FLASH RECOMMEND
  upstrem kernel
  fix fps not showing
  bumb to v10
+ other fixed and improves
