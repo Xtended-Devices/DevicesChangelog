@@ -1,3 +1,12 @@
+** Xtended-hotdogb-20200509-XQ-Official-v9.0 Changelog **
+* Update fod hal to 1.1
+* Updated OOS cam from OxygenOS 10.3.2
+* Updated GCam to Urnyx-v1.9
+* Beautify Device settings
+* Added single Tap to pulse notification & allow FP unlock
+* Added auto brightness mode
+* Updated MadKernel to V-14
+
 ** Xtended-hotdogb-20200415-XQ-Official-Beta-3_V8.0 Change log ** 
 • Remove Night mode from Device settings Panel
 • Remove FPS toggle
