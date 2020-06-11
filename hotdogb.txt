@@ -1,4 +1,4 @@
-** Xtended-hotdogb-20200509-XQ-Official-v9.0 Changelog **
+** Xtended-hotdogb-20200611-XQ-Official-v10 Changelog **
 * Update fod hal to 1.1
 * Updated OOS cam from OxygenOS 10.3.2
 * Updated GCam to Urnyx-v1.9
