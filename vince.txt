@@ -1,11 +1,5 @@
 XQ 9.0:
 -: CLEAN FLASH RECOMMEND
- 10/05/2020
-- fixed videos lags
- 09/05/2020
-- now enforce
-- upstream kernel to 4.9.222
-- fix dual data sim
-- adder prebuilt cameraGo
-- update blobs
-- others changes i cant remember
+ upstrem kernel
+ fix fps not showing
+ bumb to v10
