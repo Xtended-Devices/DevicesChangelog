@@ -1,11 +1,12 @@
 Device changelogs for Build (12/05/2020)
 
 
-• Added ANX camera (tq to @athuld)
-• Misc Audio Improvements
-• Azure kernel Upstreamed 
-• Use vulkan for UI rendering
-• Updated Build FP to May patch
+• Dropped ANXCamera
+• Azure Kernel Upstreamed
+• Update Build FP to June Patch
+
+
+
 
 
 
