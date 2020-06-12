@@ -1,5 +1,5 @@
 Update bobs from MIUI 12.0.0.11
-ANX camera v183
+update OpenGL & Vulkan blobs
 Enable FPS Info
 Fixed VoWifi
 Fixed handsfree bug
