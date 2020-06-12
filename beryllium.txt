@@ -1,9 +1,6 @@
-- Fixed Smart Charging
-- Added F2FS support
-- Using vulkan for UI rendering
-- Removed face unlock
- Kernel changes
-- Upstreamed kernel to 4.9.221
-- Added KCAL/Klapse support 
-- Added boeffla wakelock blocker
-- Default TCP Algorithm is now westwood
+- Reverted back to OpenGL (Fixed video lag issue)
+- Added per-app thermal profiles
+- Added dirac
+- Added battery health overlays
+- Upstreamed kernel to 4.9.225
+- Other misc changes
