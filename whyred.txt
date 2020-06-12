@@ -44,3 +44,4 @@
 * Update Wi-Fi drivers from 'LA.UM.7.2.r1-08800-sdm660.0' caf tag
 * Update wireguard to 1.0.20200611 snapshot
 * Many more forgatten and misc changes
+* Fix mobile network crash in settings
