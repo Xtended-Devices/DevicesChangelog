@@ -1,15 +1,14 @@
-(05/09/2020)
-- Enable DFS channel scanning in P2P search
-- WiFi and RIL Improvements
-- Update keystore from davinci
-- Enable HW QSInfo overlay
-- Enable FPS Info Tile overlay
-- Use thermal from lavender 11.0.4.0
-- Proper label of some system props
-- SEpolicy clean up
-- Disable VSync for CPU rendered apps
-- Clean up XiaomiParts
-- Reverted power_profile from jasmine
-- Update blobs from LA.UM.8.2.r1-06500-sdm660.0
-- Genom Kernel as Default kernel (4.4.217)
-- Some misc changes and improvements
+(06/12/2020)
+- FBE Build
+- Enforcing Build
+- Wifi Configs from CAF
+- Fix Blurry Icons
+- Stop some bluetooth logspam
+- QCOM Audio Implementation
+- Update Display Blobs
+- Moved FPS info from XiaomiParts to QS tiles
+- Sepolicy clean up
+- SDM Blobs from LA.UM.8.2.r1-06500-sdm660.0
+- Switch to Predator StormBreaker (Thanks sir @predatorx91)
+- Thanks to @REDRUMrn7 @RubenTkato @Kornbip73 for testing and support
+- NOTE: CLEAN FLASH IS MANDATORY
