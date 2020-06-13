@@ -1,7 +1,7 @@
-• Added DolbySound 
-• Added USB Fast Charging Toggle In Xiaomi Parts
-• Added Speaker Gain In Xiaomi Parts
-• Added Spectrum QS Tile
-• Showing Exact Value Of Lockscreen Charging Info
-• Overlay For Intelligent Profile
-• Fixed Screen Burning Issues For Tianma Display Panels
+• Latest Changes Merged From Zeelog Trees
+• Added DolbySound
+• Fixed Wifi Reboot Issue
+• Added LogTile in XiaomiParts
+• Added Some Props For Smoother UI
+• Removed HD Logo
+• Fixed ScreenBurning Issue for Tianma Display Panels
