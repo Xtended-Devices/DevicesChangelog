@@ -1,4 +1,10 @@
-** X00T Official Release XQ v9.0 Changelog **
+** X00T Official Release XQ v10 Changelog **
 
-* Merged 063
+* New trees brought up from stock Q
+* Fixed Vowifi
+* Fixed Tether offloading
+* Cleanup some logspams
 * Latest Stardust
+* Fixed Smart charging
+* Fixed VILTE for JIO
+* ZenParts with Fps info
