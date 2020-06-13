@@ -1,5 +1,6 @@
 XQ v10:
 **CLEAN FLASH IS REQUIRED**
+**OTA WON'T BE PUSHED**
 - Fixed Aux and HDR+
 - Fixed Offline charging (Power off charging)
 - upstreamed kernel to 183
