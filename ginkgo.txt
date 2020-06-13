@@ -1,3 +1,21 @@
+XQ v10:
+**CLEAN FLASH IS REQUIRED**
+- Fixed Aux and HDR+
+- Fixed Offline charging (Power off charging)
+- upstreamed kernel to 183
+- Removed input boost (less overheating + Better battery)
+- WireGuard included
+- Updated thermal config for faster charging
+- ANXCamera included
+- Under-the-hood improvements and fixes
+Credits:
+@ghostrider_reborn for Aux fix
+Dyneteve for HDR+ fix
+Lenovoved for cam libs
+STRIX247 for thermal config
+@smxdfx and other testers for testing
+
+
 XQ v9:
 * Initial official Unified build
 * Trinket-devs tree
