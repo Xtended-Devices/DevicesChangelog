@@ -1,0 +1,9 @@
+** tulip Official Release XQ v10 Changelog **
+
+(06/14/2020)
+-First official build!
+- FBE Build
+- Enforcing Build
+- Ship with Mystic X1.9 Kernel as default
+- Add battery healt permission & overlay
+- Update to Coral's June fingerprint
