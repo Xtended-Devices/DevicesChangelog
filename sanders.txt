@@ -1,14 +1,4 @@
-Compiled with libqti_vndfwk_detect 
-Disable DiscoveryService to improve WIFI speeds on few variants
-Removed time_daemon
-Moved extra symlinks to board
-Kang vndk-sp from marlin android-10.0.0_r35 
-Fixup proprietary-files list
-Fixed Chorme crashing
-Fixed time rest on reboots
-Fixed NFC broken on previous build
-Updated blobs and cleanup from vendor
-Update WFD from daisy Q
-Process decrease task freezing timeout
-Implementation of Adreno Idler for MSM8953
-Misc changes, bug fixes etc
+Fixed broken FM.
+Updated DTV.
+Fixed heating issues.
+Misc improvements.
