@@ -1,3 +1,8 @@
+** Dumpling Official Release XQ v10.0 Changelog **
+
+* Updated blobs to Android 10
+
+
 ** Dumpling Official Release XQ v6.0 Changelog **
 
 * Kernel Upstream to 4.4.213
