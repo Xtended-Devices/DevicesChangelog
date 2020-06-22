@@ -1,1 +1,2 @@
-* First Official build by me
+* Updated kernel to Optimus Drunk v10.11
+* Fixed call recording
