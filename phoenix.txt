@@ -1,2 +1,2 @@
-* Updated kernel to Optimus Drunk v10.11
-* Fixed call recording
+* Xtended 10.5 Release
+* Forgot to mention white screen issue is fixed
