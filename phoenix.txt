@@ -1,2 +1,1 @@
-* Xtended 10.5 Release
-* Forgot to mention white screen issue is fixed
+* Quick bugfix update for qs styles
