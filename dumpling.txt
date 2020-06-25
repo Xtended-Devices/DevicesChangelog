@@ -1,5 +1,15 @@
-** Dumpling Official Release XQ v10.0 Changelog **
+---------------------------------------------------------------------------
+** Dumpling Official Release XQ v10.5 Changelog **
+---------------------------------------------------------------------------
+* Updated blobs to Android 10 hotfix
+* Kernel upstreamed to 4.4.228
+* Enforcing now
+* Added Automatic High brightness mode (Oneplus Shit)
+* Removed Duplicate ambientdisplay from settings
 
+---------------------------------------------------------------------------
+** Dumpling Official Release XQ v10.0 Changelog **
+---------------------------------------------------------------------------
 * Updated blobs to Android 10
 
 
