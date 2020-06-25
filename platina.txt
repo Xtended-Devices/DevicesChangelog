@@ -1,15 +1,11 @@
-* XQ v10 ( 12/06/2020 )
+* XQ v10.5 ( 25/06/2020 )
 
-* Update to Upstreamed sources for June 2020 Security Patch
-* Now use Morph-Limited 4.4.227
-* Update Notch height
-* Update powerhint for better performance
-* Add GPU nodes,  GPU launch hint
-* Import blkio tunable from mata
-* Configure schedutil
-* Enable zygote preforking ( faster opening app )
-* Make UI more smooth
-* Update Coral june security patch
-* Disable ULL audio mode
-* Added Battery Health Overlays
-* Enable sys.use_fifo_ui for EAS
+- Morph-Limited 4.4.228
+- Introduce safailnet
+- Adjust cpubw bwmon value
+- Remap headset key
+- Add bt acdb for voip apps
+- Use lz4 for compression
+- Import irqbalance from caf
+- Enable procced reclaim
+- Add hostapd configuration files from caf
