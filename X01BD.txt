@@ -1,9 +1,16 @@
-**MSM Xtended XQ Release-v10.0 Changelogs**
+**MSM Xtended XQ Release-v10.5 Changelogs**
 
-• Upstreamed kernel to 4.4.226
-• Compiled with latest proton clang 11.0.0
-• Merged latest Q CAF tag LA.UM.8.2.r1-06700-sdm660.0
-• Switched to SLMK(Simple Low Memory Killer)
+• Kernel upstreamed to 4.4.228
+• Compiled with latest proton clang 11.0.0 
+• Switched back to ALMK
+• Dolby removed
+• Added Touchboost toggle in ZenParts
+• Added CPU & GPU Boosts in ZenParts
+• Added CPU & GPU QS tiles in ZenParts
+• Added Selinux Switch in ZenParts
+
+
+
 
 
 
