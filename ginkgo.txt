@@ -1,3 +1,6 @@
+XQ v10.5:
+- Fixed Screen recording
+
 XQ v10:
 **CLEAN FLASH IS REQUIRED**
 **OTA WON'T BE PUSHED**
