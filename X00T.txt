@@ -1,10 +1,7 @@
-** X00T Official Release XQ v10 Changelog **
+** X00T Official Release XQ v10.5 Changelog **
 
-* New trees brought up from stock Q
-* Fixed Vowifi
-* Fixed Tether offloading
-* Cleanup some logspams
-* Latest Stardust
-* Fixed Smart charging
-* Fixed VILTE for JIO
-* ZenParts with Fps info
+* Fixed audio cracks in games with earphones
+* Fixed Wifi Display / Screen Cast
+* Fixed internal audio recording
+* Fixed issue with auto rotation
+* All Zenmotion Gestures will vibrate only if they are enabled and assigned
