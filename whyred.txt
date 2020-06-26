@@ -1,47 +1,10 @@
-**MSM Xtended XQ Release-v10.0 Device Changelogs**
-
-* Update ADSP - from LA.UM.8.2.r1-05100-sdm660.0
-* Update ANT+ - from LA.UM.8.2.r1-06300-sdm660.0
-* Update Audio - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM
-* Update Bluetooth - from LA.UM.8.2.r1-06300-sdm660.0
-* Updaet Camera blobs from whyred-user-9-PKQ1.180904.001-V10.3.5.0.PEICNXM-release-keys (Still Old libs)
-* Update CDSP - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM release-keys
-* Update CNE - from LA.UM.8.2.r1-06300-sdm660.0
-* Update DPM - from LA.UM.8.2.r1-06300-sdm660.0
-* Update DRM and SEE - from LA.UM.8.2.r1-06300-sdm660.0
-* Update ESE-Powermanager - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM release-keys
-* Update FM - from lavender-user-10-QKQ1.190910.002-20.5.28-release-keys
-* Update GPS - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM release-keys
-* Update GPU firmware - from jasmine-user-10-QKQ1.190910.002-V11.0.4.0.QDIMIXM
-* Update Graphics - from LA.UM.8.2.r1-06300-sdm660.0
-* Update IOP - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM release-keys
-* Update Listen - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM release-keys
-* Update Media - from LA.UM.8.2.r1-06300-sdm660.0
-* Update Perf - from Taimen QP1A.190711.020
-* Update Peripheral manager - from LA.UM.8.2.r1-06300-sdm660.0
-* Update Postprocessing - from LA.UM.8.2.r1-05100-sdm660.0
-* Update QMI - from LA.UM.8.2.r1-05100-sdm660.0
-* Update Radio - from LA.UM.8.2.r1-05100-sdm660.0
-* Update Radio - IMS - from LA.UM.8.2.r1-05100-sdm660.0
-* Update Soter - from jasmine-user-10-QKQ1.190910.002-V11.0.4.0.QDIMIXM
-* Update SSR - from LA.UM.8.2.r1-06300-sdm660.0
-* Update Thermal - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM release-keys
-* Update Time services - from LA.UM.8.2.r1-06300-sdm660.0
-* Update Wifi - from LA.UM.8.2.r1-06200-sdm660.0
-* Update Wi-Fi Display - from LA.UM.8.2.r1-06300-sdm660.0
-* Finetune mediacodec performance values.
-* Set zRam disk size to 50% of RAM size.
-* Update QtiRadio HAL to Version 2.4
-* Import tunables/cpusets from coral
-* Added back Xiaomi Dirac 
-* Added Dirac as a QS tile with MD2 icon
-* Enable adaptive brightness by default
-* Keep bluetooth disabled on first boot
-* Upstreamed kernel from 4.4.223 to 4.4.226
-* Merge tag 'LA.UM.8.2.r2-01900-sdm660.0' into the kernel
-* Merge tag 'LA.UM.8.2.r1-06600-sdm660.0' into the kernel
-* Merge tag  LA.UM.8.2.r1-06700-sdm660.0 into the kernel
-* Update Wi-Fi drivers from 'LA.UM.7.2.r1-08800-sdm660.0' caf tag
-* Update wireguard to 1.0.20200611 snapshot
-* Many more forgatten and misc changes
-* Fix mobile network crash in settings
+**MSM Xtended XQ Release-v10.5 Device Changelogs**
+- Kernel upstreamed to 4.4.288
+- Merge tag 'LA.UM.8.2.r1-06900-sdm660.0' into the kernel
+- Update wireguard to 1.0.20200623 snapshot
+- Added Speaker and earpeice gain
+- Reworked some stuff in DT to fix ViLTE for some carriers
+- Checkout carrier config from lavender-user-10-QKQ1.190910.002-20.5.28-release-keys
+- Enable CRYPTOLZ4 and CRYPTOLZ4HC for zRAM compression
+- Staging/qcacld-3.0 : Fall back to LA.UM.7.2.r3-00900-sdm660.0 caf tag
+- A ton of misc and forgotten changes
