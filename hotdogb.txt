@@ -1,3 +1,14 @@
+** Xtended-hotdogb-20200626-XQ-Official-v10.5 Changelog **
+* Switch to libFOD extensions
+* Fixed adaptive brightness
+* Disable RX wakelock feature
+* wifi: smarter decisions on whether to use a 2- or 5Ghz AP
+* Update GCam to 7.3.018 Urnyx05-v2.0 
+* Updated OP CAM from OOS 10.3.3 
+* Built with Proton Clang
+* Mad kernel v18
+* Improved idle drain
+
 ** Xtended-hotdogb-20200611-XQ-Official-v10 Changelog **
 * Update fod hal to 1.1
 * Updated OOS cam from OxygenOS 10.3.2
