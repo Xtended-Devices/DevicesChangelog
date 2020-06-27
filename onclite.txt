@@ -1,3 +1,12 @@
+XQ V10.5
+- Sync Rom sources with all the new features & bug fixes
+- Don't set Rollback index (to be able to relock bootloader for new users)
+- Update ANXCamera to V184 and integrate into release tools to push configuration files to Sdcard
+- Fix fingerprint shutter integrated into system now
+- Import media codec and media profiles from Miui
+- Make heap size depending on Ram size
+- Compile Kernel with Clang 11
+
 XQ 10.0
 ✔Update to Upstreamed sources for June 2020 Security Patch
 ✔Update to June 2020 Coral fingerprint
