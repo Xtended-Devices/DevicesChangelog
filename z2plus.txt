@@ -37,3 +37,12 @@ Xq 10.0
  * Compile with clang 11.0.2
  * Thermal improvements special thanks to @subhajeetmuhuri
  * List aptX blobs
+
+Xq 10.5
+ * Switch to Pop The Corns 4.4.228 kernel by @aswin_a_s
+ * Compiled using clang 11.0.3
+ * Added Cpu info overlay
+ * Fixed front cam green tint in gcam thanks to @nullby
+ * Update build fingerprint from zui 3.5
+ * Update ims-vt blobs
+ * Added Wireguard 1.0.2
