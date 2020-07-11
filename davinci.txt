@@ -1,4 +1,7 @@
-New FOD stuff
-Added touchfeature for FOD
+Update blobs from V12.0.1.0
+Fixed Smart charge
 Updated kernel
+Updated ANX camera
+Enabled PSI monitor
 Other additions and improvements
+ 
