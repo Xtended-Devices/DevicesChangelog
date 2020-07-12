@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------
+** Dumpling Official Release XQ v11.0 Changelog **
+---------------------------------------------------------------------------
+* Fixed Smart CHarging.
+* Added ditfix 5.6
+* Kernel changed to weeb base
+* Update qti-telephony-common and ims
+
+---------------------------------------------------------------------------
 ** Dumpling Official Release XQ v10.5 Changelog **
 ---------------------------------------------------------------------------
 * Updated blobs to Android 10 hotfix
