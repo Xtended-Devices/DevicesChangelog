@@ -1,11 +1,12 @@
-* XQ v10.5 ( 25/06/2020 )
+* XQ v11 ( 12/07/2020 )
 
-- Morph-Limited 4.4.228
-- Introduce safailnet
-- Adjust cpubw bwmon value
-- Remap headset key
-- Add bt acdb for voip apps
-- Use lz4 for compression
-- Import irqbalance from caf
-- Enable procced reclaim
-- Add hostapd configuration files from caf
+- Upstream kernel 4.4.230 Morph-Limited
+- Added prebuilt kimcirecorder ( thanks Genkzsz11 )
+- Update coral july fp
+- Cleanup init.qcom
+- Uprev 2.1 perf hal in manifest
+- Update data-ipa-cfg-mgr: Merge tag 'LA.UM.8.2.r1-06900-sdm660.0'
+- Remove some duplicate configs wifi
+- Enable IMS feature flag for supported carrier
+- Update OpenGL & Vulkan drivers v474.0
+- Some fixes and misc
