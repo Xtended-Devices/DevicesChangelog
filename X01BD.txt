@@ -1,13 +1,13 @@
-**MSM Xtended XQ Release-v10.5 Changelogs**
+**MSM Xtended XQ Release-v11 Changelogs**
 
-• Kernel upstreamed to 4.4.228
-• Compiled with latest proton clang 11.0.0 
-• Switched back to ALMK
-• Dolby removed
-• Added Touchboost toggle in ZenParts
-• Added CPU & GPU Boosts in ZenParts
-• Added CPU & GPU QS tiles in ZenParts
-• Added Selinux Switch in ZenParts
+• Kernel upstreamed to 4.4.230
+• Compiled with latest upstreamed sources of proton clang 11.0.0 
+• Redo NFC check support (Works with any recovery now)
+• Enabled Wired/BT headset focus mode
+• Disable Screen Attention (Doesn't works for us)
+• Allow all apps to use smart replies
+
+
 
 
 
