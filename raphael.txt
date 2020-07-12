@@ -1,3 +1,10 @@
+** MSM Xtended XQ Release v11 Changelogs **
+- Switched to OSS trees with immensity auto kernel inlined
+- Added Dolby Audio
+- Pinned OK google hotword blobs
+- Switched to walleye fingerprint
+- Set proper model property based on region - Fixes amazon prime HD Video
+
 **MSM Xtended XQ Release-v8.0 Changelogs**
 * Fixed DC Dimming
 * Added DC Dimming QS Tile
