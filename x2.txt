@@ -1,2 +1,8 @@
+XQ V11
+AOD FP fixed with proper doze state
+FP speed and accuracy improved
+Linux 4.14.187 merged
+------------------------------------
+------------------------------------
 XQ V10.5
 Initial Official Release
