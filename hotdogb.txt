@@ -1,3 +1,14 @@
+---------------------------------------------------------------------------
+** hotdogb Official Release XQ v11.0 Changelog **
+---------------------------------------------------------------------------
+* Bump kernel version to v20
+* Added BLU shedutil governor
+* Fixed FOD flicker completly
+* Improved app opening speed
+* Fixed smart Charging
+* A lot of misc. optimizations kernel side
+---------------------------------------------------------------------------
+
 ** Xtended-hotdogb-20200626-XQ-Official-v10.5 Changelog **
 * Switch to libFOD extensions
 * Fixed adaptive brightness
