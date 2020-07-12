@@ -1,3 +1,9 @@
+XQ V11.0
+- Sync Rom sources
+- Clean device and vendor trees
+- Update build fingerprint
+- Caf kernel: https://drive.google.com/file/d/1I4LfAMTUVnHRkkzbS80s5G6WLsyI79bu/view?usp=drivesdk
+
 XQ V10.5
 - Sync Rom sources with all the new features & bug fixes
 - Don't set Rollback index (to be able to relock bootloader for new users)
