@@ -1,7 +1,11 @@
-** tulip Official Release XQ v10.5 Changelog **
+** tulip Official Release XQ v11 Changelog **
 
-(06/25/2020)
+(12/07/2020)
 - FBE Build 
-- Again enforcing build 
-- Ship with Asylum Kernel as default kernel
+- Upstreamed SDM660 kernel to 4.4.230 
+- Fixed battery nodes in default kernel
+- Switch to QTI bt stack and enable a2dp offload
 - Import Dirac support
+- Enable connected MAC randomization
+- Update status bar padding and changed default DPI
+- Update to Coral's July fingerprint
