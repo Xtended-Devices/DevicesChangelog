@@ -1,14 +1,15 @@
-(06/24/2020)
-- FBE Build
-- Update Display Blobs
-- Sepolicy clean up
-- Enable 24 bit audio
-- SDM Blobs from LA.UM.8.2.r1-05100-sdm660.0
-- Update blobs from LA.UM.8.2.r1-06700-sdm660.0
-- Use qti-telephony from LA.UM.8.2.r1-06700-sdm660.0
-- Enable Zygote Preforking for faster app launch
-- Set Audio Hal Buffer Size to 240
-- Switch to Predator StormBreaker (Thanks sir @predatorx91)
-- Synced to latest V10.5 source release
-- Thanks to @REDRUMrn7 @RubenTkato @YeQiue @Kornbip73 for testing and support
+(07/11/2020)
+- FBE Build and OldCam Blobs 
+- Coral Build FP for July SP (Hope SafetyNet is good)
+- Use stock value for handset volume
+- Use a2dp & aptx blobs from lavender
+- Switch to QTI bt stack and enable a2dp offload
+- Use stock liboemcrypto 9-PKQ1.180904.001-V11.0.6.0.PFGINXM
+- always use lz4 for compression
+- Fix WLAN tethering offload denials
+- enable some audio configs
+- BTConfigstore from sauce
+- Clean up rootdir
+- Synced to latest V11 source release
+- Thanks to @REDRUMrn7 @RubenTkato @YeQiue @Kornbip73 @Xtremmmm @makhk @NotZeetaa @TheTroQ for testing and support
 - And to all Lavender PH OG Members
