@@ -1,1 +1,5 @@
-* Quick bugfix update for qs styles
+* Xtended v11 Release
+* Updated kernel to Optimus Drunk v10.14
+* Fixed Smart charging
+* Switched to QTI BT stack
+* Updated build fingerprint to V11.0.11.0
