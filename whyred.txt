@@ -1,10 +1,12 @@
-**MSM Xtended XQ Release-v10.5 Device Changelogs**
-- Kernel upstreamed to 4.4.288
-- Merge tag 'LA.UM.8.2.r1-06900-sdm660.0' into the kernel
-- Update wireguard to 1.0.20200623 snapshot
-- Added Speaker and earpeice gain
-- Reworked some stuff in DT to fix ViLTE for some carriers
-- Checkout carrier config from lavender-user-10-QKQ1.190910.002-20.5.28-release-keys
-- Enable CRYPTOLZ4 and CRYPTOLZ4HC for zRAM compression
-- Staging/qcacld-3.0 : Fall back to LA.UM.7.2.r3-00900-sdm660.0 caf tag
-- A ton of misc and forgotten changes
+**MSM Xtended XQ Release-v11.0 Device Changelogs**
+- Fix mobile data activation delay
+- Enable libpermgr
+- Switch to EAS kernel
+- Merge 'LA.UM.8.2.r2-02100-sdm660.0' caf tag into to the kernel
+- Kernel upstream to linux version 4.4.230
+- Upstreamed wireguard to latest
+- Enable PELT_UTIL_HALFLIFE_16
+- Update FCM level to 3
+- F2fs optimizations
+- Block some useless wakelocks by default
+- Many forgotten changes
