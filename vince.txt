@@ -1,6 +1,12 @@
-XQ 10 :
--: CLEAN FLASH RECOMMEND
- upstrem kernel
- fix fps not showing
- bumb to v10
- other fixed and improves
+XQ 11 :
+ **MUST CLEAN FLASH**
+Device Changelog:
+• Initial build with new trees
+• Fixed 4G and VoLTE on SIM 2
+• Full treble compatibility (can boot A/B GSIs)
+• New vendor with latest CAF tag
+• Reworked dalvik heap configs
+• Updated dexpreopt flags
+• Improved WiFi stability
+• Upstreamed kernel
+• Under the hood optimization
