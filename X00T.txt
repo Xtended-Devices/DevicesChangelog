@@ -1,7 +1,8 @@
-** X00T Official Release XQ v10.5 Changelog **
+** X00T Official Release XQ v11 Changelog **
 
-* Fixed audio cracks in games with earphones
-* Fixed Wifi Display / Screen Cast
-* Fixed internal audio recording
-* Fixed issue with auto rotation
-* All Zenmotion Gestures will vibrate only if they are enabled and assigned
+* Fixed NFC (Russian variant)
+* Latest Stardust
+* Enabled 4K Recording and other supported profiles
+* Merged 429
+* Scripts Cleanup
+* Cleaned up camera blobs
