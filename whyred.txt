@@ -1,6 +1,6 @@
 **MSM Xtended XQ Release-v11.0 Device Changelogs**
 - Fix mobile data activation delay
-- Enable libpermgr
+- Enable libperfmgr
 - Switch to EAS kernel
 - Merge 'LA.UM.8.2.r2-02100-sdm660.0' caf tag into to the kernel
 - Kernel upstream to linux version 4.4.230
