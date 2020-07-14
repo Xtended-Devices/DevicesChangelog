@@ -1,3 +1,21 @@
+XQ v11:
+- Removed ANX and switched to MIUI Camera
+- Switched to QTI BT
+- Switched to OnePlus Screenrecorder
+- Added NotchBarKiller
+- Updated blobs from MIUI 20.7.3
+- Updated GPS HAL From LA.UM.8.11.r1-03800-NICOBAR.0
+- Updated kernel to Quicksilver .188
+- Updated WireGuard to v1.0.20200712
+- Fixed WiFi DC
+- Fixed FM Radio
+- Fixed offline charging
+- Under-the-hood Improvements and fixes
+Credits:
+@ghostrider_reborn for kernel and MIUI Camera
+@mg712702 for trees
+@Kostasgiapis for testing
+
 XQ v10.5:
 - Fixed Screen recording
 
