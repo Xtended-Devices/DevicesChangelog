@@ -54,3 +54,4 @@ Xq 11.0
  * Added Face Unlock
  * Nuke Zuk Doze & switch to Xtended Doze with AOD Fixed
  * Fixed Call recording
+ * Replaced stock snap camera with Google Camera Go
