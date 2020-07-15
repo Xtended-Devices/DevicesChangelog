@@ -46,3 +46,11 @@ Xq 10.5
  * Update build fingerprint from zui 3.5
  * Update ims-vt blobs
  * Added Wireguard 1.0.2
+
+Xq 11.0
+ * Initial Non Treble Build thanks to @MRTHAKER for work on z2 plus trees.
+ * Switch to StatiX 3.18.140 thanks to @prometheusXderpgang & @ZyxxeZ for work on kernel trees.
+ * Se-linux Permissive
+ * Added Face Unlock
+ * Nuke Zuk Doze & switch to Xtended Doze with AOD Fixed
+ * Fixed Call recording
