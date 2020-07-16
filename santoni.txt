@@ -1,11 +1,15 @@
-**MSM Xtended XQ Release-v9.0 Changelogs - Redmi 4/4X (Santoni)**
+**MSM Xtended XQ Release-v11.0 Changelogs - Redmi 4/4X (Santoni)**
 
-• Selinux Enforcing
-• Upstreamed kernel to 4.9.222
-• Updated FM, Sensors, QMI,/Radio/IMS, Wi-FI from  tissot-10.0.20.0.PDHMIXM
-• Import Perf IOP blobs from from LA.UM.8.6.r1-04000-89xx.0
-• Cleanup unused 32-bit blobs
-• Updated post boot scripts, ueventd and config.fs from LA.UM.8.6.2.r1-07100-89xx.0
-• Import data-ipa-cfg-mgr from LA.UM.8.6.2.r1-07100-89xx.0
-• Updated privapp-permissions
-• Misc. Fixes and Improvements
+• Kernel: Upstreamed to 4.9.230, added wakelock blocker, improved sleeps
+• Updated blobs from onc-q
+• Moved QMI/Radio/IMS blobs to product
+• Updated perf configs from pine-q
+• Fixed VoLTE issues on 2nd SIM slot
+• Fixed default system haptics strength
+• Xiaomi Add-on: Added Selinux Switch, Fixed Settings restore on boot
+• Enable zygote pre-forking (faster app launching)
+• Re-enabled Hotword detection
+• Fixed Fingerprint to wake without lock screen
+• Misc. audio i/o improvements
+• Fixed few denials
+• Under the hood improvements
