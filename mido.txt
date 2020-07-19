@@ -1,7 +1,8 @@
+• Switched To 4.9 Kernel
+• Second Sim Volte Fully Fixed
+• Added XiaomiParts Same as Older Builds
+• Added Thermal From Olive
+• Updated OpenGL And Vulkan Blobs
 • Latest Changes Merged From Zeelog Trees
-• Added DolbySound
-• Fixed Wifi Reboot Issue
-• Added LogTile in XiaomiParts
-• Added Some Props For Smoother UI
-• Removed HD Logo
-• Fixed ScreenBurning Issue for Tianma Display Panels
+• Update blobs from LA.UM.8.6.r1-04400-89xx.0
+• Added Dolby Sound
