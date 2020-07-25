@@ -1,7 +1,5 @@
-Update blobs from V12.0.1.0
-Fixed Smart charge
+Update display blobs
 Updated kernel
-Updated ANX camera
-Enabled PSI monitor
+Update zram size
+Add Matchmakeк app
 Other additions and improvements
- 
