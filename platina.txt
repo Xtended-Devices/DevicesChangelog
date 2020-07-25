@@ -1,12 +1,7 @@
-* XQ v11 ( 12/07/2020 )
+* XQ v11.5 ( 26/07/2020 )
 
-- Upstream kernel 4.4.230 Morph-Limited
-- Added prebuilt kimcirecorder ( thanks Genkzsz11 )
-- Update coral july fp
-- Cleanup init.qcom
-- Uprev 2.1 perf hal in manifest
-- Update data-ipa-cfg-mgr: Merge tag 'LA.UM.8.2.r1-06900-sdm660.0'
-- Remove some duplicate configs wifi
-- Enable IMS feature flag for supported carrier
-- Update OpenGL & Vulkan drivers v474.0
-- Some fixes and misc
+- Upstream kernel 4.4.231 Morph-Limited
+- Add pie ts config
+- Set cortex-a53
+- Switch to wahoo cpuset
+- Update power tweaks for EAS
