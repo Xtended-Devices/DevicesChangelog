@@ -1,15 +1,24 @@
-(07/11/2020)
+(07/25/2020)
 - FBE Build and OldCam Blobs 
 - Coral Build FP for July SP (Hope SafetyNet is good)
 - Use stock value for handset volume
 - Use a2dp & aptx blobs from lavender
 - Switch to QTI bt stack and enable a2dp offload
 - Use stock liboemcrypto 9-PKQ1.180904.001-V11.0.6.0.PFGINXM
+- SDM Blobs from LA.UM.8.2.r1-05100-sdm660.0
 - always use lz4 for compression
 - Fix WLAN tethering offload denials
 - enable some audio configs
 - BTConfigstore from sauce
 - Clean up rootdir
-- Synced to latest V11 source release
-- Thanks to @REDRUMrn7 @RubenTkato @YeQiue @Kornbip73 @Xtremmmm @makhk @NotZeetaa @TheTroQ for testing and support
+- Remove improvetouch related stuff
+- Remove OMX.qcom.video.decoder.vp9.secure configs
+- Fix screen recorder lag
+- Clean up some blobs
+- Switched to Morfuz Kernel HMP
+- Synced to latest V11.5 source release
+- Thanks to PRGNSCP members for testing and support
 - And to all Lavender PH OG Members
+Notes:
+- some of the changes is from V11, since the device tree is stable aint doing such big changes
+- if you feel some lags or slowness just change kernel and wipe dalvik/cache
