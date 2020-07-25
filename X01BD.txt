@@ -1,17 +1,6 @@
-**MSM Xtended XQ Release-v11 Changelogs**
+**MSM Xtended XQ Release-v11.5 Device Changelogs
 
-• Kernel upstreamed to 4.4.230
-• Compiled with latest upstreamed sources of proton clang 11.0.0 
-• Redo NFC check support (Works with any recovery now)
-• Enabled Wired/BT headset focus mode
-• Disable Screen Attention (Doesn't works for us)
-• Allow all apps to use smart replies
-
-
-
-
-
-
-
-
-
+• Upstreamed kernel to 4.4.231
+• Enable OEM unlock & bootable image signing 
+• Disable NearbyMessagingService & DiscoveryService
+• Enable unspecialized app procces pool access(improves launch app speeds)
