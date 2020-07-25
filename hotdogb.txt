@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------
+** hotdogb Official Release XQ v11.5 Changelog **
+---------------------------------------------------------------------------
+* Kernel base changed and upstream
+* Changed default auto HBM threshold value to 20000
+* Enable unspecialized app process pool
+* Updte carrier config from OOS 10.0.8 
+* few source cleanup
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
 ** hotdogb Official Release XQ v11.0 Changelog **
 ---------------------------------------------------------------------------
 * Bump kernel version to v20
