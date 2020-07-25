@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------
+** Cheeseburger Official Release XQ v11.5 Changelog **
+---------------------------------------------------------------------------
+* Fixed FPS 
+* Fixed bluetooth device calling issue when switch calls bt to speaker
+* Kernel upstream to 4.4.230
+* Kernel: Merge tag 'LA.UM.8.2.r2-02100-sdm660.0'
+* Added matchmaker app to work Screen attention (Enabling this will consume more battery)
+
+---------------------------------------------------------------------------
 ** Cheeseburger Official Release XQ v11.0 Changelog **
 ---------------------------------------------------------------------------
 * Fixed Smart CHarging.
