@@ -1,3 +1,10 @@
+XQ v11.5:
+- Added XiaomiParts
+- Fixed model name in EXIF data
+- Added support for willow devices with 19.39.0 hwversion
+- QuickSilver upstream
+- Misc fixes and improvements
+
 XQ v11:
 - Removed ANX and switched to MIUI Camera
 - Switched to QTI BT
