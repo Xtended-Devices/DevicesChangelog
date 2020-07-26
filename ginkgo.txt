@@ -4,6 +4,10 @@ XQ v11.5:
 - Added support for willow devices with 19.39.0 hwversion
 - QuickSilver upstream
 - Misc fixes and improvements
+Credits:
+@ghostrider-reborn for kernel
+@mg712702 for trees
+@Lemezohaib, @Sanityzer and @Monreal for testing
 
 XQ v11:
 - Removed ANX and switched to MIUI Camera
