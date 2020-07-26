@@ -1,6 +1,4 @@
 Device Changelogs:
 
-*Added TWRP
-*update nfc to 1.2
-*update some blobs
-*kernel upstreamed to 4.4.230
+*fixed ambient display crash
+*update some opengl and vulkan blobs
