@@ -5,6 +5,7 @@ USB otg
 DC dimming 
 Srgb color mode.
 No screen flickering on FOD
+Fixed Bluetooth issue
 ------------------------------------
 ------------------------------------
 XQ V11
