@@ -1,3 +1,12 @@
+XQ V11.5
+Introducing Realme Settings (Thanks to @dev_harsh1998)
+Game mode
+USB otg
+DC dimming 
+Srgb color mode.
+No screen flickering on FOD
+------------------------------------
+------------------------------------
 XQ V11
 AOD FP fixed with proper doze state
 FP speed and accuracy improved
