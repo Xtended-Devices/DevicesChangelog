@@ -1,21 +1,5 @@
 
 
-XQ v11:
-- Added face unlock
-- Switched to QTI BT stack
-- Upstreamed kernel to 4.9.230
-
-XQ v10.5:
-
-- Fixed call recording
-- Upstreamed kernel to 4.9.228
-- Other misc changes
-
-XQ v10:
-
-- Reverted back to OpenGL (Fixed video lag issue)
-- Added per-app thermal profiles
-- Added dirac
-- Added battery health overlays
-- Upstreamed kernel to 4.9.225
-- Other misc changes
+XQ v11.5:
+- Switch to common QTI power hal
+- Introduce Ingenium kernel
