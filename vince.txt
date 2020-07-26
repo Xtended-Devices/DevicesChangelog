@@ -1,5 +1,7 @@
 XQ 11.5 :
 
 Device Changelog:
-• Upstreamed kernel
-• Under the hood optimization
+- fixed faceunlock missing
+- fixed power hal
+- Upstreamed kernel
+- Under the hood optimization
