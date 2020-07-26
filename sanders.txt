@@ -1,4 +1,7 @@
-Fixed broken FM.
-Updated DTV.
-Fixed heating issues.
-Misc improvements.
++
++
+Updated GPU drivers
+Changed default gov to interactive
+Updated some camera blobs
+ixed Ambient Display crash in xtensions
+Misc improvements
