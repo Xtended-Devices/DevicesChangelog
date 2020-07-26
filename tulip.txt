@@ -1,11 +1,12 @@
-** tulip Official Release XQ v11 Changelog **
+** tulip Official Release XQ v11.5 Changelog **
 
-(12/07/2020)
+(26/07/2020)
 - FBE Build 
-- Upstreamed SDM660 kernel to 4.4.230 
-- Fixed battery nodes in default kernel
-- Switch to QTI bt stack and enable a2dp offload
-- Import Dirac support
-- Enable connected MAC randomization
-- Update status bar padding and changed default DPI
-- Update to Coral's July fingerprint
+- Upstreamed SDM660 kernel to 4.4.231
+- Initial import of XiaomiParts with few features (KCAL, Dirac, Headset settings and Vibrator strenght)
+- Add Spectrum support
+- Nuke Dirac from XiaomiParts because it's already on Settings/Sounds
+
+XiaomiParts notes:
+- Vibrator strenght on Xiaomi doesn't work with stock kernel. If you want to use that, you could switch to a custom kernel.
+- When you set KCAL on boot, it won't work. Your settings will be the same as you left, but you should change at least of 1 value to see the changes. Example:If your settings was R=220 G=220 B=220, you'll need to change only 1 value, like red to 219 and bring back to 220, and you'll see the changes.
