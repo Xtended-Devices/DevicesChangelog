@@ -1,12 +1,15 @@
-**MSM Xtended XQ Release-v11.0 Device Changelogs**
-- Fix mobile data activation delay
-- Enable libperfmgr
-- Switch to EAS kernel
-- Merge 'LA.UM.8.2.r2-02100-sdm660.0' caf tag into to the kernel
-- Kernel upstream to linux version 4.4.230
-- Upstreamed wireguard to latest
-- Enable PELT_UTIL_HALFLIFE_16
-- Update FCM level to 3
-- F2fs optimizations
-- Block some useless wakelocks by default
+**MSM Xtended XQ Release-v11.5 Device Changelogs**
+- Switch to userbuild
+- Sepolicy cleanup
+- Remove energy awareness daemon
+- Remove interaction lock when idle
+- Initialize powerHAL when boot is completed
+- Rootdir:set permissions for nodes used by power HAL
+- Set config_sustainedPerformanceModeSupported
+- Update libqti-perfd blobs from Taimen QQ3A.200705.002
+- Libperfmgr cleanup
+- Compile kernel with clang 11.0.3
+- Update wireguard to 1.0.20200712 snapshot
+- Merge LA.UM.8.2.r2-02300-sdm660.0 caf tag into the kernel
+- Upstream kernel to linux verison 4.4.231
 - Many forgotten changes
