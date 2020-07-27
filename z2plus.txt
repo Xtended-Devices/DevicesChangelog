@@ -55,3 +55,13 @@ Xq 11.0
  * Nuke Zuk Doze & switch to Xtended Doze with AOD Fixed
  * Fixed Call recording
  * Replaced stock snap camera with Google Camera Go
+
+Xq 11.5
+ * Fixed Low Audio issue thanks to @prometheusXderpgang
+ * Updated Open GL and Vulkan Display drivers to OpenGL ES 3.2 V@474.0 (GIT@19132cd,Ie202862321,1723426717)(Date:06/12/20) thanks to Arda Süzen and @DhineshCool
+ * Switch back from Google Camera Go to Snap cam due to video recording issue
+ * Compile HWUI for Better Performance
+ * Speedup Fingerprint sensor a bit from previous speed
+ * Enabled Wifi Calling, works tested on Jio.
+ * Added Aptx Blobs, fixed choppy video playback on bluetooth aptx earphones.
+ * Build is more stable, smooth and heats less a daily driver thanks to @ZyxxeZ
