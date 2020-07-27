@@ -1,3 +1,9 @@
+XQ V11.5
+- Sync Rom sources
+- Rebased kernel tree to Caf one (More Ram efficient)
+- Optimized Arm64 CPU variant to Cortex-A73
+- Low system ram footprint for 2GB ram device
+
 XQ V11.0
 - Sync Rom sources
 - Clean device and vendor trees
