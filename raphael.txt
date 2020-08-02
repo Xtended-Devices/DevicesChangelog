@@ -1,3 +1,33 @@
+** MSM Xtended XQ Release v11.5 Changelogs **
+- Inlined with Latest Immensity Kernel
+- Updated ANX to v185
+- Enabled use of QTI stack on the device
+- Built vendor.qti.hardware.btconfigstore@1.0 from source
+- Switched to QTI bt stack
+- Added missing BT configs and props
+- Updated GPS configs to MIUI 12
+- Updated GPS Hal to LA.UM.8.1.r1-15400-sm8150.0
+- Disabled VSync for CPU rendered apps
+- Removed dead RCS packages
+- Added AOSP RCS packages
+- Built netd from source
+- Disabled GL comp backpressure
+- Switched back to stock Pasrmanager
+- bluetooth: Enabled WBS
+- Used stock vibration pattern
+- Enabled hapticTextHandle
+- Updated GPS Hal to LA.UM.8.9.r1-09300-SM6xx.0 (fixed the reboot caused by apps using location service in the background)
+- Updated GPS blobs to LA.UM.8.9.r1-07100-SM6xx.0
+- Added missing DC Dimming denials (DC should be fully working now)
+- Switched to CAF audio policy configuration
+- Disabled proximity sensor check before pulsing
+- Imported missing BT libs
+- Added support for Battery Health
+- Added missing BT configs and props
+- Updated GPS configs to MIUI 12
+- Updated GPS Hal to LA.UM.8.1.r1-15400-sm8150.0
+
+
 ** MSM Xtended XQ Release v11 Changelogs **
 - Switched to OSS trees with immensity auto kernel inlined
 - Added Dolby Audio
