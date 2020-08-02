@@ -1,4 +1,5 @@
-** MSM Xtended XQ Release v11.5 Changelogs **
+** MSM Xtended XQ Release v11.5 Changelogs
+** OSS Vendor Changelogs **
 - Inlined with Latest Immensity Kernel
 - Updated ANX to v185
 - Enabled use of QTI stack on the device
@@ -27,6 +28,15 @@
 - Updated GPS configs to MIUI 12
 - Updated GPS Hal to LA.UM.8.1.r1-15400-sm8150.0
 
+** Miui Prebuilt Vendor Changelogs **
+- Enabled assisted iwlan
+- Enabled unspecialized app process pool
+- Imported vendor overlays
+- Updated props from latest miui
+- Bumped minimum vendor variant for IN
+- Override some overlays present in stock vendor
+- Refactor workaround for cts
+- Removed audio_platform_info.xml
 
 ** MSM Xtended XQ Release v11 Changelogs **
 - Switched to OSS trees with immensity auto kernel inlined
