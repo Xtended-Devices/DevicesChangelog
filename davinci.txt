@@ -1,7 +1,9 @@
 
 
-Update display blobs
+Imported Pixel libperfmgr Power HAL
 Updated kernel
-Update zram size
-Add Matchmakeк app
+Added live display
+Added SunlightEnhancement LiveDisplay HAL
+Added keycodes for sam headsets
+Disabled NFC for indian devices
 Other additions and improvements
