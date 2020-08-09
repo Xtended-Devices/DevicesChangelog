@@ -1,5 +1,5 @@
 
 
-XQ v11.5:
-- Switch to common QTI power hal
-- Introduce Ingenium kernel
+XQ v12:
+- Updated padding
+- Updated Ingenium kernel to v1.1
