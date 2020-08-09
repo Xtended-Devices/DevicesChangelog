@@ -1,3 +1,4 @@
-* Xtended v11.5 Release
-* Updated kernel to Optimus Drunk v10.16
-* Enabled camera cutout by default (Flash magisk module to disable it)
+* Xtended v12.0 Release
+* Updated kernel to Optimus Drunk v10.21
+* Firmware in now builtin (phoenixin v11.0.11.0)
+* Pixelgapps is now the builtin gapps
