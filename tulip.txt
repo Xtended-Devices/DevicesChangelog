@@ -1,12 +1,13 @@
-** tulip Official Release XQ v11.5 Changelog **
+** tulip Official Release XQ v12 Changelog **
 
-(26/07/2020)
-- FBE Build 
-- Upstreamed SDM660 kernel to 4.4.231
-- Initial import of XiaomiParts with few features (KCAL, Dirac, Headset settings and Vibrator strenght)
+(09/08/2020)
+- Updated OpenGL to 3.2 V@474
+- Updated Vulkan to 1.1.128
+- Change to rounded corners when hiding notch
+- Using sdm660-common tree from sdm660 org, but still FBE build (no need to format data if you're already on FBE build)
+- Fixed Screen Cast
+- Disabled Battery Health Overlay 
+- Fixed night light
 - Add Spectrum support
-- Nuke Dirac from XiaomiParts because it's already on Settings/Sounds
-
-XiaomiParts notes:
-- Vibrator strenght on Xiaomi doesn't work with stock kernel. If you want to use that, you could switch to a custom kernel.
-- When you set KCAL on boot, it won't work. Your settings will be the same as you left, but you should change at least of 1 value to see the changes. Example:If your settings was R=220 G=220 B=220, you'll need to change only 1 value, like red to 219 and bring back to 220, and you'll see the changes.
+- Update to Coral's August fingerprint
+- Upstreamed sdm660 kernel to 4.4.232
