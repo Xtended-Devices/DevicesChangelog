@@ -1,6 +1,6 @@
-**MSM Xtended XQ Release-v11.5 Device Changelogs
+**MSM Xtended XQ Release-v12.0 Device Changelogs
 
-• Upstreamed kernel to 4.4.231
-• Enable OEM unlock & bootable image signing 
-• Disable NearbyMessagingService & DiscoveryService
-• Enable unspecialized app procces pool access(improves launch app speeds)
+• Upstreamed kernel to 4.4.232
+• Kernel compiled with latest proton clamg 12.0.0
+
+
