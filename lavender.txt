@@ -1,24 +1,17 @@
-(07/25/2020)
-- FBE Build and OldCam Blobs 
-- Coral Build FP for July SP (Hope SafetyNet is good)
-- Use stock value for handset volume
-- Use a2dp & aptx blobs from lavender
-- Switch to QTI bt stack and enable a2dp offload
-- Use stock liboemcrypto 9-PKQ1.180904.001-V11.0.6.0.PFGINXM
-- SDM Blobs from LA.UM.8.2.r1-05100-sdm660.0
-- always use lz4 for compression
-- Fix WLAN tethering offload denials
-- enable some audio configs
-- BTConfigstore from sauce
-- Clean up rootdir
-- Remove improvetouch related stuff
-- Remove OMX.qcom.video.decoder.vp9.secure configs
-- Fix screen recorder lag
-- Clean up some blobs
-- Switched to Morfuz Kernel HMP
-- Synced to latest V11.5 source release
-- Thanks to PRGNSCP members for testing and support
-- And to all Lavender PH OG Members
-Notes:
-- some of the changes is from V11, since the device tree is stable aint doing such big changes
-- if you feel some lags or slowness just change kernel and wipe dalvik/cache
+(08/09/2020)
+- Update XiaomiParts
+- XiaomiParts: Add Speaker Gain
+- XiaomiParts: Add Earpiece Gain
+- XiaomiParts: Add Microphone Gain
+- XiaomiParts: Add Headphone Gain
+- XiaomiParts: CPU/GPU Boosts
+- XiaomiParts: Touch Boosts
+- XiaomiParts: SELinux Switcher
+- XiaomiParts: Update KCal Preview Image
+- Build Fingerprint QQ3A.200805.001 from coral
+- Disable Battery Health (No panic)
+- Disable Ultra Power Saving
+- Clean up sepolicy for XiaomiParts
+- Added some Keidorian build prop tweaks
+- Credits to SonalSingh18, ronaxdevil, Saurab Charde, Keidorian, and SYYLG
+- Synced to latest V12.0 source release
