@@ -1,40 +1,9 @@
----------------------------------------------------------------------------
-** Dumpling Official Release XQ v11.5 Changelog **
----------------------------------------------------------------------------
-* Fixed FPS 
-* Fixed bluetooth device calling issue when switch calls bt to speaker
-* Kernel upstream to 4.4.230
-* Kernel: Merge tag 'LA.UM.8.2.r2-02100-sdm660.0'
-* Added matchmaker app to work Screen attention (Enabling this will consume more battery)
-
----------------------------------------------------------------------------
-** Dumpling Official Release XQ v11.0 Changelog **
----------------------------------------------------------------------------
-* Fixed Smart CHarging.
-* Added ditfix 5.6
-* Kernel changed to weeb base
-* Update qti-telephony-common and ims
-
----------------------------------------------------------------------------
-** Dumpling Official Release XQ v10.5 Changelog **
----------------------------------------------------------------------------
-* Updated blobs to Android 10 hotfix
-* Kernel upstreamed to 4.4.228
-* Enforcing now
-* Added Automatic High brightness mode (Oneplus Shit)
-* Removed Duplicate ambientdisplay from settings
-
----------------------------------------------------------------------------
-** Dumpling Official Release XQ v10.0 Changelog **
----------------------------------------------------------------------------
-* Updated blobs to Android 10
-
-
-** Dumpling Official Release XQ v6.0 Changelog **
-
-* Kernel Upstream to 4.4.213
-* Update media blobs from 'QQ1A.200105.007-515
-* Update libqmi_cci.so from 'QQ1A.200105.007-515
-* Add few surfaceflinger props
-* Added Dot fix to v5.3 (No need to flash Dotfix magisk module to work GCam)
-* And a lot of optimizations too.
+--------------------------------------
+•• Dumpling XQ v12.0 Changelog •• 
+--------------------------------------
+• Fixed BT headset calling issue.
+• Fixed BT switch issue Headset > speaker.
+• Kernel upstream.
+• Faster deep sleep (Kernel).
+• Device source cleanup.
+• Misc. Optimizations.
