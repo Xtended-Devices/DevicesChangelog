@@ -1,15 +1,13 @@
-**MSM Xtended XQ Release-v11.5 Device Changelogs**
-- Switch to userbuild
-- Sepolicy cleanup
-- Remove energy awareness daemon
-- Remove interaction lock when idle
-- Initialize powerHAL when boot is completed
-- Rootdir:set permissions for nodes used by power HAL
-- Set config_sustainedPerformanceModeSupported
-- Update libqti-perfd blobs from Taimen QQ3A.200705.002
-- Libperfmgr cleanup
-- Compile kernel with clang 11.0.3
-- Update wireguard to 1.0.20200712 snapshot
-- Merge LA.UM.8.2.r2-02300-sdm660.0 caf tag into the kernel
-- Upstream kernel to linux verison 4.4.231
-- Many forgotten changes
+**MSM Xtended XQ Release-v12.0 Device Changelogs**
+- Update all blobs from  jasmine-user-10-QKQ1.190910.002-V11.0.11.0.QDIMIXM-release-keys
+- Add proper powerhints for SD 636
+- Bump vendor security patch level from Jasmine V11.0.11.0.QDIMIXM
+- Speed up fingerprint enrollment and unlock (turn off ultra powersaving mode to make it moar fast)
+- Added Gcam go and removed mi cam
+- Added XiaomiDoze back
+- Merged'LA.UM.8.2.r2-02300-sdm660.0' caf tag into the kernel
+- Upstream wireguard to 1.0.20200729 snapshot
+- Import binder from android-4.19-q branch from android common
+- Fix ViLTE for Smartfren carrier (Indo)
+- Upstreamed kernel to linux version 4.4.232
+- Some  misc changes and fixes
