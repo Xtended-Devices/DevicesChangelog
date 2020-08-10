@@ -1,4 +1,9 @@
 XQ V11.5
+Added Smartcharge
+Fixed Screenrecord lag
+------------------------------------
+------------------------------------
+XQ V11.5
 Introducing Realme Settings (Thanks to @dev_harsh1998)
 Game mode
 USB otg
