@@ -21,3 +21,20 @@ Kernel changelog:
 - Improved stability & performance
 - Added WireGuard
 - Fixed charging icon bug
+
+XQ 11.0:
+Device changes:
+- Fixed AOD
+(now we use the correct low power panel yay)
+
+Kernel changes:
+- AOD related changes
+- Fixed most of the camera crashing
+
+XQ 12.0:
+Device Changes:
+- Fixed display glitches caused by AOD
+- General AOD fixup (AOD works better & draws lower power)
+
+Kernel Changes:
+- AOD related changes
