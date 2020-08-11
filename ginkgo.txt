@@ -1,3 +1,23 @@
+
+
+XQ: v12:
+- Updated kernel to Quicksilver .193
+- Updated WireGuard to v1.0.20200729
+- Updated All blobs from 20.7.30 beta
+- Fully fixed offline charging
+- Enabled boot and system server dex-preopt
+- Updated graphics stack from LA.UM.8.11.r1-03800
+- Updated init scripts from LA.UM.8.11.r1-03800-NICOBAR.0
+- Updated media configs from LA.UM.8.11.r1-03800-NICOBAR.0
+- Sets LCD density to 440
+- Increased ZRAM to 2GB
+- Performance tweaks & much improvements
+- Fixed GCam DSP-accelerated HDR processing
+Credits:
+@ghostrider_reborn for kernel
+@mg712702 for trees
+@Kostasgiapis for testing
+
 XQ v11.5:
 - Added XiaomiParts
 - Fixed model name in EXIF data
