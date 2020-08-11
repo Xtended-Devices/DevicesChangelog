@@ -1,6 +1,4 @@
-** X00T Official Release XQ v11.5 Changelog **
+** X00T Official Release XQ v12 Changelog **
 
-* Fixed FM
-* Improved earphone clarity
-* Fixed mic in back cam video
+* Dropped more unused blobs
 * Latest Stardust
