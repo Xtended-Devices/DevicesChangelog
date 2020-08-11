@@ -1,9 +1,10 @@
-Device changelogs for Build (12/05/2020)
+Device changelogs for Build (11/08/2020)
 
 
-• Dropped ANXCamera
-• Azure Kernel Upstreamed
-• Update Build FP to June Patch
+• Initial Official Build by Me
+• Based on Los tree's, so clean flash is mandatory
+• Update Build FP to coral August Patch
+• Miscellaneous Changes & Fixes
 
 
 
