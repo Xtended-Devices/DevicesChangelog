@@ -2,8 +2,6 @@
 
 Imported Pixel libperfmgr Power HAL
 Updated kernel
-Added live display
-Added SunlightEnhancement LiveDisplay HAL
 Added keycodes for sam headsets
 Disabled NFC for indian devices
 Other additions and improvements
