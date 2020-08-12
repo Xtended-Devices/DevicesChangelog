@@ -65,3 +65,10 @@ Xq 11.5
  * Enabled Wifi Calling, works tested on Jio.
  * Added Aptx Blobs, fixed choppy video playback on bluetooth aptx earphones.
  * Build is more stable, smooth and heats less a daily driver thanks to @ZyxxeZ
+
+Xq 12
+ * Fixed a bug where call would be played on loudspeaker instead of ear speaker thanks to @ZyxxeZ.
+ * Audio improvements from caf.
+ * Fixed screen recording lag.
+ * Fixed pulse force closing while music was played.
+ * Pls dont flash any kernel audio is now fixed and loud, if you still face low audio issue use kernel manager and increase audio gain.
