@@ -1,0 +1,8 @@
+--------------------------------------
+••  Daisy XQ v12.0 Changelog •• 
+--------------------------------------
+
+• Address sepolicy denials
+• Kernel 4.9.232 Loki (Add Sound Control & Kcal support)
+• Update to Coral's August fingerprint
+• And other improvements
