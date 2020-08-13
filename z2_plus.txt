@@ -71,4 +71,5 @@ Xq 12
  * Audio improvements from caf.
  * Fixed screen recording lag.
  * Fixed pulse force closing while music was played.
+ * Fixed Ota updates now users on xq 11.5 can get this in updater app under settings>>updater
  * Pls dont flash any kernel audio is now fixed and loud, if you still face low audio issue use kernel manager and increase audio gain.
