@@ -1,9 +1,10 @@
---------------------------------------
-••  Cheeseburger XQ v12.0 Changelog •• 
---------------------------------------
-• Fixed BT headset calling issue.
-• Fixed BT switch issue Headset > speaker.
-• Kernel upstream.
-• Faster deep sleep (Kernel).
-• Device source cleanup.
-• Misc. Optimizations.
+===== cheeseburger XQ v12.5 Changelog =====
+
+* Fixed audio from wired headset.
+* Added back smart pixel.
+* wifi: smarter decisions on whether to use a 2 or 5Gh.
+* Drop unnecessary fqnames for DRM and add widevine instance.
+* Kernel compile with clang 12.
+* Faster deep sleep.
+* Silence suspends/resume logging.
+* Misc. cleanup & fixes
