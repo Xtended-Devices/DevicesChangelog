@@ -1,260 +1,190 @@
 ====================
-     2020-08-09    
+     2020-08-23    
 ====================
  * device/oneplus/oneplus3
-f9a3c1ed sdm845-common: wifi: Enable QPower and Deep sleep at the same time
+52adc5a6 remove duplicates
+62c2da52 op3: add deps for Jenkin Automation
+0fef6103 fix sim reset issue
  * frameworks/base
-4e2529051a6 Revert "perf: Load performance lib from Zygote"
-a3155f46dae base: Port face unlock feature [3/4]
-f5f6de00f17 SystemUI: use OnePlus drawables for autobrightness icon
-d1f458e871a BrightnessSlider: Correct the slider thumb
-4caea117bcd Add Ambient Customizations [1/2]
-dc8bb7f90c8 base: Let's shrink file headers bigger than the device size
-9c89a17743d base: Use Selectable Network Traffic Fonts [1/2]
-ae1641ddc6e EdgeLighting: Add option for random colors [1/2]
-294e02aa2af QSB Header Icons: fix dark on dark
-6933e915a95 Redesign lockscreen bottom shortcuts
- * hardware/qcom-caf/sm8250/display
-4ab176b0e Add C2D_COLOR_FORMAT_420_P010 to C2D_YUV_FORMAT
-
-====================
-     2020-08-08    
-====================
- * packages/apps/Launcher3
-78d382985 Xtended-ify icons
-
-====================
-     2020-08-07    
-====================
- * vendor/xtended
-131da9099c Xtended: Be Ready for v12.0
-3bdc09e474 Xtended: make it MSM-Xtended & not XtendedOS
-
-====================
-     2020-08-06    
-====================
- * frameworks/base
-3d7e195639b Avoid potential fd leaks from jniCreateFileDescriptor (2/2)
-9e7ddb35d6f Avoid potential fd leak from jniCreateFileDescriptor (1/2)
-74a0a28ca45 Don't request render in GLSurfaceView.GLThread ctr
-0ddd2244279 CaffineTile : add the timer
-f6b0e0249fb SystemUI: Fix QS Detail Header
-6fe66931bb5 NotificationPanelView: Fix initial touch co-ordinates
-5f17016b29a base: SystemUI: fix brightness slider animation                 on qs expand when on bottom
-928c0099128 QSBHeader: code clean-up n improvements
-237ce881a25 Bluetooth: fix battery icon & show only when connected
-3cb058d65b7 Add isFaceAuthEnabledForUser checks in KeyguardLiftController
-e55d3e1aba9 Add synchronization for invokeForAllObservers call
-0270fb5a12c Return null on failed insert due to permissions
-2dba1e13cf6 Fixes crash/race condition when destroyActivity
-e70ec30eb30 base: Remove keyguard delay completely
-2d9a36abf44 API changes due to importing RI BigInteger
-bcbbe3a456c Send top-app's render thread tid to perf HAL
-922501f77cd Remove unused / unimplemented CorePlatformAPI methods.
-fc902a43501 Remove references to Dalvik logger.
-0a073fdf303 trigger file removal when slice permission is removed
-fd5d5ca12b3 Throw XmlParserException when client tag cannot be found when parsing slice permissions.
-d83575b2412 [viewcompiler] Switch to slicer DEX opcode definitions
-e491e9b583c PackageInstallerSession: Minor refactorings and cleanups
-eb81b6ddaac Simplifying callback calls in PackageInstallerSession
-da223d3e92e Fix PackageWatchdog::syncRequestsAsync and related code
-e5f180713ca framework/base: add parallel verifyV1
-1a3e6fa2bfc Perf: Boost UI thread during app launching
-37caa33e1be framework: add boost for package installation
-cda2a9066ad BoostFramework: New hintType for App Starting from BG.
-e37f974dbbb remove obsoleted cgroup follow option
-28d0bd74b98 perf: Load performance lib from Zygote
-a9a192110cc avoid duplicate doFrame calls.
-6004cc82a15 make ui touch optimization work normally.
-433f80d36f6 add VSYNC scheduled flag and avoid two doFrame calls in one period
-b240b06274e core: touch response optimizations
-d22062d1902 Add USSD codes over IMS feature
-4bee557f7c5 SystemUI: Fix SystemUI failed to go to doze issue
-bdf66177534 Optimize AbsListView to reduce click operation latency
-983a3f8a815 Fix the mess of Qs Settings icon
-f6d3788783f Fix typos related to sortSelectionIndices
-873925a287a Fix app crash if the selection is from reverse direction.
-9559df0b050 Screenstabilization: Catch DeadObjectException
-ed78bc8401c Fix color mismatch of pointers
-ea8f169d57e StatusBar: Add STATUS_BAR_CUSTOM_HEADER to TunerService
-a0573f9aae3 base: hide qs drag handle [1/2]
-b050a472b90 QsClock: fix clock color resetting
-3a827cfcc4b Brightness slider: Visual improvements
-e16e69bb4eb SystemUI: Don't re add brightness slider if its already present
-db235377cf3 base: SystemUI: fix moving of qs brightness slider
-a620ab2f692 QSPanel: fix brightness slider logic
-ddd7fc45c86 base: SystemUI: Kill brightness mirror
-1e30c4bbd8c SystemUI: extend quick qs slider position [1/3]
-37dedb5915d SystemUI: Add brightness buttons to quick qs brightness slider
-4467c968544 SystemUI: Adapt quick qs brightness slider to Header image height
-2acfc5b54f1 SystemUI: QQS brightness: get container padding directly
-22e4412a8ba Implement quick QS brightness slider [1/3]
-9145092b8e7 Brightness QS: Make +- buttons optional
-578adf7632f Brightness slider + - buttons: use more granular values
-504c5cc9f3f Refresh QS brightness icon and improve its touch area and padding
-02ae0d300e8 Multi-User fixes for brightness slider mod
-0977cf51886 Adapt custom brightness actions to BrightnessDialog
-e62c6f73820 Brightness slider: fixes and improvements
-6d1ca95fa8c Brightness slider: Vibrate after a long press
-68fdc09d526 Brightness Buttons: Improve touch area
-514095ac7b2 Brightness slider: improve hide/show animation
-f6ad119d283 Brightness buttons: make touch area more reliable
-274e45f775c Rework auto brightness implementation
-bcd90abc018 Brightness slider buttons: make them dynamic (auto and manual)
-f8828314a0d Brightness slider: fix FC and code cleanup
-ab7e100f546 Make use of the brightness slider buttons
-6f9018e56dc Fix brightness icon not showing
-205ddb0632b Fix automatic brightness QS toggle icon
-36e8587fe7a SystemUI: auto brightness toggle improvements
-3ba5cd11bc4 Add option to select brightness slider positon [1/2]
-85e9249c258 SystemUI: Port brightness slider changes
-9a0fd5c4ac4 TunerService: Add parseInteger failsafe method
-df6ca0a7c16 BrightnessSlider: Remove all old sorcery of Slider
-14c1bcbae0f Make sensor block package list configurable [1/2]
-309644fcbaa SystemSensorManager: Rewrite code, kill redundancy.
-38fdb863a25 QS-Clock: Separate the Clock Colors as well [1/2]
-d36f57266ac QS-Clock: Font style & size options [1/2]
- * packages/apps/Settings
-912919586a UltraPowerSaving: Make it optional
-88703a1c9d BatteryHealth: Make it optional
-467f756231 Settings: Change some Dashboard icon colors
-df1451da8b Revert "Settings: adaptive icon"
-6eae8b7722 Show a warning dialog before network search
-eab900c7dd Settings: deviceinfo: Move imei information to Sim status
-e9ad520f8b Skip loading contextual cards if legacy cards are used
-e5c1e859ef SearchBar: Add avatar to search bar
-3e1934f3ec Revert "Make fingerprint illustrations single color"
- * packages/apps/Xtensions
-972d464b818 Xtensions: Add SELinux Switch
-f0417cb9745 Xtensions: Network Traffic Font style [2/2]
-d2260bceef6 Add Ambient Customizations [2/2]
-
-====================
-     2020-08-05    
-====================
- * external/arm-optimized-routines
-262c433 string: Fix CVE-2020-6096 for arm memcpy
+debbfc8b7d2d base: Port face unlock feature [3/4]
+433b239cdd8b [SQUASHED]:Nuke framework boost Causing battery drain
+8079c23cc824 Show the nearby chip for images and files too.
+04d5dc05988e Fallback ESC to BACK
  * frameworks/native
-2f16be919 sf: Exclude VDS use of HWC on non-UM platforms
-66f85c24e sf: Remove redundant allocateVirtualDisplay.
-d2d2ee049 sf: Allow VDS to use HWC
-5be03bda3 touch response optimizations
-ef096c235 gui: Fix array out of bound
-e74e58474 binder: Parcel avoid too small initial allocation
-e0ec58930 gl: Reorder when ImageManager thread starts
- * prebuilts/abi-dumps/vndk
-5856fa4 vndk: remove libpng from ABI check target
+dea7843ec surfaceflinger: avoid assumption remote binder is local
+eaed11928 surfaceflinger: Fix freeze
+4f9410c56 surfaceflinger: Fix issue with dequeueBuffer when multiple display present
+57fa5e88f surfaceflinger: Exclude CAF extensions from non-QC devices
+ * hardware/qcom-caf/msm8996/display
+4f156e95e commonsys-intf: display: Move extn interface to include
+6ee7f0432 commonsys-intf: display: Add extension interfaces
+ * vendor/xtended
+c27140757d vendor: Inherit Faceunlock
+51be43a7b7 Xtended: init v12.5
 
 ====================
-     2020-08-04    
+     2020-08-22    
 ====================
- * build/make
-6014a55f1 Merge tag 'android-10.0.0_r41'
- * device/oneplus/oneplus3
-a5c77bf3 op3: update sha for all files in vendor
-ffacf68c op3: Add unpinning support to update-sha1sums.py script
-f38f2848 op3: Handle moved blobs in update-sha1sums.py script
-34be4633 op3: Add script to update sha1sums of kanged blobs
- * external/gptfdisk
-27d8747 Merge tag 'android-10.0.0_r41' into staging/lineage-17.1_merge-android-10.0.0_r41
- * frameworks/av
-db4a79b713 Merge tag 'android-10.0.0_r41'
  * frameworks/base
-e16707db5b8 Merge tag 'android-10.0.0_r41'
+ce1c5acf5cbc MediaCard: fix fc during incognito chrome session
+a1d0db174836 AndroidRuntime: Remove support for image classes
+0992bcfcb2a5 SystemUI: decrease margin between qs and text
+7ec758d727bb SystemUI: Fix multiple issues with hiding unprovisioned SIMs
+96ba640cfc52 StatusBarSignalPolicy: Hide signal icons for disabled SIMs
+5155caa3e8df Fix a race conditon in `incident`.
+92f784ce9ef7 base: Add setting for clamp min auto screen brightness [1/2]
+e17fee6f7904 base: SystemUI: Disable junky LS clock & slice transition animations
+f1d1b63863b2 fix mis-merge during cherry-picking
+7462b46840de Remove unnecessary battery meter view impl in keyguard statusbar
+fa73fbd689d3 Keyguard: ReInflate views when density or font scale change
+5341395546bb fwb: allow changing navbar handle thickness [1/2]
+9976889c3edc ClipboardService: keep track of which app pasted from which
+fc5715e9c743 base: clipboard toast toggle [1/2]
+c2cda9519e94 base: iOS-like toast notification for clipboard access
+f33baeb2775c base: introduce WeatherView Bg Selection [1/2]
+ac06afb0925c base: add Weather Alignment Option [1/2]
+0adb1f148ada base: Xtend Text Clock Alignment to all TextView Clocks
+6be3dbf7687c Custom Text Clock Customizations [1/2]
+b36178ff2876 Add some charging animation [1/2]
+b1de3b78ebe6 Add MusicCard in VolumePanel [1/2]
+1e6c0acc8e78 Add VolumePanel Styles [1/2]
+66e6b0b29ac7 Revert "perf: Load performance lib from Zygote"
+ * frameworks/native
+7dceb4da9 surfaceflinger: Merge caf changes
+ * frameworks/opt/net/wifi
+e05551ea3 HDM: Resolve concurrent access issue - defer execution
+bdb23f2f9 [HDM] Fix concurrency failure
+ * packages/apps/DeskClock
+b793156af DeskClock: Fix alarm clock screen show black  when screen locked;
+af3fb2105 DeskClock: Setup data model before calling super.onStart()
+4705c549a DeskClock: add increasing volume option for alarm clocks
+ * packages/apps/Nfc
+f7c043d3 Avoid NFC continuous crash
  * packages/apps/Settings
-4941a9e116 Merge tag 'android-10.0.0_r41'
- * packages/services/Telephony
-39dfc892d Merge tag 'android-10.0.0_r41'
-
-====================
-     2020-08-03    
-====================
- * device/oneplus/oneplus3
-e3b19b6b op3: update adb props
-b7b9c159 op3: Target uses the QTI Bluetooth stack.
-59f0d7d9 op3: Add vendor manifest entry for IBtConfigStore.
-3b53b9fc op3: Add vendor manifest entry for BT HIDL 2.0.
-2320c727 op3: Add default BTSAR HAL 1.0 to manifest.
+3eeefec7b0 Settings: Redesign PreferenceCategory
  * packages/apps/Xtensions
-aad6e15b84d EdgeLighting: Add option for random colors [2/2]
-252a722a60d Xtensions: correct few summaries
-568d0d3334f Xtensions: hide qs drag handle [2/2]
-29d2b4d24b5 Xtensions: adapt for the new auto brightness icon
+81e9ece5485 AmbientCustomization: fix wrong strings
+2d345335f83 Xtensions: Ambient: move all ambient-doze settings at one place
 
 ====================
-     2020-08-02    
+     2020-08-21    
+====================
+ * packages/apps/DeskClock
+f826104cf DeskClock: Use POWER_OFF_ALARM permission
+2e35671d6 DeskClock: Add support of power off alarm feature
+
+====================
+     2020-08-20    
+====================
+
+====================
+     2020-08-19    
+====================
+ * frameworks/opt/telephony
+799312690 TelephonyExtUtils: Handle extphone binder death
+067caa100 TelephonyExtUtils: Set timeout for (de)activating provision
+dd0335710 Introduce TelephonyExtUtils
+ * packages/apps/Settings
+e2fdee160e Settings: Add setting for clamp min auto screen brightness [2/2]
+
+====================
+     2020-08-18    
+====================
+
+====================
+     2020-08-17    
+====================
+ * external/pulse
+3745e72 Fix NPE and UI crash on Activating Pulse with hidden gesture pill
+ * packages/apps/Settings
+d2437e25c1 Settings: allow changing navbar handle thickness [2/2]
+ * packages/apps/Xtensions
+3254f5c728e Xtensions: Clipboard toast toggle [2/2]
+
+====================
+     2020-08-16    
+====================
+ * kernel/oneplus/msm8996
+5d38279b83e5 make default schedutil instead of performance gov
+ * packages/apps/Xtensions
+5672f5e6c51 introduce WeatherView Bg Selection [2/2]
+74f48734c0b add WeatherView Alignment options [2/2]
+
+====================
+     2020-08-15    
+====================
+ * packages/apps/Xtensions
+f7b75961c76 SB Clock & Net Traffic Fonts: allow all fonts usage
+
+====================
+     2020-08-14    
+====================
+
+====================
+     2020-08-13    
 ====================
  * art
-172710db7c ARM: Optimize Div/Rem by positive const for non-negative dividends
-ce5483507f ARM: Optimize Div/Rem by 2^n for non-negative dividends
-5e6ef1566e ARM32: Combine LSR into ADD for Div by 2^n
- * development
-d4f62d941 Merge pull request #23 from Project-Xtended/dependabot/npm_and_yarn/tools/winscope/elliptic-6.5.3
- * external/libjpeg-turbo
-931ce6b libjpeg-turbo: add config to disable merged upsample
-f8d0926 Implement fast IDCT using Arm NEON intrinsics
-c18af5c Precompute DCT block output pointers in IDCT functions
-954cb1b Implement slow IDCT using Arm NEON intrinsics
-53d0e7a Implement 4x4 IDCT using Arm NEON intrinsics
-1e355b5 Implement 2x2 IDCT using Arm NEON intrinsics
-735df46 Add Arm NEON implementation of h2v2_merged_upsample
-ceae9cd Add Arm NEON implementation of h2v1_merged_upsample
-4060ca2 Implement YCbCr->RGB565 using Arm NEON intrinsics
-2299a9d Implement YCbCr->RGB using Arm NEON intrinsics
-b516487 Add Arm NEON implementation of h2v2_upsample
-18ce0f6 Add Arm NEON implementation of h2v1_upsample
-f225c42 Fix static const data duplication
-a2273b6 Add extra guard for loop unroll pragma on AArch64
-c182f7f Add Arm NEON implementation of h2v1_fancy_upsample
-85c6671 Add Arm NEON implementation of h1v2_fancy_upsample
-7e92ef4 Add SIMD function stubs for h1v2_fancy_upsample
-d93c933 Add Arm NEON implementation of h2v2_fancy_upsample
-f001f97 Add 32-byte memory alignment check for Arm NEON
-3eec9fb Add memory alignment size check in jmemmgr.c
-7421c2c Add license type: BSD+zlib+MIT is NOTICE
- * external/skia
-d9fdd8b511 external/skia: Take Fast Jpeg Decoding Path
+2f089db736 build/Android.oat: Disable debug
+de350ba5a7 dex2oat: default to speed-profile if we have a profile
+bdfcb166ab art: Disable debugging
 
 ====================
-     2020-08-01    
+     2020-08-12    
 ====================
+ * packages/apps/Xtensions
+f03f268a84d extend Text Clock Alignment to all TextView Clocks
 
 ====================
-     2020-07-31    
+     2020-08-11    
 ====================
- * development
-77c47bbd3 Build(deps): Bump elliptic from 6.4.0 to 6.5.3 in /tools/winscope
+ * packages/apps/Xtensions
+0b5ce2150b4 Custom Text Clock Customizations [2/2]
  * vendor/xtended
-bdf9dbf7c5 repopick: Update URL
+0bf2162af0 kernel: Bail-out if kernel config isn't set
+1bc7f5d257 kernel: Add support for module aliases
+86b173bb8a kernel: Allow installing modules on vendor_overlay
+f36bb2ddd6 prebuilt: Clean up xtended-system.rc
 
 ====================
-     2020-07-30    
+     2020-08-10    
 ====================
- * frameworks/native
-1671d9ad9 sf: Report active config to java framework
-
-====================
-     2020-07-29    
-====================
+ * device/oneplus/oneplus3
+96f7f1da op3: update kernel tweaks
+dd303a51 sdm845-common: wifi: Enable QPower and Deep sleep at the same time
+949f9765 op3: update sha for all files in vendor
+e9141f84 op3: Add unpinning support to update-sha1sums.py script
+a1bea8f4 op3: Handle moved blobs in update-sha1sums.py script
+d99fd675 op3: Add script to update sha1sums of kanged blobs
+fc80f9e5 op3: update adb props
+a5f82da5 op3: Target uses the QTI Bluetooth stack.
+9655708e op3: Add vendor manifest entry for IBtConfigStore.
+bc4b1f01 op3: Add vendor manifest entry for BT HIDL 2.0.
+193403d6 op3: Add default BTSAR HAL 1.0 to manifest.
+54f1abb7 update new thermals for msm8996 (#60)
+b2661661 init.qcom.rc : remove time_daemon
+fcefa24e op3: Update display configuration HAL to v2.0.
+f791a75b op3: Bring back IOP HAL, bump to v2.0.
+5af24606 op3: Import performance (IOP) stack from LA.UM.8.6.r1-04400-89xx.0
+299c04a5 op3: Import performance stack from LA.UM.8.6.r1-04000-89xx.0
+f191e0ec op3: update Wi-Fi from LA.UM.8.6.r1-04400-89xx.0
+e8b4ac12 op3: Make Script Compatible for aosp ROMs
+c5753311 op3: Update CDSP blobs from LA.UM.8.6.r1-04400-89xx.0
+1f5e1619 op3: Update Wi-Fi Display blobs from LA.UM.8.6.r1-04400-89xx.0
+fcfea7d9 op3: Update TimeService from LA.UM.8.6.2.r1-06600-89xx.0
+ac631aa2 op3: Update power-off alarm blobs from LA.UM.8.6.r1-04400-89xx.0
+7d238c9f op3: Update postprocessing from LA.UM.8.6.r1-04400-89xx.0
+54faf982 op3: Update Peripheral Manager from LA.UM.8.6.r1-04400-89xx.0
+53539a86 op3: Update Media from LA.UM.8.6.r1-04400-89xx.0
+65415ca0 op3: Update Listen Blobs from LA.UM.8.6.r1-04400-89xx.0
+ * packages/apps/Settings
+ea492eeef2 Settings: Port face unlock feature [4/4]
+eb74d27980 Add VolumePanel Styles [2/2]
  * packages/apps/Xtensions
-4e3f88b6264 Brightness QS: Make +- buttons optional
-
-====================
-     2020-07-28    
-====================
- * packages/apps/Xtensions
-48c22654026 Implement quick QS brightness slider [2/2]
-a953541d10b Add option to select brightness slider positon [2/2]
-
-====================
-     2020-07-27    
-====================
- * frameworks/base
-8a7bd6cfadb Automatic translation import
-a011fbfd4e1 base: Add Linotte font [1/2]
-a0a49de1239 SystemUI: Mark some strings as non-translatable
- * packages/apps/Xtensions
-b553e7f2041 Make sensor block package list configurable [2/2]
-5d96eac119f QS-Clock: Separate the Clock Colors as well [2/2]
-91bd84efff3 QS-Clock: Font style & size options [2/2]
+633ab5e1b51 Add some charging animation [2/2]
+c79db1d0a5d Add MusicCard in VolumePanel [2/2]
+ * vendor/oneplus
+5926205c op3: update regenerated vendor makefiles
+de143760 op3: Import Audio Firmware from OOS 9.0.6
+ada42c96 op3: Update QTI bluetooth stack from LA.UM.8.6.r1-04400-89xx.0
+3d6d196f op3: Update Listen Blobs from LA.UM.8.6.r1-04400-89xx.0
 
