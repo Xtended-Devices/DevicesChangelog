@@ -1,12 +1,11 @@
---------------------------------------
-•• Hotdogb XQ v12.0 Changelog •• 
---------------------------------------
-• Fixed FOD not recognizing on AOD
-• Enable QPower and deep sleep same time
-• Removed Prebuilt GCam in favour of manual update.
-• Removed OOS camera & Gallery.
-• Added Snap as default camera.
-• Kernel upstream to 4.14.192.
-• Faster deep sleep.
-• A lot of major changes kernel side.
-• Misc. optimizations.
+===== Hotdogb XQ v12.5 Changelog =====
+
+* Import audio config from OOS.
+* Updated audio config from OOS 10.3.4.
+* Added back Oneplus Camera & Gallery.
+* Use 24bit offload playback.
+* Updated ramdisk as per kernel changes.
+* Fixed audio not coming on youtube after pause/play.
+* Kernel has been tweaked a lot to get better battery.
+* Kernel compiled with clang 12. 
+* Misc. Cleanup & Fixes.
