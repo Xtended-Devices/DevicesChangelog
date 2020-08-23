@@ -1,7 +1,7 @@
 
 
-Imported Pixel libperfmgr Power HAL
+Tuned powerhint 
 Updated kernel
-Added keycodes for sam headsets
-Disabled NFC for indian devices
+Fixed sim reset issue
+Disabled VSync for CPU rendered apps
 Other additions and improvements
