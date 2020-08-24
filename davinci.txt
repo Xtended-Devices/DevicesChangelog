@@ -4,4 +4,7 @@ Tuned powerhint
 Updated kernel
 Fixed sim reset issue
 Disabled VSync for CPU rendered apps
+Updated display dryvers
+Power  off alarm
+Screen off fod
 Other additions and improvements
