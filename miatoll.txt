@@ -1,0 +1,3 @@
+**MSM Xtended XQ Release-v12.5 Device Changelogs
+
+Initial build
