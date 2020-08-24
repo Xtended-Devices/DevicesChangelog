@@ -14,4 +14,4 @@ Device Changelog:
 • Improved boot/shutdown speeds
 • Optimized init scripts for EAS
 • Major init scripts cleanup and fixes
-• Upstreamed Dark Ages kernel to 4.9.233
+• Upstreamed kernel to 4.9.233
