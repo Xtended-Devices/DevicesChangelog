@@ -3,6 +3,10 @@ Updated Quicksilver from upstream
 Switched back to AOSP Recorder
 Improved battery life
 Fixed Slow WiFi
+Credits:
+@ghostrider_reborn for kernel
+@mg712702 for trees
+@gordboy for testing
 
 XQ: v12:
 - Updated kernel to Quicksilver .193
