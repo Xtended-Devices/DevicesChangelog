@@ -1,4 +1,4 @@
-** X00T Official Release XQ v12 Changelog **
+** X00T Official Release XQ v12.5 Changelog **
 
-* Dropped more unused blobs
+* Fixed Calling Sim Preference reset on reboot
 * Latest Stardust
