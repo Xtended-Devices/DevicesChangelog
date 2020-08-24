@@ -1,7 +1,5 @@
-* XQ v11.5 ( 26/07/2020 )
+* XQ v12.5 ( 24/08/2020 )
 
-- Upstream kernel 4.4.231 Morph-Limited
-- Add pie ts config
-- Set cortex-a53
-- Switch to wahoo cpuset
-- Update power tweaks for EAS
+- Upstream kernel 4.4.233 Morph-Limited
+- Added MiuiCamera
+- More optimization
