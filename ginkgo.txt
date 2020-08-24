@@ -2,6 +2,7 @@ XQ v12.5:
 Updated Quicksilver from upstream
 Switched back to AOSP Recorder
 Improved battery life
+Fixed Slow WiFi
 
 XQ: v12:
 - Updated kernel to Quicksilver .193
