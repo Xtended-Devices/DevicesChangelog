@@ -1,17 +1,10 @@
-(08/09/2020)
-- Update XiaomiParts
-- XiaomiParts: Add Speaker Gain
-- XiaomiParts: Add Earpiece Gain
-- XiaomiParts: Add Microphone Gain
-- XiaomiParts: Add Headphone Gain
-- XiaomiParts: CPU/GPU Boosts
-- XiaomiParts: Touch Boosts
-- XiaomiParts: SELinux Switcher
-- XiaomiParts: Update KCal Preview Image
+(08/24/2020)
+- Allocate heap values dynamically
+- Remove fingerprint HAL from background cpuset (faster FP)
+- Use handset-stereo-dmic-ef for camcorder-mic usecase
 - Build Fingerprint QQ3A.200805.001 from coral
 - Disable Battery Health (No panic)
 - Disable Ultra Power Saving
 - Clean up sepolicy for XiaomiParts
-- Added some Keidorian build prop tweaks
-- Credits to SonalSingh18, ronaxdevil, Saurab Charde, Keidorian, and SYYLG
-- Synced to latest V12.0 source release
+- Screencast also fixed
+- Synced to latest V12.5 source release
