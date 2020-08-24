@@ -1,13 +1,8 @@
-** tulip Official Release XQ v12 Changelog **
+** tulip Official Release XQ v12.5 Changelog **
 
-(09/08/2020)
-- Updated OpenGL to 3.2 V@474
-- Updated Vulkan to 1.1.128
-- Change to rounded corners when hiding notch
-- Using sdm660-common tree from sdm660 org, but still FBE build (no need to format data if you're already on FBE build)
-- Fixed Screen Cast
-- Disabled Battery Health Overlay 
-- Fixed night light
-- Add Spectrum support
-- Update to Coral's August fingerprint
-- Upstreamed sdm660 kernel to 4.4.232
+(24/08/2020)
+- Xiaomi-sdm660 kernel upstreamed to 4.4.233
+- Drop spectrum support and remove from XiaomiParts
+- Disable Ultra Power Saving mode from Settings->battery
+
+Note: If you face an annoying window about XiaomiParts's crash, please clean flash
