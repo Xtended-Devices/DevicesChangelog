@@ -1,3 +1,4 @@
 * Xtended v12.5 Release
-* Updated kernel to Optimus Drunk v10.22
-* Some small powerhal fixes
+* Now uses stock vendor instead of source built vendor
+* You need to flash latest stock rom before flashing this build
+* Clean flash recommended
