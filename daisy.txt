@@ -1,4 +1,33 @@
 --------------------------------------
+••  Daisy XQ v12.5 Changelog •• 
+--------------------------------------
+
+• Address sepolicy denials
+• Update OpenGL-V@474.0
+• Update WCNSS caf config from LA.UM.8.6.2.r1-08100-89xx.0+ and set new rules
+• CarrierConfig: Update VoLTE support 
+• Ignore RSSNR signal level to Improve reception
+• Kernel Loki 4.9.233 - add support Sound control, vibrator feedback, fast charge for usb 3.0 e kcal
+• Overlay: decrease the slow and fast charging threshold
+• Overlay: show "Turbo Charging" instead of "Charging Rapidly"
+• XiaomiParts: Add new Vibration Control, fast charge for usb 3.0, icons follow Accent Color!
+• Bluetooth: Increase number of SEPs to support SHO/Mcast 
+• Bluetooth: Increase MAX ACL connections to 16
+• BT:cleanup of unused FLAG
+• Prevent RTT VT call on networks that don't support it 
+• Give wfd service permission to write secure settings
+• Add missing priv-app permissions 
+• Enable VoLTE for Mobifone Vietnam
+• Enable VoLTE for Viettel Vietnam 
+• Disable AUDIO_FEATURE_ENABLED_KPI_OPTIMIZE
+• Set vendor.post_boot.parsed=1
+• MiuiCam: Fixed selfies with mottled colors
+• Import Thermal From Olive
+• Props: enable PSI monitor
+• New Offline charge animation
+• And other improvements
+
+--------------------------------------
 ••  Daisy XQ v12.0 Changelog •• 
 --------------------------------------
 
@@ -6,3 +35,40 @@
 • Kernel 4.9.232 Loki (Add Sound Control & Kcal support)
 • Update to Coral's August fingerprint
 • And other improvements
+
+
+
+
+--------------------------------------
+••  Daisy XQ Changelog Previous •• 
+--------------------------------------
+
+• Update Graphics firmware from Daisy V11.0.7.0
+• Add Adreno Team Exclusive Thermals for Snapdragon 625
+• Wifi - Make channel selection range wider
+• Performance improvement
+• Micam
+• XiaomiParts: add New Switch button HAL3 | HAL1
+• Hal1 enabled by default now. But you can enable Hal3 in Xparts
+• Fix phone calls with bluetooth
+• Revenge Calculator
+• Support for all Controllers
+• Gboard - Rounded corners and no navbar spacing
+• Xiaomi Parts: disable unused parts:
+Our current kernel doesn't support these options:
+-torch brightness
+-camera flash brightness
+-charging led brightness
+• ARCore Support
+• FM speaker fixed
+• Green Wifi-Display Fix
+• Google Recorder Fix.
+• Ship prebuilt Twrp - SHRP_v2.3.1
+• Fix green Whatsapp in dark environments
+• XiaomiParts - CPU&GPU Boost. Touchboost. MSM Thermal. Core Control, etc.
+• XiaomiParts: SELinux Switch
+• New XiaomiParts
+• Spectrum
+• Vulcan OpenGL Enabled
+• Update Blobs From LA.UM.8.6.2.r1-07600
+• 4K Video
