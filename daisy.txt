@@ -7,20 +7,28 @@
 • Update WCNSS caf config from LA.UM.8.6.2.r1-08100-89xx.0+ and set new rules
 • CarrierConfig: Update VoLTE support 
 • Ignore RSSNR signal level to Improve reception
-• Kernel Loki 4.9.233 - add support Sound control, vibrator feedback, fast charge for usb 3.0 e kcal
+• Kernel Loki 4.9.233 - add support Sound control, vibrator feedback, fast charge for usb 3.0 and kcal
 • Overlay: decrease the slow and fast charging threshold
 • Overlay: show "Turbo Charging" instead of "Charging Rapidly"
 • XiaomiParts: Add new Vibration Control, fast charge for usb 3.0, icons follow Accent Color!
+• XiaomiParts: Add XiaomiParts Qs Tile 
+• Add node for HAL3 | HAL1 Switch parts
+• Choose between Virtual or External WFD display 
 • Bluetooth: Increase number of SEPs to support SHO/Mcast 
 • Bluetooth: Increase MAX ACL connections to 16
-• BT:cleanup of unused FLAG
+• BT: cleanup of unused FLAG
+• Add property value to indicate support for dual SIM mode.
+• Enable IMS feature flags for supported carriers
 • Prevent RTT VT call on networks that don't support it 
+• CarrierConfig: Enable VoLTE support for Telkomsel (Indonesia)
+• CarrierConfig: Enable VoLTE support for Bangladesh 
 • Give wfd service permission to write secure settings
 • Add missing priv-app permissions 
 • Enable VoLTE for Mobifone Vietnam
 • Enable VoLTE for Viettel Vietnam 
 • Disable AUDIO_FEATURE_ENABLED_KPI_OPTIMIZE
-• Set vendor.post_boot.parsed=1
+• Allows perf to work properly on boot to restore selected power profile
+• Fix log spam QCOM PowerHAL: Failed to acquire lock
 • MiuiCam: Fixed selfies with mottled colors
 • Import Thermal From Olive
 • Props: enable PSI monitor
@@ -43,10 +51,38 @@
 ••  Daisy XQ Changelog Previous •• 
 --------------------------------------
 
+• Address sepolicy denials
+• wifi: Make channel selection range wider 
+• fstab: Add f2fs userdata entry 
+• set 2GB as zram
+• init: cleanup init.qcom.sh shell script 
+• wifi: add parameters for Hotspot 2.0
+• Add libwifi-hal-qcom
+• wlan: BlueTooth co-existence parameters
+• init.qcom.rc: create directory for wifihal service
+• Wifi Bonding For 2.4ghz band
+• Adding Cerberus permissions and whitelist
+• LMKD
+• Improve Bluetooth + Wi-Fi Coexistence
+• BlueTooth co-existence parameters
+• MiuiCam - Dual camera watermark
+• XiaomiParts: Add dirac QS tile
+• XiaomiParts: Fixed Random Crashes Dirac QS Tile 
+• rootdir: always use lz4 for compression
+• Target uses the QTI Bluetooth stack.
+• Read BT address from property
+• Enable support exFAT/sdFAT
+• enabled send_mic_mute_to_AudioManager overlay
+• Fix usb adb
+• Enable some ux optimizations
+• remove more deprecated display flags 
+• Add vendor.qti.esepowermanager Entry in Manifest 
+• XiaomiParts: Add HAL3|HAL1 Switch button profiles & QS Tiles
 • Update Graphics firmware from Daisy V11.0.7.0
 • Add Adreno Team Exclusive Thermals for Snapdragon 625
 • Wifi - Make channel selection range wider
 • Performance improvement
+• Set properties for updated Vulkan driver 
 • Micam
 • XiaomiParts: add New Switch button HAL3 | HAL1
 • Hal1 enabled by default now. But you can enable Hal3 in Xparts
@@ -68,7 +104,43 @@ Our current kernel doesn't support these options:
 • XiaomiParts - CPU&GPU Boost. Touchboost. MSM Thermal. Core Control, etc.
 • XiaomiParts: SELinux Switch
 • New XiaomiParts
+• Enable Wired/BT headset focus mode
+• Enable Fast BSS Transition
+• Increase maximum number of BSS in memory 
+• overlay: Enable legacy app scaling
+• overlay: Update auto/screen brightness
+• add missing net_raw to pm-service
+• Copy media_codecs_google_video_le from fw/av
+• switch to prebuilt thermal blobs
+• Compile Kernel with clang
+• fix bad processing of the chown system command
+• rootdir: Add nodes for Smart Charging 
+• Set DT2W permissions
+• Add overlays for SystemInfo
+• Battery Health Overlays 
+• Add display props
+• Add support for alipay and wechat fingerprint payment
+• Disable NearbyMessagesService
+• Disable animateScreenLights 
+• SmartCharging Available
+• Fix Fps Info
+• Fix SmartCharging
+• Make the UI smoother 
+• wifi: smarter decisions on whether to use a 2GHz or 5Ghz AP 
+• wifi: Disable RX Wakelock Feature
+• Enable fingerprint swipe gesture
+• Force enable vowifi
 • Spectrum
 • Vulcan OpenGL Enabled
 • Update Blobs From LA.UM.8.6.2.r1-07600
+• Fix Charge-off
+* Battery Saver Fix 
 • 4K Video
+• Fix zoom recent lag
+• Fix Lags
+• Faceunlock
+• Support Dolby
+• Dolby fix force close
+• Fix Instagram sound robotic
+• Fix DT2W
+• And other improvements
