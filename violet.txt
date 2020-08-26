@@ -7,9 +7,13 @@ Device changelogs for Build (11/08/2020)
 • Miscellaneous Changes & Fixes
 
 
+Changelogs for Build (25/08/2020)
 
 
-
+• Switched to azure kernel
+• Fixed Battery Health
+• Fixed VoIP
+• Fixed System Info
 
 
 
