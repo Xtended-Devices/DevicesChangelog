@@ -1,3 +1,5 @@
 Device Changelogs:
 
-*cleanup and rebase trees
+*fixed pubg bug
+*kernel upstreamed to v4.233
+*disable sf backpressure
