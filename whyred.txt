@@ -1,13 +1,6 @@
-**MSM Xtended XQ Release-v12.0 Device Changelogs**
-- Update all blobs from  jasmine-user-10-QKQ1.190910.002-V11.0.11.0.QDIMIXM-release-keys
-- Add proper powerhints for SD 636
-- Bump vendor security patch level from Jasmine V11.0.11.0.QDIMIXM
-- Speed up fingerprint enrollment and unlock (turn off ultra powersaving mode to make it moar fast)
-- Added Gcam go and removed mi cam
-- Added XiaomiDoze back
-- Merged'LA.UM.8.2.r2-02300-sdm660.0' caf tag into the kernel
-- Upstream wireguard to 1.0.20200729 snapshot
-- Import binder from android-4.19-q branch from android common
-- Fix ViLTE for Smartfren carrier (Indo)
-- Upstreamed kernel to linux version 4.4.232
+**MSM Xtended XQ Release-v12.5 Device Changelogs**
+- Fall back to thermals from jasmine V11.0.4.0.QDIMIXM
+- Fixed weird brightness issues on high temps
+- Update GPU drivers to v454
+- Use xtended clang to compile kernel
 - Some  misc changes and fixes
