@@ -1,3 +1,9 @@
+** MSM Xtended XQ Release v12.5 Changelogs **
+- Inlined latest immensity
+- Fixed safetynet
+- Added pixel live walls
+
+
 ** MSM Xtended XQ Release v11.5 Changelogs
 ** OSS Vendor Changelogs **
 - Inlined with Latest Immensity Kernel
