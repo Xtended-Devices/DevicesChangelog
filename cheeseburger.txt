@@ -1,3 +1,6 @@
+===== cheeseburger XQ v13.0 Changelog =====
+* Tribute To Martin Coulon 
+
 ===== cheeseburger XQ v12.5 Changelog =====
 
 * Fixed audio from wired headset.
