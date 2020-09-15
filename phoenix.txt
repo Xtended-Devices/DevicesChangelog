@@ -1,4 +1,6 @@
-* Xtended v12.5 Release
-* Now uses stock vendor instead of source built vendor
-* You need to flash latest stock rom before flashing this build
-* Clean flash recommended
+* Xtended Tribute to Martin Coulon Release
+* Optimus Drunk Phoenix v10.28
+* Selinux is now enforcing
+* Fixed video recording
+* Now uses sunfish (pixel 4a) fingerprint to pass safetynet
+* Updated brightness values & model detection
