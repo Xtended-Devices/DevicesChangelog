@@ -1,3 +1,15 @@
+** MSM Xtended XQ Release v13.5 Changelogs **
+- bump to september coral build fp
+- Updated graphics blobs to LA.UM.8.1.r1-15600-sm8150.0
+- Granted rw permission to hgsl node
+- Override config for platform number verification
+- Added permissions for RCS service
+- Added net_raw permissions for time_daemon service
+- Filtered out the conference host in the CEP for some carriers
+- Added new config overlay for call composer
+- Imported headset jack layout
+- Fixed mic issues in apps like WhatsApp
+
 ** MSM Xtended XQ Release v12.5 Changelogs **
 - Inlined latest immensity
 - Fixed safetynet
