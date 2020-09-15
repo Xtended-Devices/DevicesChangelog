@@ -1,10 +1,6 @@
-(08/24/2020)
-- Allocate heap values dynamically
-- Remove fingerprint HAL from background cpuset (faster FP)
-- Use handset-stereo-dmic-ef for camcorder-mic usecase
-- Build Fingerprint QQ3A.200805.001 from coral
-- Disable Battery Health (No panic)
-- Disable Ultra Power Saving
-- Clean up sepolicy for XiaomiParts
-- Screencast also fixed
-- Synced to latest V12.5 source release
+(09/15/2020)
+- Build Fingerprint from walleye
+- Update media blobs
+- Switched to MengT Kernel HMP
+- Last XQ Release ❤️
+- RIP (Rest in Power) Sir Martin Coulon
