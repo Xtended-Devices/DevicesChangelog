@@ -79,3 +79,14 @@ Xq 12.5
  * Fixed a bug wherein audio was not recorded while video recording in gcam & stock cam.
  * Fixed Mixerpath routing audio which gave a bug for call audio being played through loudspeaker instead of earpiece
  * Compiled with Proton Clang v 12.0.0
+
+Xq 13 Tribute-To-MartinCoulon
+ * Massive blob updates from LA.UM.8.6.r1-04400-89xx.0 CAF tag
+ * ADSP, Audio, Media, Graphic, Postprocessing, sec_config, ril, ims, qmi blob updates.
+ * Update gatekeeper, drm, tui, keymaster, gpu firmware and add missing soundfx blobs with battery and thermal improvements.
+ * Display, Media, Audio HAL update merged with latest CAF tag LA.UM.8.6.2.r1-08400-89xx.0
+ * Update Power HAL to 1.2
+ * Added Dolby audio and blobs from moto lake
+ * Update EGL Vulkan Open GL drivers to latest v490
+ * Compiled with Clang 11.0.4
+ * Special thanks to @ZyxxeZ for blob upates and dolby without @ZyxxeZ , @prometheusXderpgang , @MRTHAKER without them this was never possible.
