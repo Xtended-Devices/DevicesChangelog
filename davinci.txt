@@ -1,10 +1,8 @@
 
 
-Tuned powerhint 
+Add live display 
 Updated kernel
-Fixed sim reset issue
-Disabled VSync for CPU rendered apps
-Updated display dryvers
-Power  off alarm
-Screen off fod
+Add Sunligh tEnhancement
+Update blobs from MIUI 12.0.3.0
+Enable System Info
 Other additions and improvements
