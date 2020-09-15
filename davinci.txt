@@ -4,5 +4,4 @@ Add live display
 Updated kernel
 Add Sunligh tEnhancement
 Update blobs from MIUI 12.0.3.0
-Enable System Info
 Other additions and improvements
