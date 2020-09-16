@@ -4,3 +4,4 @@
 * Fixed video recording
 * Now uses sunfish (pixel 4a) fingerprint to pass safetynet
 * Updated brightness values & model detection
+* Fixed VoLTE & VoWifi
