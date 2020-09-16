@@ -1,5 +1,5 @@
-** Tissot Official Release XQ v12.5 Changelog **
+** Tissot Official Release XQ v13 Changelog **
 
-* Kernel Upstreamed to 4.9.233
-* Added Moto Dolby
-* Added Face Unlock
+* Kernel Upstreamed to 4.9.235
+* Fixed Gcam freezing and forcerebooting
+* Fixed focus hunting issues
