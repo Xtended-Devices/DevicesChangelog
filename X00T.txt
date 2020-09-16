@@ -1,4 +1,3 @@
-** X00T Official Release XQ v12.5 Changelog **
+** X00T Official Release XQ v13 Changelog **
 
-* Fixed Calling Sim Preference reset on reboot
-* Latest Stardust
+* Latest Stardust: .235
