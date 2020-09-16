@@ -1,8 +1,6 @@
-** tulip Official Release XQ v12.5 Changelog **
-
-(24/08/2020)
-- Xiaomi-sdm660 kernel upstreamed to 4.4.233
-- Drop spectrum support and remove from XiaomiParts
-- Disable Ultra Power Saving mode from Settings->battery
-
-Note: If you face an annoying window about XiaomiParts's crash, please clean flash
+** tulip Official Release XQ v13-Tribute-To-MartinCoulon Changelog **
+(16/09/2020)
+- Xiaomi-sdm660 kernel upstreamed to 4.4.236
+- sdm660-common: Update blobs Vulkan & OpenGL-V@490.0 
+- sdm660-common:OpenGl: downgrade libC2D2.so to V@474.0 to fix screenrecorder and Instagram video freezes.
+- Remove default MiuiCamera and replace with DMGC GCam
