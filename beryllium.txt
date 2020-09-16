@@ -1,3 +1,4 @@
-XQ v12.5:
+XQ Tribute-To-MartinCoulon:
+- Switch to user build.
 - Fixed HDR.
-- Updated Ingenium kernel to v1.2.
+- Updated Ingenium kernel to v1.3.
