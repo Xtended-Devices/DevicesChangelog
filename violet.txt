@@ -16,12 +16,13 @@ Changelogs for Build (25/08/2020)
 • Fixed System Info
 
 
+Changelogs for Build [XQ V13] (16/09/2020)
 
-
-
-
-
-
+•Los Kernel Inbuilt
+•Switched to walleye oreo fp
+•Kanged dexpreopt bits from OnePlus 7 trees. (Improved boot time) - Thanks to @baalajimaestro.
+•Nuked livedisplay for now
+•Improved Violet Parts
 
 
 
