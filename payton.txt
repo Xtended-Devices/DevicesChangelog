@@ -1,5 +1,5 @@
 Device Changelogs:
 
-*fixed pubg bug
-*kernel upstreamed to v4.233
-*disable sf backpressure
+*kernel upstreamed to v4.236
+
+###CLEAN FLASH RECOMMENDED###
