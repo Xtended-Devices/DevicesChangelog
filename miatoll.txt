@@ -1,3 +1,10 @@
-**MSM Xtended XQ Release-v12.5 Device Changelogs
+**MSM Xtended XQ Release-v13.0 Device Changelogs
 
-Initial build
+• Kernel upstreamed to 4.14.198
+• Screen bleeding issues fixed
+• Fixed front camera crash in ANXCamera
+• Added Touchboost
+• Added Adreno Idler
+• Added Wireguard VPN support
+• Fixed f-sync toggle permission
+• Added XiaomiParts
