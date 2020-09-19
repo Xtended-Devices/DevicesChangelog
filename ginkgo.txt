@@ -1,3 +1,12 @@
+XQ v13:
+Switched to @ghostrider_reborn's Device tree
+Updated Quicksilver .198
+Updated WireGuard v1.0.20200908
+Fixed QS SysInfo blackscreen
+Credits:
+Thanks to @ghostrider_reborn for tree and kernel
+Thanks to @Kostasgiapis, @eli_kq and @sanityzer for testing
+
 XQ v12.5:
 Updated Quicksilver from upstream
 Switched back to AOSP Recorder
