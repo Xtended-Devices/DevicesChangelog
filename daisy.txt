@@ -1,4 +1,49 @@
 --------------------------------------
+••  Daisy XQ v13.0 Changelog •• 
+--------------------------------------
+
+• Address sepolicy denials
+• Kernel 4.9.236 loki #GetXtended
+• Fix Night light
+• Fix lag Ultra Power Saving - some kernels you may experience lag for a few seconds when unlocking the screen
+• Update permissions
+• Enable Codec2
+• Add smart charging sysfs nodes
+• FaceUnlock only after swiping up
+• Libbthost_if from hardware/qcom
+• Disable vendor mismatch warning (Remove the vendor mismatch message due to custom kernel)
+• Rename to config_deviceDisabledComponents
+• Add full Support Carrier Smartfren ViLTE
+• Update CarrierConfig from LA.UM.8.6.r1-04000-89xx.0 
+• Status bar extra padding 8dp
+• Remove bnep\d from tetherable BT interfaces
+• wifi: set beacon missed count threshold
+• wifi: Limit hotspot to 12 devices 
+• Enable VoWIFI/ViLTE for Airtel(Bihar)
+• Bromite System WebView
+• Update WCNSS_qcom_cfg.ini from deen's PPK29.68-16-8
+• Better auto/screen brightness
+• XiaomiParts: Add More TCP *Congestion Algorithm
+• Update to Orangefox Official Recovery R11.0 Stable prebuilt
+• Set BT_CLEAN_TURN_ON_DISABLED flag to TRUE 
+• BT: Sync with CAF
+• Fix dual sim devices
+• Checkout USB Ramdisk From LA.UM.8.6.2.r1-07600-89xx.0
+• Give system permissions to kgsl-3d0 nodes
+• Overlay: Update Google's default assistant package
+• CPUInfo: Add CPU Temp Overlay
+• Update vulkan hardware level supported to 1
+• Update blobs OpenGL-V@490.0 
+• OpenGL: add libC2D2.so V@474.0 to fix screenrecorder
+• Prop: don't use fifo ui
+• Add 3.0 IMapper instance
+• Enable QC2 bufferqueue block-pool
+• Update to Sunfish September 2020 build fingerprint 
+• Allow network use for build process 
+• And other improvements
+
+
+--------------------------------------
 ••  Daisy XQ v12.5 Changelog •• 
 --------------------------------------
 
