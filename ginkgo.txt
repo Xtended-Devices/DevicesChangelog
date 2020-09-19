@@ -1,4 +1,6 @@
 XQ v13:
+**YOU MUST CLEAN FLASH**
+**NO OTA**
 Switched to @ghostrider_reborn's Device tree
 Updated Quicksilver .198
 Updated WireGuard v1.0.20200908
