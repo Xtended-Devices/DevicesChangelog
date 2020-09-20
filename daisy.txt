@@ -1,7 +1,7 @@
 --------------------------------------
 ••  Daisy XQ v13.0 Changelog •• 
 --------------------------------------
-
+**YOU MUST CLEAN FLASH**
 • Address sepolicy denials
 • Kernel 4.9.236 loki #GetXtended
 • Fix Night light
@@ -20,7 +20,6 @@
 • wifi: set beacon missed count threshold
 • wifi: Limit hotspot to 12 devices 
 • Enable VoWIFI/ViLTE for Airtel(Bihar)
-• Bromite System WebView
 • Update WCNSS_qcom_cfg.ini from deen's PPK29.68-16-8
 • Better auto/screen brightness
 • XiaomiParts: Add More TCP *Congestion Algorithm
