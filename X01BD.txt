@@ -1,6 +1,7 @@
-**MSM Xtended XQ Release-v12.5 Device Changelogs
+**MSM Xtended XR Release-v1.0 Device Changelogs
 
-• Upstreamed kernel to 4.4.233
-• Kernel compiled with latest proton clamg 12.0.0
+• Initial Release
+• Upstreamed kernel to 4.4.238
+• Enforcing Build
 
 
