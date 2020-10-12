@@ -90,3 +90,11 @@ Xq 13 Tribute-To-MartinCoulon
  * Update EGL Vulkan Open GL drivers to latest v490
  * Compiled with Clang 11.0.4
  * Special thanks to @ZyxxeZ for blob updates and dolby without @ZyxxeZ , @prometheusXderpgang , @MRTHAKER without them this was never possible.
+ 
+ XR 1
+  * Initial Android 11 | R build based on @ZyxxeZ trees
+  * Fixed hotspot thanks to @SuperDroidBond @ZyxxeZ for fix
+  * Fixed Press Home to Wake
+  * Fixed Night Light credits to @aswin7469
+  * Fixed Fingerprint not regestering
+  * Gapps prebuilt, clean falsh recommended and use latest twrp
