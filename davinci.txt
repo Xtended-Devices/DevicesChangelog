@@ -1,7 +1,5 @@
 
 
-Add live display 
-Updated kernel
-Add Sunligh tEnhancement
-Update blobs from MIUI 12.0.3.0
-Other additions and improvements
+Initial Release
+GAPS included
+G_Cam Urnix
