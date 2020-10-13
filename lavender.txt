@@ -1,6 +1,4 @@
-(09/15/2020)
-- Build Fingerprint from walleye
-- Update media blobs
-- Switched to MengT Kernel HMP
-- Last XQ Release ❤️
-- RIP (Rest in Power) Sir Martin Coulon
+** lavender Official Release XQ v1.0 Changelog **
+
+* Initial R Release
+* Permissive Build
