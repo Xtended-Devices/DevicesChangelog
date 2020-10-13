@@ -1,3 +1,6 @@
-** X00T Official Release XQ v13 Changelog **
+** X00T Official Release XQ v1.0 Changelog **
 
-* Latest Stardust: .235
+* Updated stock blobs from 432
+* Fixed stereo dmic on audio recording
+* 
+* Latest Stardust
