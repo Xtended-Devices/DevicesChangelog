@@ -1,7 +1,3 @@
-* Xtended Tribute to Martin Coulon Release
-* Optimus Drunk Phoenix v10.28
-* Selinux is now enforcing
-* Fixed video recording
-* Now uses sunfish (pixel 4a) fingerprint to pass safetynet
-* Updated brightness values & model detection
-* Fixed VoLTE & VoWifi
+* Xtended XR 1.0 Release
+* Don't use custom kernels, they won't boot
+* As this is the first build, expect some bugs
