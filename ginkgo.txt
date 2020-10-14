@@ -1,9 +1,13 @@
-XR v1.0:
+XR v1.0:-
 **YOU MUST CLEAN FLASH IF COMING FROM Q**
 Initial build
 Gapps included
-Genom .201 kernel
+Genom-#GetXtended kernel (KCAL and upstreamed to .201) 
 
 Bugs:
 Permissive
 DT2W (Can be fixed by flashing this file https://t.me/xtended_ginkgo/19215)
+
+Thanks to @ghostrider_reborn for trees, 
+@rama982 for kernel
+and @johnmart19, @c0dera and @saorsie for testing 
