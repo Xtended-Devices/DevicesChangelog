@@ -1,5 +1,6 @@
-** Tissot Official Release XQ v13 Changelog **
+** Tissot Official Release XR v1.0 Changelog **
 
-* Kernel Upstreamed to 4.9.235
-* Fixed Gcam freezing and forcerebooting
-* Fixed focus hunting issues
+* Initial Release
+* Upstreamed kernel to 4.9.238
+* Permissive Build
+* Flash NikGapps or BitGapps
