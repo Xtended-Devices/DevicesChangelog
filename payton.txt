@@ -1,5 +1,12 @@
 Device Changelogs:
 
-*kernel upstreamed to v4.236
+*intial release
+*Gapps included
+*thnx for Jleeblanch for his work on sdm660-common trees
+*thnx to Ashwatthama,seba3567 ,testers and other people who helped
 
+Tell bugs with log
+
+use magisk modded
+for safetynet hide magisk manager
 ###CLEAN FLASH RECOMMENDED###
