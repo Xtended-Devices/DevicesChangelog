@@ -25,6 +25,12 @@ Changelogs for Build [XQ V13] (16/09/2020)
 •Improved Violet Parts
 
 
+Changelogs for Build XR 1.0 (16/10/2020)
+
+•Initial Build based on Android 11. If you find any bugs, report with proper logs.
+•CTS won't pass without magisk. Use magiskhide to pass CTS.
+•Latest Lineage Kernel Inbuilt
+•Everything Working
 
 
 
