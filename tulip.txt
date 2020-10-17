@@ -3,5 +3,5 @@
 - Initial Release
 - AtomX kernel 4.4.239 as stock
 - Use DMGC GCam as stock camera
-- Nike substratum stuffs from XiaomiParts
+- Nuke substratum stuffs from XiaomiParts
 - Permissive build
