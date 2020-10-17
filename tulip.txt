@@ -1,6 +1,7 @@
-** tulip Official Release XQ v13-Tribute-To-MartinCoulon Changelog **
-(16/09/2020)
-- Xiaomi-sdm660 kernel upstreamed to 4.4.236
-- sdm660-common: Update blobs Vulkan & OpenGL-V@490.0 
-- sdm660-common:OpenGl: downgrade libC2D2.so to V@474.0 to fix screenrecorder and Instagram video freezes.
-- Remove default MiuiCamera and replace with DMGC GCam
+**MSM Xtended XR Release-v1.0 Device Changelogs
+
+- Initial Release
+- AtomX kernel 4.4.239 as stock
+- Use DMGC GCam as stock camera
+- Nike substratum stuffs from XiaomiParts
+- Permissive build
