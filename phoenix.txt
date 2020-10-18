@@ -1,3 +1,4 @@
-* Xtended XR 1.0 Release build 2
+* Xtended XR 1.0 Release build 3
 * Don't use custom kernels, they won't boot
-* Fixed headphone jack and VoLTE (you need gapps for volte to work)
+* Fixed mobile data not working after reboot
+* Also fixed Camera crashing
