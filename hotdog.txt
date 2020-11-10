@@ -1,2 +1,12 @@
+===== hotdog XR v2.0 Changelog =====
+* Kernel changed to MadyKernel
+* Kernel Upstream
+* Added 90hz option in OnePlus Settings.
+* Added Automatic HighBrightness mode.
+* Updated Carrier config from OOS 10.3.5
+* Fix low latency play back.
+* Updated blobs from QKQ1.190716.003-2010191039.
+* 
+
 ===== hotdog XR v1.0 Changelog =====
-* Initial release build. 
+* Initial release build.
