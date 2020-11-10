@@ -98,3 +98,10 @@ Xq 13 Tribute-To-MartinCoulon
   * Fixed Night Light credits to @aswin7469
   * Fixed Fingerprint not regestering
   * Gapps prebuilt, clean falsh recommended and use latest twrp
+
+ XR 2
+  * Revert from gapps build to vanilla build.
+  * Nuked Device specific old zukdoze package and switched to xtended doze
+  * Fixed Always on Display
+  * Switched to msm 89xx Hals
+  
