@@ -1,7 +1,9 @@
-**MSM Xtended XR Release-v1.0 Device Changelogs
+**MSM Xtended XR Release-v2.0 Device Changelogs
 
-- Initial Release
-- AtomX kernel 4.4.239 as stock
-- Use DMGC GCam as stock camera
-- Nuke substratum stuffs from XiaomiParts
-- Permissive build
+- AtomX Kernel upstreamed to 4.4.241 and many improvements
+- Enable Battery Healt overlays and add Sepolicy for it
+- Fix WhatsappWeb QR Scan bug
+- Update OpenGl drivers to v472 and Vulkan drivers
+- Update to November Coral's fp
+- Switch to QTI bt stack and enable a2dp offload
+- Fix audio recording in video mode
