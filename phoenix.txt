@@ -1,4 +1,2 @@
-* Xtended XR 1.0 Release build 3
-* Don't use custom kernels, they won't boot
-* Fixed mobile data not working after reboot
-* Also fixed Camera crashing
+* Xtended XR 2.0 Release
+* Selinux is now enforcing
