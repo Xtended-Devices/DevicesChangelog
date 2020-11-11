@@ -1,12 +1,8 @@
 Device Changelogs:
 
-*intial release
-*Gapps included
-*thnx for Jleeblanch for his work on sdm660-common trees
-*thnx to Ashwatthama,seba3567 ,testers and other people who helped
+*fixed more bugs
+*hotspot issue fixed
+*selinux now enforcing
+*kernel upstreamed to 4.4.241
 
-Tell bugs with log
-
-use magisk modded
-for safetynet hide magisk manager
-###CLEAN FLASH RECOMMENDED###
+tell bugs with log
