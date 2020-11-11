@@ -1,6 +1,5 @@
-** X00T Official Release XQ v1.0 Changelog **
+** X00T Official Release XQ v2.0 Changelog **
 
-* Updated stock blobs from 432
-* Fixed stereo dmic on audio recording
-* 
+* Fixed fingerprint in apps where it didn't work before
+* Fixed exFat sd card support
 * Latest Stardust
