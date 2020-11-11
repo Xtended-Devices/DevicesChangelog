@@ -1,5 +1,8 @@
 
 
-Initial Release
-GAPS included
-G_Cam Urnyx05
+Aded screen off FOD
+GAPS not included
+Updated G_Cam Urnyx05
+Correct path for wifi power_stats
+Apdated bt_stack
+Other additions and improvements
