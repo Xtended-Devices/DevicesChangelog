@@ -1,4 +1,21 @@
-** lavender Official Release XQ v1.0 Changelog **
+** lavender Official Release XR v2.0 Changelog **
 
-* Initial R Release
-* Permissive Build
+* Coral November Build FP
+* Switched to EAS
+* Predator Stormbreaker X4.0 Kernel Default
+* Use Taimen Perfd stack
+* Label missed manifest entries
+* Enable PowerStats
+* Enable sys.use_fifo_ui prop
+* Cleanup wifi configs
+* Cleanup perf props
+* Cleanup init
+* 2x4 QS Rows and Columns by default
+* Fix FP for some apps
+* XiaomiParts added
+* MiSoundEnhancer added
+* Use dex2oat64
+* Uprev health hal to 2.1
+* Prevent some bt logspam
+* Enable Battery Health Overlay
+* Enable Smart Charging
