@@ -1,4 +1,2 @@
-**MSM Xtended XQ Release-v13.0 Device Changelogs**
-- Rebased kernel inlined
-- Compiled kernel with aosp clang 11.0.4
-- Misc changes
+**MSM Xtended XR Release-v2.0 Device Changelogs**
+- Initial Release
