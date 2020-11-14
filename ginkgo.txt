@@ -1,3 +1,19 @@
+XR v2.0:-
+**NO GAPPS INCLUDED**
+**YOU MUST BE ON Q FIRMWARE**
+Switched to QuickSilver v2
+Fixed Bluetooth audio
+Fixed yellow tint
+Fixed CTS
+Fixed Deepsleep when Bluetooth is on
+Under-the-hood improvments and fixes
+
+Bugs:
+Permissive
+DT2W (Can be fixed by flashing this file https://t.me/xtended_ginkgo/19215)
+
+--------------------------------------------------------------------------
+
 XR v1.0:-
 **YOU MUST CLEAN FLASH IF COMING FROM Q**
 Initial build
@@ -6,8 +22,7 @@ Genom-#GetXtended kernel (KCAL and upstreamed to .201)
 
 Bugs:
 Permissive
-DT2W (Can be fixed by flashing this file https://t.me/xtended_ginkgo/19215)
+DT2W (Can be fixed with this Magisk module https://t.me/xtended_ginkgo/19215)
 
-Thanks to @ghostrider_reborn for trees, 
-@rama982 for kernel
-and @johnmart19, @c0dera and @saorsie for testing 
+Thanks to @ghostrider_reborn for trees and kernel
+Thanks to @Kostasgiapis and @AthleanX21 for testing
