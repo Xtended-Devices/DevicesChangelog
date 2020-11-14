@@ -10,7 +10,11 @@ Under-the-hood improvments and fixes
 
 Bugs:
 Permissive
-DT2W (Can be fixed by flashing this file https://t.me/xtended_ginkgo/19215)
+DT2W (Can be fixed with this Magisk module https://t.me/xtended_ginkgo/19215)
+
+Credits:
+Thanks to @ghostrider_reborn for trees and kernel
+Thanks to @Kostasgiapis and @AthleanX21 for testing
 
 --------------------------------------------------------------------------
 
@@ -24,5 +28,6 @@ Bugs:
 Permissive
 DT2W (Can be fixed with this Magisk module https://t.me/xtended_ginkgo/19215)
 
-Thanks to @ghostrider_reborn for trees and kernel
-Thanks to @Kostasgiapis and @AthleanX21 for testing
+Thanks to @ghostrider_reborn for trees, 
+@rama982 for kernel
+and @johnmart19, @c0dera and @saorsie for testing 
