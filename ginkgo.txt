@@ -1,5 +1,4 @@
 XR v2.0:-
-**NO GAPPS INCLUDED**
 **YOU MUST BE ON Q FIRMWARE**
 **YOU MUST FLASH DFE**
 Switched to QuickSilver v2
