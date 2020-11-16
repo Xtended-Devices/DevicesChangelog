@@ -1,3 +1,66 @@
+----------------------------------------------
+•• Daisy Official Release XR v2.0 Changelog •• 
+----------------------------------------------
+
+• Address sepolicy denials
+• Enable cpuidle during boot 
+• Add 4.0 IMapper instance to manifest 
+• Don't pin camera app in memory
+• Drop schedtune parameters for the scheduler to use
+• Rootdir: Remove iop and sscrpcd services
+• Fix WFD (wifi-display, miracast)
+• Update WFD blobs from LA.UM.9.6.2.r1-02500-89xx.0
+• Update qti whitelist from LA.UM.9.6.2.r1-02800-89xx.0 
+• Update CarrierConfig from LA.UM.9.6.2.r1-02800-89xx.0
+• Switch to File-Based Encryption 
+• Drop hidl android.hardware.usb
+• Remove creation of /data/misc/seemp
+• Set Hals CAF 
+• Drop TARGET_USES_INTERACTION_BOOST 
+• Set provides powerhal
+• Add Pixel 2016 exclusive xml
+• Kernel Panda 4.9.243 ProtonClang12 
+• Update dalvik heap values 
+• Fix hotspot
+• Switch lib adreno from caf 4.9 to fix PlayStore crashing
+• Qcom surfaceflinger 
+• Uprev drm to 1.3
+• Bromite WebView
+• Enable Skiavk Vulkan Renderer (OpenGL-V@490.0)
+• Enable AOSP bluetooth audio HAL v2 
+• Update GPS from LA.UM.8.6.r1-04400-89xx.0 
+• Make use of gps_debug.conf to set xtra servers
+• Uprev health hal to 2.1
+• Update init.msm.usb.configfs.rc from LA.UM.8.6.2.r1-08400-89xx.0
+• Rootdir: Use default allocstall threshold on k4.9
+• Update bdroid_buildcfg values from caf
+• Vndk 29
+• Switch to thermal blobs from CAF (YSL)
+• QTI thermal 2.0 hal
+• Qti power aidl 
+• Keymaster 4.0
+• Uprev display.config to 1.9
+• Update to Sunfish October 2020 build fingerprint
+• Enable Tim (Brasil) VoLTE 
+• Enable VoLTE for Claro/Mexica 
+• Enable VoLTE/VoWIFI IDEA
+• Uprev Audio HAL to v6
+• Update Blobs from LA.UM.8.6.2.r1-08400-89xx.0
+• Update sec_config
+• Add android.software.vulkan.deqp.level, version 2020-03-01
+• Adjust locations of oat files
+• AOSP RCS packages
+• Update paths to the new ART APEX
+• Update permissions
+• Uprev vendor.qti.hardware.radio.qtiradio to 2.4
+• Add EsePowerManager to Vintf manifest
+• And other improvements
+
+
+
+
+
+ANDROID 10 XQ:
 --------------------------------------
 ••  Daisy XQ v13.0 Changelog •• 
 --------------------------------------
