@@ -40,7 +40,7 @@
 • Qti power aidl 
 • Keymaster 4.0
 • Uprev display.config to 1.9
-• Update to Sunfish October 2020 build fingerprint
+• Update to Sunfish November 2020 build fingerprint
 • Enable Tim (Brasil) VoLTE 
 • Enable VoLTE for Claro/Mexica 
 • Enable VoLTE/VoWIFI IDEA
