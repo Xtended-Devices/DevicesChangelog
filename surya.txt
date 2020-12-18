@@ -1,0 +1,16 @@
+Changelog For Build XR 3.0 [18-12-2020]
+
+• Initial Unified Build
+• Disable NFC for karna
+• Fixed Notification Led
+• Fixed apn issue
+• Fixed Cast
+• Improved charging
+• Optimus Drunk Kernel In-Built
+• Fixed HDR
+• Add FM support 
+• Add postprocessing blobs
+• Add Display Hardware blobs 
+• Add missing stuff for WFD
+• Update fp from sunfish December
+• Few minor changes
