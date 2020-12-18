@@ -1,8 +1,15 @@
 Device Changelogs:
 
-*fixed more bugs
-*hotspot issue fixed
-*selinux now enforcing
-*kernel upstreamed to 4.4.241
+*Rebased Tree
+*DRM fixed ,widivine is now L1
+*lot of changes on kernel
+*kernel upstreamed to 4.4.248
+*fixed video recording bug
+*vendor patch updated
+*updated more blobs
+*safetynet fixed
+*more bug fixed see git
 
-tell bugs with log
+#clean Flash Recommended#
+
+tell bugs with logs
