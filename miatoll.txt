@@ -1,12 +1,18 @@
-**MSM Xtended XR-v2.0 Device Changelogs
+**MSM Xtended XR-v3.0 Device Changelogs
 
-• Rebased on @wight554's OSS trees
-• Upstreamed kernel to 4.14.204
-• Fixed call recording overlay
-• Updated Build FP to coral November
-• Enabled Aosp blur
-• Fixed BT Audio
-• Added pt-BR translations of XiaomiParts
-• Added latest Camera Go replacing default Camera2
+• Upstreamed kernel to 4.14.212
+• Updated Build FP to redfin December
+• Added spanish translations for XiaomiParts & XiaomiDoze
+• Fixed weird green artifacts while playing videos
+• Fixed WFD maybe (works with smart TV & YouTube Cast)
+
+For Gapps Build Only
+• Added Pixel Launcher by default
+• Added more Gapps for the more stock pixel feel namely Google Recorder, Drive, Files, MarkupGoogle, DevicePersonalisationServices
+• Added YouTube Vanced & Vanced Youtube Music
+• Added lots of Pixel Live wallpapers
+• Added Pixel 5 Wallpaperpicker & ThemesStub
+
+
 
 
