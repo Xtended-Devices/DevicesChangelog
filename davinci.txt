@@ -1,8 +1,8 @@
 
 
-Aded screen off FOD
-GAPS not included
-Updated G_Cam Urnyx05
-Correct path for wifi power_stats
-Apdated bt_stack
+Enabled bluetooth HID
+New NFC stack
+Added MiuiCamera
+Added KCAL settings
+Tuned mic input levels
 Other additions and improvements
