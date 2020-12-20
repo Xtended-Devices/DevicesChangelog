@@ -1,7 +1,6 @@
-**MSM Xtended XR Release-v1.0 Device Changelogs
+**MSM Xtended XR Release-v3.0 Device Changelogs
 
-• Initial Release
-• Upstreamed kernel to 4.4.238
-• Enforcing Build
+• Upstreamed Kernel to 4.4.248
+
 
 
