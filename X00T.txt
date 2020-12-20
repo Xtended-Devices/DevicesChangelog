@@ -1,5 +1,5 @@
-** X00T Official Release XQ v2.0 Changelog **
+** X00T Official Release XQ v3.0 Changelog **
 
-* Fixed fingerprint in apps where it didn't work before
-* Fixed exFat sd card support
+* Fixed low speaker volume (Bug appeared on last build)
+* Switched to new QTI Vibrator HAL (Vibration will not work in custom kernels unless they update)
 * Latest Stardust
