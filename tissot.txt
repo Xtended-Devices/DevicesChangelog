@@ -1,6 +1,7 @@
-** Tissot Official Release XR v2.0 Changelog **
+** Tissot Official Release XR v3.0 Changelog **
 
-* SELinux Enforcing
-* Fix bubbles
-* Fix Wifi-Hotspot conflicts
-* Fix Whatsapp Web QR Code bug
+* Rebased Trees
+* Kernel upstream to v4.9.248
+* miscellaneous improvements
+ 
+
