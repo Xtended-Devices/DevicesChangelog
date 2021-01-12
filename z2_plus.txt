@@ -112,3 +112,9 @@ Xq 13 Tribute-To-MartinCoulon
   * Fixed double tap to doze
   * Add audio effects xml converted from zui 4.0.186 this fixed viper drivers not getting installed now viper works fine thanks to @ZyxxeZ for the fix
   * Merge latest CAF tag LA.UM.8.6.2.r1-08800-89xx.0 into display, media & audio HAL 
+
+ XR 4
+  * Fixed a bug where many apn were showing in network settings.
+  * Fixed smart charging.
+  * Compiled using clang 12.0.1
+  * Switched to LA.UM.8.6.r1-05300-89xx.0 for display, media & audio HALs.
