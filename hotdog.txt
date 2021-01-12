@@ -1,3 +1,11 @@
+===== hotdog XR v4.0 Changelog =====
+* Kernel upstream to 4.14.214
+* Fixed USB tethering & MTP issue.
+* Added Snap cam as default camera
+* Rearrange Dusplay category of Oneplus Settings
+* Added toast for slider
+* Added old style Auto high brightness mode
+
 ===== hotdog XR v2.0 Changelog =====
 * Kernel changed to MadyKernel
 * Kernel Upstream
