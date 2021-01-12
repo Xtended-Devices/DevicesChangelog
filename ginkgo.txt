@@ -1,3 +1,19 @@
+XR v4.0:-
+* 2 variants GApps and Vanilla
+* Fixed encryption, ROM is now encrypted by default (Flash DFE if you want to be decrypted)
+* Updated graphics, display and perf blobs to R (LA.UM.9.11.r1-02400-NICOBAR.0)
+* Tune post_boot script for better performance
+* Misc RIL improvements
+* Enabled QC dual wifi interface
+* Reduced shutdown timeout
+* Switched to Snapdragon LLVM for kernel build
+* Rebased kernel on latest CAF tag and upstreamed to v4.14.214
+* Misc fixes and improvements
+
+Credits:
+Thanks to @ghostrider_reborn for trees and kernel
+Thanks to @tokatsu for testing
+
 XR v2.0:-
 **YOU MUST BE ON Q FIRMWARE**
 **YOU MUST FLASH DFE**
