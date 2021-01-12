@@ -1,5 +1,6 @@
 
 
+Fixed recent apps bug
 Fixed QS battery icon margin
 Added AndroidAuto stub
 Tuned sound input levels
