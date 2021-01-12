@@ -1,7 +1,11 @@
 Device Changelog: 
-* Fixed FoD completely 
-* Fixed Alipay 
-* Kernel upstream 4.14.212 
-* nuked Logspam 
-Tell me bugs only with proper logs!
+* Device Tree optimized - THX @ThE_MarD
+* Added Burn-In Protection from Raphael - THX @Lucchetto
+* Fixed missing Apps in Playstore
+* Added Pixel 5 APNs - THX @mukesh22584
+* Updated Japanese APN - THX @Tiamyong
+* Update media configs from LA.UM.9.1.r1-07500-SMxxx0.0
+* Update aptX blobs from crosshatch RP1A.201105.002
+* Kernel upstream 4.14.214 
+Bugs only with proper logs please!
 No Installation of any mod supported! 
