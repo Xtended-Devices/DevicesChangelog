@@ -1,3 +1,9 @@
+===== dumpling XR v4.0 Changelog =====
+* Kernel upstream to 4.4.250.
+* Added back off screen gestures.
+* Added Single tap option in off screen gesture.
+* Optimizations & performance improvments.
+
 ===== dumpling XR v2.0 Changelog =====
 * Kernel upstream to 4.4.235.
 * Updated Device sources & optimizations.
