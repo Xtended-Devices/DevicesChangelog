@@ -1,15 +1,10 @@
 Device Changelogs:
 
-*Rebased Tree
-*DRM fixed ,widivine is now L1
-*lot of changes on kernel
-*kernel upstreamed to 4.4.248
-*fixed video recording bug
-*vendor patch updated
-*updated more blobs
-*safetynet fixed
+*fixed wifi display
+*persist bug fixed
+*fixed more denials
+*updated more blobs from los
 *more bug fixed see git
-
-#clean Flash Recommended#
+*for safetynet use DxT kernel
 
 tell bugs with logs
