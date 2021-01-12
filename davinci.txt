@@ -1,8 +1,6 @@
 
 
-Enabled bluetooth HID
-New NFC stack
-Added MiuiCamera
-Added KCAL settings
-Tuned mic input levels
+Fixed QS battery icon margin
+Added AndroidAuto stub
+Tuned sound input levels
 Other additions and improvements
