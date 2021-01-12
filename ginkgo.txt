@@ -14,6 +14,8 @@ Credits:
 Thanks to @ghostrider_reborn for trees and kernel
 Thanks to @tokatsu for testing
 
+--------------------------------------------------------------------------
+
 XR v2.0:-
 **YOU MUST BE ON Q FIRMWARE**
 **YOU MUST FLASH DFE**
