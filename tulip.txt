@@ -1,15 +1,11 @@
-**MSM Xtended XR Release-v3.0 Device Changelogs
+**MSM Xtended XR Release-v4.0 Device Changelogs
 
-- sdm660-common: Update OpenGles and Adreno blobs from RP1A.201005.004
-- Switch to EAS trees
-- Go Enforcing!
-- Add FPS Info Overlay and permissions
-- Move and remove some unused overlays
-- Update to Coral's december fp
-- sdm660-common: Import Pixel libperfmgr Power HAL and adapt for sdm660
-- sdm660-common: Fix PowerHAL nodes
-- Upstreamed to latest AtomX kernel (thanks to @OGIndian)
-- Doze: fix screen flickering when turn on screen
+- Decrease zram size to 1Gb
+- Bring back rounded corner when hiding notch
+- Add props to improve battery backup
+- Add Rounded Corners for Gboard
+- Gboard: Remove navbar spacing
+- Update to January Coral's FP
+- Upstreamed AtomX kernel to 4.4.250
 
-Note: Due to the switch to EAS trees and drivers update, clean flash is highly recommended if you want to have the maximum performance. With dirty flash, you won't get drivers update according to tester's report.
-Also is suggested to use official TWRP, as encryption in broken with OrangeFox. You can use OF if you'll decide to decrypt, but I suggest official TWRP. Enjoy :D
+Is suggested to use official TWRP, as encryption in broken with OrangeFox. You can use OF if you'll decide to decrypt, but I suggest official TWRP. Enjoy :D
