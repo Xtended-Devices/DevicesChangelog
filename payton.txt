@@ -1,5 +1,9 @@
 Device Changelogs:
 
+##hotfix build##
+*fixed broken network
+
+*updated egl drivers to v490
 *fixed wifi display
 *persist bug fixed
 *fixed more denials
