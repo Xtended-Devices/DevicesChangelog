@@ -1,2 +1,12 @@
+XR V4:
+- Added per-app thermal profiles
+- Added Dirac
+- SELinux Enforcing
+- Updated blobs from MIUI 12
+- Fixed bluetooth
+- Fixed screen cast
+- Upstreamed kernel to 4.9.249
+- More things I forgot
+
 XR V2:
 - Initial build
