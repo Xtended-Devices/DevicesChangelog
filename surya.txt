@@ -14,3 +14,21 @@ Changelog For Build XR 3.0 [18-12-2020]
 • Add missing stuff for WFD
 • Update fp from sunfish December
 • Few minor changes
+
+Changelog For Build XR 4.0 [13-01-2021]
+
+• Set OpenGL(Skia) as default renderer.
+• Properly scaled brightness values.
+• Implemented clear speaker.
+• Updated sunfish fp to January.
+• Safetynet passes by default without Magisk.
+  (Google f*cked it later)
+• Updated to Optimus Drunk 11.5
+• Enable DFS channel scanning in P2P search (Fixes P2P when connected to 5GHz access point.)
+• Enable QPower and Deep sleep together.
+• Added haptic feedback for notification pull down
+• Updated FP sensor keylayout from stock
+• Show "Turbo charging" instead of "Charging rapidly"
+• Changed default refresh rate to 90Hz
+• Dynamically set power_profile for karna
+• Removed Audio distraction in VoIP apps
