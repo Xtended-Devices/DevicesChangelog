@@ -1,6 +1,8 @@
-**MSM Xtended XR Release-v3.0 Device Changelogs
+**Xtended XR Release-v4.0 Device Changelogs
 
-• Upstreamed Kernel to 4.4.248
+• Upstreamed Kernel to 4.4.250
+• Enforcing Build
+• Flash Universal safetynet patch by Kdrag0n for fixing safetynet
 
 
 
