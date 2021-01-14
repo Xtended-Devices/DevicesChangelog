@@ -1,7 +1,9 @@
-** Tissot Official Release XR v3.0 Changelog **
+** Tissot Official Release XR v4.0 Changelog **
 
-* Rebased Trees
-* Kernel upstream to v4.9.248
-* miscellaneous improvements
+* Update Bluetooth aptX blobs from Crosshatch
+* Kernel upstream to v4.9.250
+* Address Sepolicy Denials
+* Added props to make Blur smoother
+* Minor improvements
  
 
