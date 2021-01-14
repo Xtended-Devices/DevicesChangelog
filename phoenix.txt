@@ -1,5 +1,2 @@
-* Xtended XR 3.0 Release
-* Optimus Drunk Phoenix v11.9 kernel
-* Using QTI Bluetooth as of now
-* Fixed video recording issue
-* Low microphone sound
+* Xtended XR 4.0 Release
+* Optimus Drunk Phoenix v11.12 kernel
