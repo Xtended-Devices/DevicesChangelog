@@ -1,18 +1,6 @@
-**MSM Xtended XR-v3.0 Device Changelogs
+**Xtended XR-v4.0 Device Changelogs
 
-• Upstreamed kernel to 4.14.212
-• Updated Build FP to redfin December
-• Added spanish translations for XiaomiParts & XiaomiDoze
-• Fixed weird green artifacts while playing videos
-• Fixed WFD maybe (works with smart TV & YouTube Cast)
-
-For Gapps Build Only
-• Added Pixel Launcher by default
-• Added more Gapps for the more stock pixel feel namely Google Recorder, Drive, Files, MarkupGoogle, DevicePersonalisationServices
-• Added YouTube Vanced & Vanced Youtube Music
-• Added lots of Pixel Live wallpapers
-• Added Pixel 5 Wallpaperpicker & ThemesStub
-
-
-
-
+• Upstreamed kernel to 4.14.215
+• Updated Build FP to redfin January
+• Fixed XiaomiParts icon tint to match with other dashboard icons
+• Flash Universal safetynet patch by Kdrag0n for fixing safetynet
