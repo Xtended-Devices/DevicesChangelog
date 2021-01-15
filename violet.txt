@@ -1,45 +1,53 @@
-Device changelogs for Build (11/08/2020)
+Device Changelogs for build (15/01/2021)
+- Initial A11 Official Build
+- Everything Working Fine And Can be Usable As Daily Driver
+- Gcam Go added 
+- Kernel 4.14.190
+- Selinux Enforced 
+
+For flashing rom
+- recomanded recovery: pbtwrp latest official
+- recomanded gapps for vanill build: NikGapps 
+- Use latest magisk for root 
 
 
-• Initial Official Build by Me
-• Based on Los tree's, so clean flash is mandatory
-• Update Build FP to coral August Patch
-• Miscellaneous Changes & Fixes
 
 
-Changelogs for Build (25/08/2020)
 
 
-• Switched to azure kernel
-• Fixed Battery Health
-• Fixed VoIP
-• Fixed System Info
 
 
-Changelogs for Build [XQ V13] (16/09/2020)
-
-•Los Kernel Inbuilt
-•Switched to walleye oreo fp
-•Kanged dexpreopt bits from OnePlus 7 trees. (Improved boot time) - Thanks to @baalajimaestro.
-•Nuked livedisplay for now
-•Improved Violet Parts
 
 
-Changelogs for Build XR 1.0 (16/10/2020)
-
-•Initial Build based on Android 11. If you find any bugs, report with proper logs.
-•CTS won't pass without magisk. Use magiskhide to pass CTS.
-•Latest Lineage Kernel Inbuilt
-•Everything Working
 
 
-Changelogs for Build XR 2.0 (11/11/2020) 
 
-• Fixed CTS Without Root
-• Random Fix to Idle Drain
-• Upstreamed to Latest 4.14.204
-• Improved Battery Backup
-• Misc Changes and Improvements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
