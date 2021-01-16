@@ -1,8 +1,6 @@
-** lavender Official Release XR v3.0 Changelog **
+** lavender Official Release XR v4.0 Changelog **
 
 * Fixed Deepsleep
 * Clean up XiaomiParts
-* Clean up Media stuffs
-* Update WFD Blobs
-* Redfin FP for December SPL
+* Redfin FP for January SPL
 * Predator-Stormbreaker HMP inline
