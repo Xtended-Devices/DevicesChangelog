@@ -1,8 +1,8 @@
-• Switched To 4.9 Kernel
-• Second Sim Volte Fully Fixed
-• Added XiaomiParts Same as Older Builds
-• Added Thermal From Olive
-• Updated OpenGL And Vulkan Blobs
-• Latest Changes Merged From Zeelog Trees
-• Update blobs from LA.UM.8.6.r1-04400-89xx.0
-• Added Dolby Sound
+** Mido Official Release XR v4.0 Changelog **
+
+• Initial Build
+• Added Xiaomi Parts
+• All Latest Changes Merged from Zeelog Trees
+• ViLTE/VoLTE Works Fine
+• You Can Change to Permissve/Enforcing from Xiaomi Parts
+• Added Dirac
