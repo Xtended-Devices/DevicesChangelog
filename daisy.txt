@@ -1,4 +1,39 @@
 ----------------------------------------------
+•• Daisy Official Release XR v4.0 Changelog •• 
+----------------------------------------------
+• config: Update GPS configs from LA.UM.9.6.2.r1-03600-89xx.0
+• cleanup rootdir
+• Kernel 4.9.252 Panda proton-clang 12
+• Update bluetooth props 
+• Uprev Bluetooth SAR to 1.1
+• Uprev btconfigstore to 2.0
+• fix bluetooth does not turn on
+• Uprev vendor.display.config to 2.0
+• Ktweak script 
+• Update to Sunfish January 2021 build fingerprint 
+• Bt - Disable clean turn on
+• Drop fastcharge 
+• Nuke spectrum
+• Cleanup parts
+• Import keymaster/gatekeeper blobs from Daisy 11.0.5.0
+• configure new lmkd properties for a11 
+• Add required GPU props
+• Keymaster to 3.0
+• Update perf to 2.2
+• Use 64bit dex2oat on all cores
+• Do not force any ZRAM compression
+• Update caf blobs bt/media/audio/postprocessing/wfd/perf LA.UM.9.6.2.r1-03600-89xx.0
+• fbe and fde ok now for twrp
+• Update thermal from Olive 
+• Update blobs 
+• And other improvements
+
+-Bug:
+Source rom enforce broken, so go to permissive for now
+Wfd
+
+
+----------------------------------------------
 •• Daisy Official Release XR v2.0 Changelog •• 
 ----------------------------------------------
 
