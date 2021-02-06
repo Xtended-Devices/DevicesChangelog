@@ -1,3 +1,13 @@
+===== hotdog XR v5.0 Changelog =====
+* Kernel upstream to 4.14.219
+* Fixed Nfc (Requires clean flash)
+* Optimised dex for faster boot
+* Set Voice call volume step to 7
+* Set Media volume step to 25
+* Fixed auto brightness
+* Improved haptics
+* Misc fixes & optimizations.
+
 ===== hotdog XR v4.0 Changelog =====
 * Kernel upstream to 4.14.214
 * Fixed USB tethering & MTP issue.
