@@ -1,2 +1,4 @@
-* Xtended XR 4.0 Release
-* Optimus Drunk Phoenix v11.12 kernel
+* Xtended XR 5.0 Release
+* Optimus Drunk Phoenix v11.16 kernel
+* Added Clear speaker
+* Fixed some audio issues
