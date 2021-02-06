@@ -1,14 +1,10 @@
 Device Changelogs:
 
-##hotfix build##
-*fixed broken network
+##Feb build##
 
-*updated egl drivers to v490
-*fixed wifi display
-*persist bug fixed
-*fixed more denials
-*updated more blobs from los
-*more bug fixed see git
-*for safetynet use DxT kernel
+*fixed offline charging
+*synced with los tree
+*fixed mic bug
+*kernel upstreamed to 4.4.255
 
 tell bugs with logs
