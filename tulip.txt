@@ -1,11 +1,16 @@
-**MSM Xtended XR Release-v4.0 Device Changelogs
+**Xtended XR Release-v5.0 Device Changelogs
 
-- Decrease zram size to 1Gb
-- Bring back rounded corner when hiding notch
-- Add props to improve battery backup
-- Add Rounded Corners for Gboard
-- Gboard: Remove navbar spacing
-- Update to January Coral's FP
-- Upstreamed AtomX kernel to 4.4.250
+- Decommonized trees and optimized them
+- Import XiaomiParts v4
+- Nuke useless stuffs from XiaomiParts v4
+- sdm660-common: better ram management
+- sdm660-common: Don't pin camera app in memory
+- Add props to make the blur smoother (removed every type of lags)
+- sdm660-common: Switch Skia rendering backend to Vulkan
+- update to Redfin's February FP
+- use zram writeback same as pixels
+- wifi: Enable QPower and Deep sleep at the same time
+- Used latest Mystic kernel as default (Thanks to @okta_10)
+- Used latest proton clang as compiler
 
 Is suggested to use official TWRP, as encryption in broken with OrangeFox. You can use OF if you'll decide to decrypt, but I suggest official TWRP. Enjoy :D
