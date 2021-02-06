@@ -1,7 +1,8 @@
 
 
-Fixed recent apps bug
-Fixed QS battery icon margin
-Added AndroidAuto stub
-Tuned sound input levels
-Other additions and improvements
+Updated kernel
+Updated display blobs
+Camera replaced with ANX
+Imported codec2
+Fixed WiFi display (Miracast)
+Many other additions and improvements
