@@ -1,6 +1,7 @@
-**Xtended XR-v4.0 Device Changelogs
+**Xtended XR-v5.0 Device Changelogs
 
-• Upstreamed kernel to 4.14.215
-• Updated Build FP to redfin January
-• Fixed XiaomiParts icon tint to match with other dashboard icons
-• Flash Universal safetynet patch by Kdrag0n for fixing safetynet
+• Enforcing build (clean flash must)
+• Upstreamed kernel to 4.14.220
+• Merged LA.UM.9.1.r1-08600-SMxxx0.0
+• Updated Build FP to redfin February
+• Added fully working MiuiCamera
