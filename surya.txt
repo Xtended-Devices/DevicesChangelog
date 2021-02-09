@@ -32,3 +32,16 @@ Changelog For Build XR 4.0 [13-01-2021]
 • Changed default refresh rate to 90Hz
 • Dynamically set power_profile for karna
 • Removed Audio distraction in VoIP apps
+
+Changelog For XR V5.0 [09-02-2021]
+
+• Updated fp to Redfin February
+• Fixed Mic issues in apps like Whatsapp
+• Fixed HDR yellow tint
+• parts: Display icon beside thermal profile
+• Implemented auto-lowering refresh rate on battery saver
+• Fixed dark theme issues
+• Address FM radio denials 
+• Set fast charging indicator threshold to 10.8W
+• Fixed wrong SELinux info in About Phone
+• Other Miscellaneous fixes & improvements
