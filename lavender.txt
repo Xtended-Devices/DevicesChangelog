@@ -1,6 +1,14 @@
-** lavender Official Release XR v4.0 Changelog **
+** lavender Official Release XR v5.0 Changelog **
 
-* Fixed Deepsleep
-* Clean up XiaomiParts
-* Redfin FP for January SPL
-* Predator-Stormbreaker HMP inline
+* Cleanup XiaomiParts
+* Audio improvements
+* Use GCamGoPrebuilt instead of Snap/Camera2
+* Fix Deepsleep while Bluetooth is turned on
+* Enable QPower and Deep sleep at the same time
+* Cleanup Wifi and Tether rro_overlays
+* Cleanup Wifi packages
+* Address Camera Denials
+* Address Radio Denials
+* GPS Cleanup
+* Enable VR Hal
+* Update Build FP for February SPL
