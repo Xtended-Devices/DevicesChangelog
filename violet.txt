@@ -1,9 +1,11 @@
-Device Changelogs for build (15/01/2021)
-- Initial A11 Official Build
-- Everything Working Fine And Can be Usable As Daily Driver
-- Gcam Go added 
-- Kernel 4.14.190
-- Selinux Enforced 
+Device Changelogs for build (15/02/2021)
+- Added QTI Health implementation
+- Brought back device specific parts
+- Charging rapidly --> Turbo charging (Like miui)
+- Kernel: Implemented KCAL
+- Switched to QTI BT
+- Violet Parts: Imported KCAL ( Display color calibration)
+- Fixed phone app Was Not Set As A default dailer app
 
 For flashing rom
 - recomanded recovery: pbtwrp latest official
