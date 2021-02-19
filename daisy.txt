@@ -1,4 +1,25 @@
 ----------------------------------------------
+•• Daisy Official Release XR v5.0 Changelog •• 
+----------------------------------------------
+• Fix wfd
+• Change sepolicy-legacy-um to fix enforce
+• Kernel Panda 4.9.257 Proton-Clang-20210213 Wireguard-1.0.20210219
+• Bromite
+• New MiuiCamera
+• Update lmkd props
+• Switch to common qti-wfd component 
+• Cleanup qcom.post_boot and rootdir
+• Update to Sunfish February 2021 build fingerprint 
+• Import missing Dirac blobs 
+• Fix paths of Dirac blobs 
+• Add missing ANT+ vendor blob 
+• Drop libmmparserextractor
+• And other improvements
+
+
+
+
+----------------------------------------------
 •• Daisy Official Release XR v4.0 Changelog •• 
 ----------------------------------------------
 • config: Update GPS configs from LA.UM.9.6.2.r1-03600-89xx.0
@@ -31,6 +52,7 @@
 -Bug:
 Source rom enforce broken, so go to permissive for now
 Wfd
+
 
 
 ----------------------------------------------
