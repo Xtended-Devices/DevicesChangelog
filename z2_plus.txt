@@ -1,0 +1,50 @@
+ XR 6
+ * Initial TREBLE Build with latest VNDK
+ * Se Linux ENFORCING
+ * Many SE Policy - Denials which were spamming in dmesg logs are fixed
+ * Kernel switched from Statix to Alchemy 3.18.140 all credits to @ZyxxeZ for kernel tree
+ * Blob updates from LA.UM.9.6.2.r1-04100-89xx.0
+ * Fixed some apps crashing like saavn, kredivo and other banking app which needed se linux to be enforcing
+ * Instagram Videos, Reels glitch fixed by updating media configs & XML.
+ * Xtended will now updated as signed zips the advantage will be:
+   1. User can verify that the build is actually made by a official maintainer and not some random guy.
+   2. If some malicious app with the same package name as a system app tries to get installed, it'll either fail or the app won't have access to the old data.
+   3. Ensures integrity of the system and maintains the very basic Android security model
+
+ XR 5
+  * Import aptx blobs from crosshatch.
+  * Massive blob updates wfd, seccomp policy, cne, dpm, drm, qmi, radio, ims, graphic, media, av, rtp & protobuf blobs from LA.UM.9.6.2.r1-03600-89xx.0 thanks to @ZyxxeZ for patching and @aswin7469 for bsp zip.
+  * Compiled with Proton Clang 13.
+  * Fixed auto brightness previously it was taking more time interval to adjust now latency is reduced.
+  * Switched to LA.UM.9.6.2.r1-03600-89xx.0 for display, media & audio HALs.
+  * Fixed wifi display, tested works on mi box.
+  * Misc under the hood bug fixes and improvements.
+
+ XR 4
+  * Fixed a bug where many apn were showing in network settings.
+  * Fixed smart charging.
+  * Compiled using clang 12.0.1
+  * Switched to LA.UM.8.6.r1-05300-89xx.0 for display, media & audio HALs.
+  * Switched from default snap camera to Google camera go.
+
+ XR 3
+  * Fixed a bug where dt2w was working even when turned off from display settings
+  * Fixed double tap to doze
+  * Add audio effects xml converted from zui 4.0.186 this fixed viper drivers not getting installed now viper works fine thanks to @ZyxxeZ for the fix
+  * Merge latest CAF tag LA.UM.8.6.2.r1-08800-89xx.0 into display, media & audio HAL
+
+ XR 2
+  * Revert from gapps build to vanilla build.
+  * Nuked Device specific old zukdoze package and switched to xtended doze
+  * Fixed Always on Display
+  * Switched to msm 89xx Hals
+  * Fixed navigation gestures and added navigation bar toggle need restart to work
+  * Added Motorola Face Unlock
+
+ XR 1
+  * Initial Android 11 | R build based on @ZyxxeZ trees
+  * Fixed hotspot thanks to @SuperDroidBond @ZyxxeZ for fix
+  * Fixed Press Home to Wake
+  * Fixed Night Light credits to @aswin7469
+  * Fixed Fingerprint not regestering
+  * Gapps prebuilt, clean falsh recommended and use latest twrp
