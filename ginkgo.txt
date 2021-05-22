@@ -1,0 +1,84 @@
+XR v6.0 :-
+
+Device Changelog :-
+
+* Switched to dipper fp/desc for permanent safetynet fix
+* Upgraded most blobs to LA.UM.9.11.r1-03200-NICOBAR.0 (CAF)
+* Updated stock blobs from MIUI 21.4.28
+* Fixed FPS info tile denials
+* Fixed KCAL not applied issue, now boosted mode under color boost settings is set to default
+* Added fingerprint shutter in MiuiCamera
+* Implemented KeyHandler to avoid unwanted vibration from FP Sensor
+* Boosted audio output
+* Added Bass Booster preset in MiSound Enhancer under XiaomiParts
+* Added Vibration control in XiaomiParts
+* Fixed 5ghz wifi on android 11 firmware
+* Improved 5ghz wifi signal tolerance
+* Improved and fine tuned auto brightness algorithm
+* Fixed random reboots in suspend and 4g usage
+* Merged Pie Chromatix libs for better camera quality
+* Fixed Google photos "device too hot" error
+* Reduced minimum screen brightness 
+* Added support for willow hwversion 18.31.0
+* Improved zram read/write performance
+* Increased default media volume steps
+* Enabled and fixed sunlight visibility improvement (SVI)
+* Flickering display for some users should be fixed now
+* Reduced min cpu freq and boosts for battery improvement
+* Tuned cpusets and scheduler for better performance
+* Misc optimizations and fixes
+
+Kernel Changelog :-
+
+* Switched to QS v2.5 Kernel
+* Merged v4.14.232 in Kernel
+* Merged LA.UM.9.11.r1-03900-NICOBAR.0 CAF in kernel
+* Updated xiaomi changes from ginkgo-q-oss release
+* Improved scheduler performance and stability
+* Fixed deep sleep issues and random reboots
+* Switch few drivers to async probe (faster bootup)
+* Thermal drivers updates from 4.19
+* Disabled PAN emulation for improved performance
+* Disabled unused erratum fixes
+* Updated speaker amp driver from ginkgo*q*oss
+* Disabled schedtune util boost
+* Disabled some unwanted debugging
+* Enabled monitor mode for wifi
+* TCP ipv4/ipv6 optimizations
+* Improved memory management and f2fs
+* Improved performance in games that use Unity Engine
+* Scheduler improvements from upstream and Pixels
+* Reduced scheduler latency to improve responsiveness
+* Reduced touchscreen processing latency
+* Reduced GPU and display rendering latency
+* Switched to efficient CPU freqs and power table
+* Switched to CAF cpu boosting driver with improvements
+* MM (memory management) improvements
+* PM QoS latency improvements
+* Dynamic schedtune boost support
+* Added wireguard support
+* Deep sleep improvements
+* Switched to android userspace LMKD
+* EMMC and f2fs performance improvements
+* Reduced overhead from dynamic stack allocations
+* Disabled selinux auditing to reduce overhead
+* Thermal drivers improvements/fixes from Google
+* Improved battery % scaling (reduce jumps)
+* Devfreq boost on display rendering and app launch
+* Added USB force fast charge
+* Added vibration strength control support
+* Eliminated unwanted debugging and logspam
+* Switched to LZ4 for faster zram
+* Fixed mmc driver sometimes failing to suspend
+* Misc optimizations and fixes
+
+Notes :-
+
+* It's vanilla build
+* Clean flash recommended
+
+Credits :-
+
+Thanks to @xawlw for bringing this beautiful rom to ginkgo community
+Thanks to @ghostrider_reborn for trees and kernel
+Thanks to @henry_markle , @bmark240 , @janmejay347 for testing
