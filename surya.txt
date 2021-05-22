@@ -1,0 +1,6 @@
+Xtended V6 22/05/2021
+
+• Initial OSS Based Build
+• Clean Flash is Mandatory
+• Report Bugs With Logs
+• Both Vanilla and GApps variant available
