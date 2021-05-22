@@ -1,0 +1,4 @@
+• Switched to prebuilt audio hal
+• Set ZRAM swappiness to 100
+• Enable boosted color mode by default
+• Upstream 4.4.232
