@@ -1,0 +1,6 @@
+Device Changelog [22/05/2021]
+
+* Initial Build for LeMax 2
+
+* Big THX @ThE_MarD and  @mosimchah for device and kernel trees
+* Big THX @chrisbalgreece for always helping me out
