@@ -1,0 +1,7 @@
+- Switched to sdm660-common trees
+- Clean up Device Specific Settings
+- Redfin FP for May
+- Predator Stormbreaker EAS kernel inlined
+- Enforcing + user build
+- And more...
+- CLEAN FLASH IS MANDATORY
