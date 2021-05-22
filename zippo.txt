@@ -1,0 +1,17 @@
+Device Changelog [22/05/2021]
+
+* SELINUX Enforcing
+* Disable Forced Encyrption by default
+* DC/FoD-Dimming added
+* Kernel Upstream 4.14.232
+* Data Kernel/RMNET Extensions based on LA.UM.8.1.r1-17100-sm8150.0 added
+* Audio Kernel upstreamed to LA.UM.8.1.r1-17100-sm8150.0
+* Wireguard upstreamed to 1.0.20210424
+* UI Performance improved
+* Dynamic Schedtune Boost added
+* Kernelspace Battery Saver mode added
+* Simple Low Memory Killer added
+* Silence some logspam
+* More minor improvements under the hood 
+
++ THX to all zippo devs for making this possible!!! 
