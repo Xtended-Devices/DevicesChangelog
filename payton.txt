@@ -1,0 +1,4 @@
+- complete rebase to los tree
+- updated kernel to 4.4.268
+- fixed liboemcrypto(drm)
+- for drm retin firmware only tested 
