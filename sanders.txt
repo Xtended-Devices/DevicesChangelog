@@ -1,0 +1,6 @@
+• Reverted encryption[Temp]
+• Increased In-call Volume
+• Update privapp permissions moved to system
+• Updated vendor blobs 
+• Minor changes in kernel 
+• Misc Improvements
