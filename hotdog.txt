@@ -1,0 +1,19 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 7t PRO (hotdog)
+Device maintainer: Mukesh Singh (mukesh22584)
+
+===== 23 June, 2021 =====
+
+- Kernel upstream to 4.14.237
+- Improved auto brightness
+- Removed screen off FOD
+- Added missing wide color mode
+- Added Slider Toast
+- Set FOD color to transparent
+- Improved FOD
+- Updated Gapps
+- Fixed OK Google voice detection
+- Removed scren off FOD
+- Removed FOD pressed color (Cyan is default)
+
