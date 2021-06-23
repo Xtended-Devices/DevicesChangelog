@@ -1,0 +1,9 @@
+XR 7
+ * Initial Official Release
+ * Added Moto dolby
+ * Enabled Freeform Windows By Default
+ * Added Zenparts
+ * Switched from default Launcher3 to Lawnchair 11.0 Alpha 4
+ * Updated aptX and wfd blobs from phoenix_sprout-11-RKQ1.201123.002
+ * Updated Overlays for default screen timeout and default brightness
+ + Thanks to @SaurabhCharde for trees
