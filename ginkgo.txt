@@ -1,3 +1,29 @@
+XR v7.0 :-
+
+Changelog :
+
+* Updated FP to Redfin June
+* Upstreamed Kernel to v4.14.237
+* Updated blobs from China Stable RCOCNXM v12.0.3.0 
+* Updated few blobs from China Weekly 21.6.18
+* Addressed FPS Tile and FPS Info denials
+* Updated few chromatix blobs from Ginkgo MIUI 10
+* Blur is disabled by default now
+* Fine-Tuned scrolling boost (Horizontal/Vertical)
+
+Notes :
+
+* Ginkgo users must flash latest china beta firmware
+* Both Vanilla and Gapps build is released
+* BitGapps is recommended for Vanilla build
+
+Credits :
+
+* Thanks to @ghostrider_reborn for trees
+* Thanks to @bmark240 @CastalX for testing it
+
+-------------------------------------------------------------------
+
 XR v6.0 :-
 
 Device Changelog :-
