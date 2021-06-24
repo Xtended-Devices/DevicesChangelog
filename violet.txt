@@ -11,4 +11,6 @@ XR v7.0 Device Changelogs
 * Added wired headset mic to voip_tx sources 
 * Switch to TaskStackListener
 * Redesigned dashboard icon of Violet Parts
+* Brought back Thermal profiles (Injected into violet parts)
+* Switch back to default thermal profile when screen off 
 
