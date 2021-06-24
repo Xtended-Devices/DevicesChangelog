@@ -1,0 +1,20 @@
+Device Changelog for June 
+1. Fixed system info overlay for QS
+2. Cleanup some stuff
+3. Switched to Sleepy Kernel by @shashank1436
+4. Added Mi Sound Enhancer under sounds
+5. Dropped Device Parts
+6. Fixed battery estimate in QS
+7. Added overlay to start QCOM MPCTL service
+8. Updated thermals from LA.UM.8.6.r1-04400-89xx.0
+9. Add support for LED lights
+10. Added back device specific overlays
+11. Fixed some SEPolicy denials
+12. Improved network signal strength
+13. Switched to Redfin June fp
+14. Fixed Battery Health values
+15. Added Call recording support (works on AOSP Dialer)
+16. Added Doze support
+17. Smart charging should work (not tested)
+18. Hotspot & BT should follow device name
+19. Added support for Always on Display
