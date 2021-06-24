@@ -1,7 +1,12 @@
-- Switched to sdm660-common trees
-- Clean up Device Specific Settings
-- Redfin FP for May
-- Predator Stormbreaker EAS kernel inlined
+- Update Redfin FP for June
+- Clean up XiaomiParts
+- Added Thermal Profiles and Display Colors (KCal) Thanks to @Ratoriku
 - Enforcing + user build
-- And more...
-- CLEAN FLASH IS MANDATORY
+- Enable QPower and Deep sleep at the same time
+- Enable FPS QS Tile and System Info
+- Disable Battery Health Overlay
+- Tweaked Dalvik Heap Configs
+- Switched to EAS
+- More under the hood changes
+- CLEAN FLASH MODE
+- Thanks to @SecondKingOfThePirates @JojiOnthatBeat for testing, @zaidkhan0997 @Ratoriku for help and Joaquin from juice community
