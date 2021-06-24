@@ -1,0 +1,14 @@
+XR v7.0 Device Changelogs 
+* initial official build 
+* Added Violet-Parts (thanks to @athuld) 
+* Enabled Battery Health 
+* Enabled Smart charging + adaptive charging 
+* Added GcamGo 
+* Updated Build FP to June-21 
+* Dropped Stereo channel support for voip over audio path (To fix VOIP echo) 
+* Fixed 24bit audio playback (Enforced 24 bit as primary output) 
+* Corrected routing order for voip output 
+* Added wired headset mic to voip_tx sources 
+* Switch to TaskStackListener
+* Redesigned dashboard icon of Violet Parts
+
