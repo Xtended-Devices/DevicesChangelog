@@ -1,10 +1,10 @@
 XR v7.0 Device Changelogs 
-* initial official build 
+* Initial official build 
 * Added Violet-Parts (thanks to @athuld) 
 * Enabled Battery Health 
 * Enabled Smart charging + adaptive charging 
 * Added GcamGo 
-* Updated Build FP to June-21 
+* Updated Build FP to redfin June-21 
 * Dropped Stereo channel support for voip over audio path (To fix VOIP echo) 
 * Fixed 24bit audio playback (Enforced 24 bit as primary output) 
 * Corrected routing order for voip output 
@@ -12,5 +12,6 @@ XR v7.0 Device Changelogs
 * Switch to TaskStackListener
 * Redesigned dashboard icon of Violet Parts
 * Brought back Thermal profiles (Injected into violet parts)
-* Switch back to default thermal profile when screen off 
+* Switch back to default thermal profile when screen off
 
+Thanks to @M_3L_W1_N for testing rom, @Joker_V2_0 for helping me a lot
