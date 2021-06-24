@@ -4,3 +4,19 @@ Xtended V6 22/05/2021
 • Clean Flash is Mandatory
 • Report Bugs With Logs
 • Both Vanilla and GApps variant available
+
+Xtended XR V7 24/06/2021
+
+•Override verified boot state and oem •unlock support
+•Updated nfc configs from V12.0.7.0.RJGEUXM
+•Added wrappedkey flag
+•Added overlays for Battery Health
+•Addressed Battery Health denials
+•Set AOSP dialer as default dialer package
+•Improved dynamic refresh rate
+•Limited screen recorder to 90fps
+•Force disabled wide color display
+•Added blur props
+•Added gboard props
+•Updated to Redfin June build fp
+•Miscellaneous Improvements & fixes
