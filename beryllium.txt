@@ -1,6 +1,4 @@
-- Switched to FBE
-- Switched to User build
-- Switched to power-libpermgr
-- Updated kernel to Ingenium v2.3
-- Switched to using redfin May fingerprint (Safetynet now passes)
+- Fixed Smart charging
+- Fixed Wifi Display
+- Updated kernel to Ingenium v2.4
 - More things I forgot
