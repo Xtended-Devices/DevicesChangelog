@@ -1,0 +1,20 @@
+Device Changelog for June 26/06/2021
+1. Completely rebased Device Trees
+2. Merged latest changes from @AdarshGrewal
+3. Added Min/Max Refresh Controls under Display settings
+5. Added overlay for showing "Turbo Charging" instead of "Fast Charging"
+6. Added nodes for DC Dimming
+7. Added Call Recording for AOSP Dialer/Google Dialer (only in Flame full 19/06/2021)
+8. Added safetynet hack for Banking apps
+9. Fixed unusual noise in some apps aka chipmunk sound
+10. Updated Fingerprint to Redfin June
+11. Fixed device name for Bluetooth & Hotspot
+12. Added support for ANX Camera
+13. Switched to @AdarshGrewal OSS kernel
+15. Fixed System Info in QS Header
+16. Default Refresh Rate is 60Hz
+17. Added Support for AOD & Enabled by default
+18. Fixed BT Media/BT Calling
+19. Improved Signal Strength
+20. Added support for Adaptive Brightness
+21. Minor Bug Fixes & Optimisation
