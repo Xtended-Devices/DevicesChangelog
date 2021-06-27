@@ -1,3 +1,12 @@
+XR v7.0 :
+ =====CLEAN FLASH MUST=====
+ * Rebase to LOS trees
+ * Updated Blobs 
+ * Fixed Battery Info Crash
+ * Fixed OK Google
+ * More improvements and Optimizations which I Forgot!  
+ 
+
 XR v6.0 :
 
 * Prebuilt GcamGo
