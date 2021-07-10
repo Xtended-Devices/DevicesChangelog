@@ -1,4 +1,4 @@
-Fixed fingerprint in third party applications
+
 Updated kernel
-New power HALL
+Updated gps HALL
 Many other fixes and improvements
