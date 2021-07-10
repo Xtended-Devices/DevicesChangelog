@@ -18,3 +18,35 @@ Device Changelog for June
 17. Smart charging should work (not tested)
 18. Hotspot & BT should follow device name
 19. Added support for Always on Display
+
+Xtended XR-8.0 08-July-2021
+
+1. Merged Latest Changes from zeelog
+
+2. Fixed System Info (no more crashes)
+
+3. Fully Fixed Smartcharging
+
+4. Fixed some apps detecting root
+
+5. Fixed FPS Info
+
+6. Fixed System Info + Battery Estimate Co-existence
+
+7. Improved thermals
+
+8. Updated GCam Go
+
+9. Speedup SystemUI
+
+10. Fixed NavBar (no reboot required now)
+
+11. Updated blobs
+
+12. Updated DRM from Crosshatch
+
+13. Introduced blurs
+
+14. Updated build FP to Redfin July
+
+15. Cleanup useless stuff
