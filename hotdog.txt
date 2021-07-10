@@ -3,6 +3,14 @@ Build type: Monthly
 Device: OnePlus 7t PRO (hotdog)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 10 july, 2021 =====
+
+- Kernel upstream to 4.14.238
+- Added Fingerprint boost driver
+- Improved vibration effects
+- Added Moto dolby
+- Added Oneplus camera/Gallery
+
 ===== 23 June, 2021 =====
 
 - Kernel upstream to 4.14.237

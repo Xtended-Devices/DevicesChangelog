@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 5 (cheeseburger)
+Device maintainer: Mukesh Singh (mukesh22584)
+
+===== 10 july, 2021 =====
+
+- Kernel upstream to 4.14.274
+- Updated Fingerprint to coral july
+- Update CarrierConfig from LA.UM.8.4.r1-052008x98.0
+- Move CarrierConfig to RRO
+- Drop mediaextractor seccomp policy
