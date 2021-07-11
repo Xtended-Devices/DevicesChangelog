@@ -1,4 +1,5 @@
-Device Changelog [22/05/2021]
+**Xtended XR-v8.0 Device Changelog**
 
-* Update Blobs from daisy_sprout10 (THX @ThE_MarD)
-* Add LetvRemoteControl (THX @chrisbalgreece)
+* Fixed WiFiDisplay (THX @chrisbalgreece)
+
++ THX to all Le Max 2 devs for making this possible!!! 
