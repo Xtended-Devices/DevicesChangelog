@@ -1,16 +1,7 @@
-**Xtended XR-v7.0 Device Changelogs**
+**Xtended XR-v8.0 Device Changelogs**
 
-- Upstreamed kernel to 4.14.237
-- Merged latest tag LA.UM.9.1.r1-10200-SMxx0.0 in kernel
-- Updated build fingerprint to Redfin June
-- Enabled Press/Touch to unlock with power button feature
-- Added bass booster preset in Dirac
-- Switched to prebuilt audio hal (Fixes all audio related OOTBs)
-- Updated PowerOffAlarm and Timeservices from Nubia NX627J
-- Enabled IORap app launch prefetching
-- Added Alipay fingerprint payment support
-- Set quick qs offset height to status bar height
-- Dyanamically load widevine blobs (Fixes widevine L1 OOTB of non curtana users, credits Ramisky)
-- Enabled userspace LMK in perfconfigstore
-- Dropped Hotword Enrollment blobs
--  Switched to in tree QTI vibrator HAL
+- Upstreamed kernel to 4.14.238
+- Merged latest tag LA.UM.9.1.r1-10600-SMxx0.0 in kernel
+- Merge tag 'ASB-2021-07-05_4.14-stable' in kernel
+- Updated build fingerprint to Redfin July
+- Updated Adreno/Vulkan blobs to v530
