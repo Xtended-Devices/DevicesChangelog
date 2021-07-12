@@ -1,3 +1,37 @@
+XR v8.0 :-
+
+Changelog :
+
+* Updated RedFin FP to July
+* Fixed battery draining issue
+* Fixed Messenger video call, TikTok and some other video apps random reboot issue.
+* Fixed calling lowest volume issue
+* Blobs updated from LA.UM.9.11.r1-03900-NICOBAR.0 (CAF)
+* Stock blobs pdated to MIUI China Beta v21.7.7
+* HALs updated to latest SMxxx0 CAF tag
+* Addressed gmscore denials
+* Fixed Google Photos "device too hot" error
+* Added LED indicator for offline charging
+* Freed some RAM from useless virtual framebuffer
+* Switched to QTI health implementation
+* Upstreamed kernel to 4.14.239
+* Merged CAF tag LA.UM.9.1.r1-10600-SMxxx0.0 to  kernel ,qcacld-3.0, wifi-cmn
+* Tried to fix kernel panic due to power changes 
+* Many changes in kernel (scheduler tweaks and more)
+
+Notes :
+
+* Ginkgo users must flash latest china beta firmware
+* Both Vanilla and Gapps build is released
+* BitGapps is recommended for Vanilla build
+
+Credits :
+
+* Thanks to @ghostrider_reborn for trees
+* Thanks to @bmark240 @Purplr1 for testing it
+
+-------------------------------------------------------------------
+
 XR v7.0 :-
 
 Changelog :
