@@ -7,7 +7,7 @@ Changelog :
 * Fixed Messenger video call, TikTok and some other video apps random reboot issue.
 * Fixed calling lowest volume issue
 * Blobs updated from LA.UM.9.11.r1-03900-NICOBAR.0 (CAF)
-* Stock blobs pdated to MIUI China Beta v21.7.7
+* Stock blobs updated to MIUI China Beta v21.7.7
 * HALs updated to latest SMxxx0 CAF tag
 * Addressed gmscore denials
 * Fixed Google Photos "device too hot" error
