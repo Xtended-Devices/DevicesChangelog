@@ -1,5 +1,16 @@
+XR 8
+ * Update GPS from LA.UM.9.6.2.r1-04100-89xx.0 & cleanup gps blobs
+ * Fix Gps not found in waze maps app
+ * Import hotword blobs from qssi-user 11 RKQ1.200826.002-21.6.2 release-keys
+ * Fix OK/HEY Google, now works for google assistant
+ * Kernel added KCAL with default sat = 50 and misc upstream fixes
+ * Drop Sound Trigger & lawnchair revert back to default launcher3
+ * Fix Device showing not certified in playstore
+ * Addressed many sepolicy denials & reduce system logspam
+ * Improved stability and fix lag, stutter issues in ui
+
 XR 7
- * Update Libaudcal from LA.UM.9.6.2.r1-04100-89xx.0 (fix for low audio)
+ * Update Libaudcal from LA.UM.9.6.2.r1-04100-89xx.0
  * Disabled blur by default, donot enable again it causes lag while in qs
  * Kernel updated and improved battery on idle, fixed screen freeze issues in games & enabled boost
  * Silence many logspams and addressed sepolicy denials
