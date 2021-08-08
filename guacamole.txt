@@ -3,6 +3,17 @@ Build type: Monthly
 Device: OnePlus 7PRO (guacamole)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 08 August, 2021 =====
+
+- Kernel upstream to 4.14.242
+- Updated blobs from OOS 11.0.2.1
+- Added Oneplus camera/Gallery from OOS 11.0.2.1
+- Added auto HBM like OOS.
+- Added haptic feedback to off screen gestures
+- Improved Pocketmode
+- Removed haptics from ambient gesture action
+- Removed HBM from OnePlusSettings
+
 ===== 10 july, 2021 =====
 
 - Kernel upstream to 4.14.238
