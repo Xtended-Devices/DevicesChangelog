@@ -1,8 +1,9 @@
-*updated thermal from stock
-*updated grpahics blobs from taimen
-*tweaks for ui improvement
-*added 2gb zram
+*added prebuilt twr
+*enforce rro for all overlays
+*fix smartcharging
+*updated tree with los
+*upstreamed kernel 4.4.278
 
 Gapps-variant
-* added gcam
+* updated gcam
 
