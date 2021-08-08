@@ -1,5 +1,8 @@
-**Xtended XR-v8.0 Device Changelog**
+**Xtended XR-v9.0 Device Changelog**
 
-* Fixed WiFiDisplay (THX @chrisbalgreece)
+- Kernel upstreamed to LA.UM.8.6.c26-03500-89xx.0
+- Removed logspam
+
+- many minor improvements under the hood
 
 + THX to all Le Max 2 devs for making this possible!!! 
