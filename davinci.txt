@@ -1,4 +1,5 @@
 
 Updated kernel
-Updated gps HALL
+Updated MiUi camera
+Fixed reset carrier settings
 Many other fixes and improvements
