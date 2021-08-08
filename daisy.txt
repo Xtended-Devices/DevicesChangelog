@@ -1,0 +1,48 @@
+----------------------------------------------
+•• Daisy Official Release XR v9.0 Changelog ••
+----------------------------------------------
+• Kernel Panda 4.9.278 Proton-Clang-13 + Wireguard
+• Fix neverallow
+• Orangefox is built in
+• Enable WPA2-Enterprise (802.1X) or WPA2-PSK - (CA certificate)
+• Added pt-br translation for X-tensions
+• Update privapp-permissions
+• Add missing permissions
+• sepolicy: Address denials for System Info
+• set opengl - skiavk no stable for now
+• Add missings perf library
+• Chromium WebViewer
+• Lineage parts
+• FBE - ofc
+• Micam - ofc
+• Tissot build fingerprint
+• Goodix FP HAL: Be quiet!
+• Change to tree lupesoltec
+• Enabling USB enumeration in power-off charging mode
+• Override the usb composition in power off charging
+• Disable adsprpcd
+• Enable zram-writeback job
+• prop: Disable camera low light features
+• prop: Add property to choose hw codecs in thumbnailer
+• set telegraph hal1 packagelist
+• prop: Kill some IMS logspam
+• Import power HAL
+• Update overlay, carrier, thermal, init, audio, gps, etc
+• And other improvements
+
+----------------------------------------------
+*************** Installation *****************
+----------------------------------------------
+-edl firmware 10.0.18 (more recommended) - or 11.0.04 - 11.0.16
+-persist oreo / or persist.img by fastboot mode (twice) -  (recommended/optional)
+-boot to recovery
+-format data->yes
+-reboot to recovery
+-wipe: system, data/cache, dalvik (optional)
+-flash ROM (reboot system optional) - do this if using weebgapps
+-flash custom recovery (you don't need a rom that comes with built-in recovery, example: msm-xr, havoc, syberia)
+-reboot to recovery
+-flash gapps  (optional) — Note: Use FlameGApps (more recommended); No use WeebGapps for Rom FBE
+-flash kernel (optional)
+-flash magisk  (optional)
+-reboot to system
