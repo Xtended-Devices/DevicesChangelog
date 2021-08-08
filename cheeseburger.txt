@@ -3,6 +3,12 @@ Build type: Monthly
 Device: OnePlus 5 (cheeseburger)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 08 August, 2021 =====
+
+- Kernel upstream to 4.4.278
+- Added kernel side F2FS support
+- Updated fstab (no need to flash f2fs_fstab zip)
+
 ===== 10 july, 2021 =====
 
 - Kernel upstream to 4.14.274
