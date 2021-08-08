@@ -1,7 +1,14 @@
-**Xtended XR-v8.0 Device Changelogs**
+**Xtended XR-v9.0 Device Changelogs**
 
-- Upstreamed kernel to 4.14.238
-- Merged latest tag LA.UM.9.1.r1-10600-SMxx0.0 in kernel
-- Merge tag 'ASB-2021-07-05_4.14-stable' in kernel
-- Updated build fingerprint to Redfin July
-- Updated Adreno/Vulkan blobs to v530
+- Rebased kernel over LA.UM.9.1.r1-10600-SMxxx0.0 tag
+- Upstreamed kernel to 4.14.242
+- Merged LA.UM.9.1.r1-10700-SMxxx0.QSSI12.0 in treewide, qcacld-3.0, qca-wifi-host-cmn, fw-api
+- Merge tag 'ASB-2021-08-05_4.14-stable' in kernel
+- Fixed device freeze issue while charging
+- Updated build fingerprint to Redfin August
+- Defined OEM fast charge sysfs node
+- Added offline charging LED indicator
+- Disabled multi color notification LED (miatoll has white led only)
+- Load curtana a11 oemcrypto for excalibur as well
+- Addressed some selinux denials
+- Bump vendor security patch to June
