@@ -1,17 +1,6 @@
-XR v7.0 Device Changelogs 
-* Initial official build 
-* Added Violet-Parts (thanks to @athuld) 
-* Enabled Battery Health 
-* Enabled Smart charging + adaptive charging 
-* Added GcamGo 
-* Updated Build FP to redfin June-21 
-* Dropped Stereo channel support for voip over audio path (To fix VOIP echo) 
-* Fixed 24bit audio playback (Enforced 24 bit as primary output) 
-* Corrected routing order for voip output 
-* Added wired headset mic to voip_tx sources 
-* Switch to TaskStackListener
-* Redesigned dashboard icon of Violet Parts
-* Brought back Thermal profiles (Injected into violet parts)
-* Switch back to default thermal profile when screen off
+Xtended 9.0 Xiaomi Redmi Note 7 Pro - Violet Changelogs
+August 08, 2021
 
-Thanks to @M_3L_W1_N for testing rom, @Joker_V2_0 for helping me a lot
+Device Changelog:
+
+* Initial official build
