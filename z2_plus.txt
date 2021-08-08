@@ -1,3 +1,10 @@
+XR 9
+ * Update some audio blobs from LA.UM.9.6.2.r1-04100-89xx.0
+ * Force disable updatable APEX
+ * Drop Iorapd properties
+ * Kernel: Remove BCL (Fix phone lag below 30%)
+ * Kernel: Enable Exfat & Ntfs
+
 XR 8
  * Update GPS from LA.UM.9.6.2.r1-04100-89xx.0 & cleanup gps blobs
  * Fix Gps not found in waze maps app
