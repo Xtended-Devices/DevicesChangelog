@@ -1,3 +1,35 @@
+XR v9.0 :-
+
+Changelog :
+
+* Updated Redfin FP to August
+* Updated blobs, GPS HAL and kernel to LA.UM.9.11.r1-04500-NICOBAR.0
+* Updated MIUI blobs from China Beta 21.7.28
+* Kernel upstreamed to v4.14.242
+* Disabled UI touch sounds by default
+* Boost GPU to max for blur
+* Fixed missing charging info details in battery section
+* Added offline charging LED indicator
+* Removed schedtune boosts to reduce heat
+* Enabled IORap prefetching for faster app launch
+* Enabled compile-time CPU specific optimizations
+* Switched to QTI battery health implementation
+* Undervolt GPU to reduce heat and power draw
+* Misc kernel optimizations & fixes
+
+Notes :
+
+* Ginkgo users must flash latest china beta firmware
+* Both Vanilla and Gapps build is released
+* Open/Bit-Gapps is recommended for Vanilla build
+
+Credits :
+
+* Thanks to @ghostrider_reborn for trees
+* Thanks to @bmark240 @Purplr1 @henry_markle @cnucnucnu @castalx for testing it
+
+-------------------------------------------------------------------
+
 XR v8.0 :-
 
 Changelog :
