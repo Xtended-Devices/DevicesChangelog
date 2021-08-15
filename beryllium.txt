@@ -1,4 +1,2 @@
-- Fixed Smart charging
-- Fixed Wifi Display
-- Updated kernel to Ingenium v2.4
-- More things I forgot
+- Updated fp to Redfin August
+- Updated kernel to Ingenium v2.6
