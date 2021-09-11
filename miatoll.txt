@@ -1,14 +1,7 @@
-**Xtended XR-v9.0 Device Changelogs**
+**Xtended XR-vX.0 Device Changelogs**
 
-- Rebased kernel over LA.UM.9.1.r1-10600-SMxxx0.0 tag
-- Upstreamed kernel to 4.14.242
-- Merged LA.UM.9.1.r1-10700-SMxxx0.QSSI12.0 in treewide, qcacld-3.0, qca-wifi-host-cmn, fw-api
-- Merge tag 'ASB-2021-08-05_4.14-stable' in kernel
-- Fixed device freeze issue while charging
-- Updated build fingerprint to Redfin August
-- Defined OEM fast charge sysfs node
-- Added offline charging LED indicator
-- Disabled multi color notification LED (miatoll has white led only)
-- Load curtana a11 oemcrypto for excalibur as well
-- Addressed some selinux denials
-- Bump vendor security patch to June
+- Upstreamed kernel to 4.14.246
+- Merged LA.UM.9.1.r1-11100-SMxxx0.0 in treewide, qcacld-3.0, qca-wifi-host-cmn, fw-api, techpack/audio
+- Merge tag 'ASB-2021-09-05_4.14-stable' in kernel
+- Updated build fingerprint to Redfin September
+- Removed Widevine L1 hacks (coz gram got A11 as well)
