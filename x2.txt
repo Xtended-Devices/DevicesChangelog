@@ -1,8 +1,5 @@
 **Xtended XR-v9.0 Device Changelog**
 
-- Kernel upstreamed to LA.UM.8.6.c26-03500-89xx.0
-- Removed logspam
-
-- many minor improvements under the hood
+- No changes this time :-)
 
 + THX to all Le Max 2 devs for making this possible!!! 
