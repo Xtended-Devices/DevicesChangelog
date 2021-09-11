@@ -1,8 +1,8 @@
-**Xtended XR-v9.0 Device Changelog**
+**Xtended XR-vX.0 Device Changelog**
 
-- Updated Blobs to 12.5.262(THX @Lucchetto)
-- Upstreamed kernel to 4.14.242
-- GPU light overclock / Undervolt
+- Updated Blobs to 12.5.365
+- Upstreamed kernel to 4.14.246
+- Remove GPU light overclock / Undervolt
 
 * More minor improvements under the hood 
 
