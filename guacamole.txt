@@ -3,6 +3,16 @@ Build type: Monthly
 Device: OnePlus 7PRO (guacamole)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 11 September, 2021 =====
+
+- Updated blobs from OOS 11.0.3.1
+- Reverted back to LOS kernel
+- Improved haptics
+- Added RGB strength in OnePlus Settings
+- Enabled burn-in protection
+- Removed FOD night light
+- Improved auto brightness
+
 ===== 10 August, 2021 =====
 
 - Kernel upstream to 4.14.243

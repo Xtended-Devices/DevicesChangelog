@@ -3,6 +3,14 @@ Build type: Monthly
 Device: OnePlus 5t (dumpling)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 11 September, 2021 =====
+
+- Kernel upstream to 4.4.283
+- Update GCamGo to 2.5.37
+- Decouple suspend from screen state
+- Fixed QS blur not working
+- Added GBoard spacing prop
+
 ===== 08 August, 2021 =====
 
 - Kernel upstream to 4.4.278
