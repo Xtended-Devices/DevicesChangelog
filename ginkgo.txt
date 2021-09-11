@@ -1,3 +1,25 @@
+XR vX.0 :-
+
+Changelog :
+
+* Initial official build
+* Merged september security patch
+* Update fp to Redfin to pass CTS
+* Fixed lockscreen bottom margin
+* Added support for LCD HBM and CABC 
+
+Notes :
+
+* Ginkgo users must flash latest china beta firmware
+* Both Vanilla and Gapps build is released
+* Open/Bit-Gapps is recommended for Vanilla build
+
+Credits :
+
+* Thanks to @ghostrider_reborn for trees
+* Thanks to @aryaman895 for your support
+* Thanks to @bnexus @Purplr1 @castalx for testing it
+
 XR v9.0 :-
 
 Changelog :
