@@ -1,15 +1,14 @@
-Xtended 9.0 Realme 5 Pro - RMX1971 Changelogs
-August 08, 2021
+Xtended X.0 Realme 5 Pro - RMX1971 Changelogs
+September 11, 2021
 
 Device Changelog:
 
-* August Security patch
-* Added background blur
-* Gesture Navigation is the default system navigation now
-* Moved Dirac Sound to System (from sound settings)
-* Fixed Screen Recorded video playback issue 
-* Fixed issue with higher resolution YouTube video playback 
-* Upstreamed kernal to 4.9.277
-* Updated to Redfin August FP
+* September Security patch
+* Backup unlimited Photos in Google Photos App in any quality
+* Added Display and Graphics Blobs from RMX1901 - RUI 2.0
+* Improved VoIP calls performance
+* Fixed Screen casting issue 
+* Upstreamed kernel to 4.9.282
 * Safetynet passes by default 
+* Updated to Redfin September FP
 * Little changes here and there to improve the performance
