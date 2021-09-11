@@ -1,3 +1,17 @@
+XR X
+ * Update bluetooth blobs from cheeseburger (OnePlus 5)
+ * Added ant+
+ * Disabled significant motion detector which caused idle drain
+ * Fixed wifi and bluetooth mac
+ * Added drm props
+ * Set voice call volume steps like on stock zui
+ * Fixed geekbench opencl test
+ * Removed unneeded cmdline options
+ * Improved pixel offline charger animation
+ * Build libdac from source
+ * Added xml for unlimited google photos backup
+ * Compiled with Clang 13.0.2
+
 XR 9
  * Update some audio blobs from LA.UM.9.6.2.r1-04100-89xx.0
  * Force disable updatable APEX
