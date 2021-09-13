@@ -29,3 +29,10 @@ Xtended XR V8 11/07/2021
 •Updated Build FP to July 
 •Fixed Some Issues Where DT2W wasn't Working
 •Fixed The Issues with L1
+
+Xtended XR VX.0 13/09/2021
+
+• Added init script for exTHmUI's GameMode performance control
+• Parts: Don't apply thermal preset when GameMode is active 
+• Pulled latest changes from QuicksilveR Kernel
+• Miscellaneous Changes & Improvements
