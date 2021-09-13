@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: grus (MI 9 SE)
+Device maintainer: RDS_07 
+
+===== 13 September, 2021 =====
+
+* restored data and cache to ext4 now ( f2fs will not work  )
+* Upstreamed kernel to 4.9.282
+* Enforcing
+* Few under the hood changes
