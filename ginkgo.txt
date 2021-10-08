@@ -1,3 +1,25 @@
+XR vX.r :-
+
+Changelog :
+
+* Merged October security patch
+* CTS passes by default
+* Added SIM toggle in SIM settings
+* Removed Notification LED settings for Willow
+
+Notes :
+
+* Ginkgo users must flash latest china beta firmware
+* Both Vanilla and Gapps build is released
+* Open/Bit-Gapps is recommended for Vanilla build
+
+Credits :
+
+* Thanks to @ghostrider_reborn for trees
+* Thanks to @aryaman895 for your support
+* Thanks to @bnexus @Purplr1 @castalx for testing it
+
+
 XR vX.0 :-
 
 Changelog :
