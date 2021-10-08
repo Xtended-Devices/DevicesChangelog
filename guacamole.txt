@@ -3,7 +3,16 @@ Build type: Monthly
 Device: OnePlus 7PRO (guacamole)
 Device maintainer: Mukesh Singh (mukesh22584)
 
-===== 11 September, 2021 =====
+====== 8 October, 2021 =====
+
+- Added automated DC dimming
+- Added multiple intensities haptics support
+- Added SIM disable option
+- Fixed Moto dolby not working in few cases
+- Fixed ambient pickup
+- Fixed double haptics effect on back gesture
+
+==== 11 September, 2021 =====
 
 - Updated blobs from OOS 11.0.3.1
 - Reverted back to LOS kernel
