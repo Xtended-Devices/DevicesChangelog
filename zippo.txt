@@ -1,8 +1,10 @@
-**Xtended XR-vX.0 Device Changelog**
+**XR-vX.r Changelog**
 
-- Updated Blobs to 12.5.365
-- Upstreamed kernel to 4.14.246
-- Remove GPU light overclock / Undervolt
+- Updated Display Blobs to 12.5.365
+- Kernel base - THX @pasta_con_tonno
+- Upstreamed everything to LA.UM.9.1.r1-11200-SMxxx0.0
+- Added GPU overclock up to 810MHz / Undervolt
+- Added DDR Boost to 2166MHz
 
 * More minor improvements under the hood 
 
