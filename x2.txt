@@ -1,5 +1,5 @@
-**Xtended XR-v9.0 Device Changelog**
+**Xtended XR-vX.r Device Changelog**
 
-- No changes this time :-)
+- Drop QCOM Wfd
 
 + THX to all Le Max 2 devs for making this possible!!! 
