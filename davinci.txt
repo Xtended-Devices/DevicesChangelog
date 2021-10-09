@@ -1,5 +1,5 @@
 
-Updated kernel
-Updated MiUi camera
-Fixed reset carrier settings
-Many other fixes and improvements
+- A few fixes for adjust brightness
+- Kernel Upstream to 4.14.249, LA.UM.9.1.r1-11200-SMxxx0.0
+- Enabled multiuser settings.
+- Other additions and improvements
