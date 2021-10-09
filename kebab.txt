@@ -3,6 +3,28 @@ Build type: Monthly
 Device: OnePlus 8T (kebab)
 Device maintainer: Amsal Khan (Amsal1 or Viper_1057)
 
+===== 09 October, 2021 =====
+
+- Updated blobs from OnePlus 9R OOS 11.4.5.5
+- DeviceSettings: Added back OnePlus Dolby & QS tile (Disable by default)
+- DeviceSettings: Added 240hz Touch Sampling
+- DeviceSettings: Fixed Haptic Feedback Switch in Touchscreen Gestures
+- Fixed Crackling Sound issue on voice call at high volume and improved audio
+- Added keyboard padding props from stock
+- doze: Switched back to Xtended Doze
+- overlay: Don't pin camera app in memory
+- overlay: Fix for FOD Auth text and icon overlap
+- Updated Authsecret, CDSP, Configstore, Gatekeeper, Graphics, IO prefetcher, IRQ balance, Keymaster, Peripheral manager, Perf, Snapdragon Computer Vision Engine, Soter, Thermal engine, Time services, Trusted User Interface and VPP blobs from LA.UM.9.12.r1-11500-SMxx50.0
+- Updated blobs from LA.UM.9.12.r1-12000-SMxx50.0
+- kernel: Merged 'LA.UM.9.12.r1-12900-SMxx50.QSSI12.0' CAF tag
+- kernel: Synchronize codes for OnePlus 9R Oxygen OS Oxygen OS 11.2.5.5.LE28DA
+- kernel: power: supply: Fix kernel building without mp2650 driver 
+- kernel: dtsi: fix duplicate overlays 
+- kernel: techpack: audio: fix coding 
+- kernel: power: Silence debug logging
+- kernel: configs: Enable wireguard
+- Other minor cleanup & improvements
+
 ===== 11 September, 2021 =====
 
 - Initial Official Build
