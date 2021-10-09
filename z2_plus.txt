@@ -1,3 +1,7 @@
+XR X.r
+ * Reverted some kernel commits as users reported random reboots
+ * Nothing new added device side enjoy final build lets meet in A12 soon
+ 
 XR X
  * Update bluetooth blobs from cheeseburger (OnePlus 5)
  * Added ant+
