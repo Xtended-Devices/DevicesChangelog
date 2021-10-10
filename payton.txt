@@ -1,4 +1,4 @@
-*fixed wfd
-*add adapt launch feature
-*updated tree with los
-*upstreamed kernel 4.4.283
+*update brightness value
+*remove unused props
+*update cabl prop
+*increase volume little bit
