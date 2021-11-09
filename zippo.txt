@@ -1,10 +1,8 @@
 **XR-vX.r Changelog**
 
-- Updated Display Blobs to 12.5.365
-- Kernel base - THX @pasta_con_tonno
-- Upstreamed everything to LA.UM.9.1.r1-11200-SMxxx0.0
-- Added GPU overclock up to 810MHz / Undervolt
-- Added DDR Boost to 2166MHz
+- Switch back to Nubia Display Blobs - ZUI caused logspam
+- Kernel bumped to 4.14.254
+- Fixed some denials
 
 * More minor improvements under the hood 
 
