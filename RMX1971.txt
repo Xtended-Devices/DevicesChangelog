@@ -1,12 +1,9 @@
-Xtended X.r Realme 5 Pro - RMX1971 Changelogs
-October 09, 2021
+XS-First-Blood: Initial A12 Release - RMX1971 Changelogs
+December 11, 2021
 
 Device Changelog:
 
-* Initial User Build (Switched from Userdebug to User Build)
-* October Security patch
-* Updated to Redfin October FP
-* Enable Rich-Communication Services
-* Fixed aptX HD Audio
-* Enable Freeform Window
-* Little changes here and there to improve the performance
+* Initial A12 Build
+* Safetynet passes by default
+* Upstreamed Kernel to 4.9.291
+* Updated to Redfin December FP
