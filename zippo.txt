@@ -1,8 +1,9 @@
-**XR-vX.r Changelog**
+**Xtended XS - First Blood - Device Changelog **
 
-- Switch back to Nubia Display Blobs - ZUI caused logspam
-- Kernel bumped to 4.14.254
-- Fixed some denials
+- Added toggle for HBM/DC-Dimming 
+- CAF Kernel bumped to LA.UM.9.1.r1-11400-SMxxx0.0
+- switched to Proton clang for Kernel compiling
+- Fixed massive sepolicy spam 
 
 * More minor improvements under the hood 
 
