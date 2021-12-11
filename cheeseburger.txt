@@ -3,6 +3,11 @@ Build type: Monthly
 Device: OnePlus 5 (cheeseburger)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 11 December 2021 =====
+
+- Initial XS build based on A12
+- Device rebased on Lineage sources
+
 ===== 8 October, 2021 =====
 
 - Kernel upstream to 4.4.286

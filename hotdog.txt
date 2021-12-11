@@ -3,6 +3,12 @@ Build type: Monthly
 Device: OnePlus 7t PRO (hotdog)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 11 December 2021 =====
+
+- Initial XS build based on A12
+- Every A11 device related features available
+- Adopted DeviceSettings for A12
+
 ====== 8 October, 2021 =====
 
 - Added automated DC dimming
