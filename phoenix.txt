@@ -1,0 +1,17 @@
+===== 12 December 2021 =====
+INITIAL RELEASE FIRST OFFICIAL BUILD.
+
+Swtich back to refresh rate switching option.
+Make the UI smoother.
+Enforce android-S new launch debugfs restrictions.
+Switch to Vulkan UI renderer.
+Enable hapticTextHandle.
+Add overlay for enabling Now Playing.
+Build android.hardware.thermal@2.0-service.qti.
+Enable freeform windows.
+Enable one handed mode.
+Provide android.frameworks.sensorservice@1.0 on vendor.
+Take logs without ADB.
+Declare OpenGL ES dEQP level.
+Enable config_vibrateOnIconAnimation.
+Enable USB and skin temperature warnings.
