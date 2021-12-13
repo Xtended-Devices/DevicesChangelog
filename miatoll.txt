@@ -1,8 +1,4 @@
-**Xtended XR-vX.r November Update Changelogs**
+**Xtended XS-First-Blood December Update Changelogs**
 
-- Final update
-- Upstreamed kernel to 4.14.254
-- Switched to walleye fingerprint
-- Mergd November security patch
-- Fixed back gesture vibration feedback
-- Fixed high battery drain in previous update
+- Initial stable build
+- Upstreamed kernel to 4.14.257
