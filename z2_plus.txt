@@ -1,97 +1,12 @@
-XR X.r
- * Reverted some kernel commits as users reported random reboots
- * Nothing new added device side enjoy final build lets meet in A12 soon
- 
-XR X
- * Update bluetooth blobs from cheeseburger (OnePlus 5)
- * Added ant+
- * Disabled significant motion detector which caused idle drain
- * Fixed wifi and bluetooth mac
- * Added drm props
- * Set voice call volume steps like on stock zui
- * Fixed geekbench opencl test
- * Removed unneeded cmdline options
- * Improved pixel offline charger animation
- * Build libdac from source
- * Added xml for unlimited google photos backup
- * Compiled with Clang 13.0.2
+Bugs :
+ - Encryption
+ - Random Reboots
 
-XR 9
- * Update some audio blobs from LA.UM.9.6.2.r1-04100-89xx.0
- * Force disable updatable APEX
- * Drop Iorapd properties
- * Kernel: Remove BCL (Fix phone lag below 30%)
- * Kernel: Enable Exfat & Ntfs
+Device Side Changelogs :
 
-XR 8
- * Update GPS from LA.UM.9.6.2.r1-04100-89xx.0 & cleanup gps blobs
- * Fix Gps not found in waze maps app
- * Import hotword blobs from qssi-user 11 RKQ1.200826.002-21.6.2 release-keys
- * Fix OK/HEY Google, now works for google assistant
- * Kernel added KCAL with default sat = 50 and misc upstream fixes
- * Drop Sound Trigger & lawnchair revert back to default launcher3
- * Fix Device showing not certified in playstore
- * Addressed many sepolicy denials & reduce system logspam
- * Improved stability and fix lag, stutter issues in ui
-
-XR 7
- * Update Libaudcal from LA.UM.9.6.2.r1-04100-89xx.0
- * Disabled blur by default, donot enable again it causes lag while in qs
- * Kernel updated and improved battery on idle, fixed screen freeze issues in games & enabled boost
- * Silence many logspams and addressed sepolicy denials
- * Switched to minimal gapps and upstream prebuilt gapps, no more dialer issue. For vanilla build use mind the gapps lite or bit gapps only
- * Force Enabled iorapd
- * Unpinned Launcher and camera app from memory
- * Switched from default Launcher3 to Lawnchair 11.0 Alpha 4
- * Readded Navigation bar toggle which fix back gesture (needs reboot to work)
- 
-XR 6
- * Initial TREBLE Build with latest VNDK
- * Se Linux ENFORCING
- * Many SE Policy - Denials which were spamming in dmesg logs are fixed
- * Kernel switched from Statix to Alchemy 3.18.140 all credits to @ZyxxeZ for kernel tree
- * Blob updates from LA.UM.9.6.2.r1-04100-89xx.0
- * Fixed some apps crashing like saavn, kredivo and other banking app which needed se linux to be enforcing
- * Instagram Videos, Reels glitch fixed by updating media configs & XML.
- * Xtended will now updated as signed zips the advantage will be:
-   1. User can verify that the build is actually made by a official maintainer and not some random guy.
-   2. If some malicious app with the same package name as a system app tries to get installed, it'll either fail or the app won't have access to the old data.
-   3. Ensures integrity of the system and maintains the very basic Android security model
-
- XR 5
-  * Import aptx blobs from crosshatch.
-  * Massive blob updates wfd, seccomp policy, cne, dpm, drm, qmi, radio, ims, graphic, media, av, rtp & protobuf blobs from LA.UM.9.6.2.r1-03600-89xx.0 thanks to @ZyxxeZ for patching and @aswin7469 for bsp zip.
-  * Compiled with Proton Clang 13.
-  * Fixed auto brightness previously it was taking more time interval to adjust now latency is reduced.
-  * Switched to LA.UM.9.6.2.r1-03600-89xx.0 for display, media & audio HALs.
-  * Fixed wifi display, tested works on mi box.
-  * Misc under the hood bug fixes and improvements.
-
- XR 4
-  * Fixed a bug where many apn were showing in network settings.
-  * Fixed smart charging.
-  * Compiled using clang 12.0.1
-  * Switched to LA.UM.8.6.r1-05300-89xx.0 for display, media & audio HALs.
-  * Switched from default snap camera to Google camera go.
-
- XR 3
-  * Fixed a bug where dt2w was working even when turned off from display settings
-  * Fixed double tap to doze
-  * Add audio effects xml converted from zui 4.0.186 this fixed viper drivers not getting installed now viper works fine thanks to @ZyxxeZ for the fix
-  * Merge latest CAF tag LA.UM.8.6.2.r1-08800-89xx.0 into display, media & audio HAL
-
- XR 2
-  * Revert from gapps build to vanilla build.
-  * Nuked Device specific old zukdoze package and switched to xtended doze
-  * Fixed Always on Display
-  * Switched to msm 89xx Hals
-  * Fixed navigation gestures and added navigation bar toggle need restart to work
-  * Added Motorola Face Unlock
-
- XR 1
-  * Initial Android 11 | R build based on @ZyxxeZ trees
-  * Fixed hotspot thanks to @SuperDroidBond @ZyxxeZ for fix
-  * Fixed Press Home to Wake
-  * Fixed Night Light credits to @aswin7469
-  * Fixed Fingerprint not regestering
-  * Gapps prebuilt, clean falsh recommended and use latest twrp
+Xtended XS-First-Blood
+ * Initial Stable Build based on Dmitrii (@shutter-cat) trees
+ * Compiled using TRB Clang 14, LTO, Polly
+ * Se-Linux Status Enforcing
+ * Safetynet Pass even without magisk
+ * Upstreamed kernel to 4.9.250
