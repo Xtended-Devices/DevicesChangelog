@@ -1,0 +1,12 @@
+XS-First-Blood: Initial A12 Release - Juice Changelogs
+December 16, 2021
+
+Flash this ZIP to fix audio (headphones, incall), DT2W and to enable aptX and aptX bluetooth audio:
+https://drive.google.com/file/d/1CqxRpLZ16Rh0FbBXv6pjc9w2CeY4SddG
+
+Device Changelog:
+
+* Initial A12 Build
+* Updated to Redfin December FP
+* Selinux Permissive
+
