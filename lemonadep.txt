@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 9PRO (lemonadep)
+Device maintainer: Mukesh Singh (mukesh22584)
+
+===== 02 January 2022 =====
+
+- Initial XS build based on A12
