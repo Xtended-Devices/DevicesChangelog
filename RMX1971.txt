@@ -1,9 +1,15 @@
-XS-First-Blood: Initial A12 Release - RMX1971 Changelogs
-December 11, 2021
+Xtended XS v2 - RMX1971 Changelogs
+January 14, 2022
 
 Device Changelog:
 
-* Initial A12 Build
+* January security patch 
+* Updated to Redfin January FP
 * Safetynet passes by default
-* Upstreamed Kernel to 4.9.291
-* Updated to Redfin December FP
+* Get unlimited Photos backup in any quality in Google photos 
+* Fixed lockscreen charging info showing power as 0 W
+* Updated WFD, Display, Graphics Blobs from RUI2
+* Uprev graphics hal to v2.3, Display hal to v2.0
+* Upstreamed kernal to 4.9.295
+* Merged latest CAF tag LA.UM.9.8.r1-04400-SDM710.0 into kernel
+
