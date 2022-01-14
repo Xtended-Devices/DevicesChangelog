@@ -1,9 +1,8 @@
-**Xtended XS - First Blood - Device Changelog **
+**Xtended XS - v2 - Device Changelog **
 
-- Added toggle for HBM/DC-Dimming 
-- CAF Kernel bumped to LA.UM.9.1.r1-11400-SMxxx0.0
-- switched to Proton clang for Kernel compiling
-- Fixed massive sepolicy spam 
+- added GcamGo as default cam
+
+- CAF Kernel bumped to LA.UM.9.1.r1-11500-SMxxx0.0
 
 * More minor improvements under the hood 
 
