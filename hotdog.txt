@@ -3,6 +3,11 @@ Build type: Monthly
 Device: OnePlus 7t PRO (hotdog)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 14 January 2022 =====
+
+- Updated Gcam Go
+- Set gesture as default navigation
+
 ===== 11 December 2021 =====
 
 - Initial XS build based on A12

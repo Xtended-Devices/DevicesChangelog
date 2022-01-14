@@ -5,10 +5,7 @@ Device maintainer: Mukesh Singh (mukesh22584)
 
 ===== 14 January 2022 =====
 
+- Initial XS build based on A12
 - Fixed USB OTG
 - Fixed Android Auto
-- Fixed CNE location privacy indiactor popup 
-
-===== 02 January 2022 =====
-
-- Initial XS build based on A12
+- Fixed CNE location privacy indiactor popup

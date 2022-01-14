@@ -3,6 +3,13 @@ Build type: Monthly
 Device: OnePlus 5t (dumpling)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 14 January 2022 =====
+
+- Fixed Night light
+- Added color mode
+- Updated Gcam Go
+- Added missing libwpa_client  in device source
+
 ===== 11 December 2021 =====
 
 - Initial XS build based on A12
