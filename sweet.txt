@@ -1,4 +1,7 @@
-**Xtended XS-First-Blood December Update Changelogs**
-* Initial A12 Build
+**Xtended XS v2 January Update Changelogs**
+* January secuirty patch
 * Safetynet passes by default
-* Updated to Redfin December FP
+* Switched to VantomKernel
+* Added GcamGO
+* Gphotos Backup is unlimited
+
