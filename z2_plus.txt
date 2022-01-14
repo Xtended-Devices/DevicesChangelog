@@ -1,10 +1,19 @@
 Bugs :
  - Encryption
- - Random Reboots
 
 Device Side Changelogs :
 
+Xtended XS-V2
+Build Date : 14/01/2022
+ * Update QCRIL configs and properties
+ * Enable qcrild and data services
+ * Update LPA interface version
+ * Re-enable Sound Trigger
+ * Upstreamed Kernel to 4.9.294
+ * Fixed some kernel wakelock issue
+
 Xtended XS-First-Blood
+Build Date : 14/12/2021
  * Initial Stable Build based on Dmitrii (@shutter-cat) trees
  * Compiled using TRB Clang 14, LTO, Polly
  * Se-Linux Status Enforcing
