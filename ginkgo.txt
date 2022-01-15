@@ -1,3 +1,24 @@
+XS v2 :-
+
+Changelog :
+
+* Initial XS official build
+* Merged January security patch
+* CTS passes by default
+* Fixed Portrait mode in Miui Camera
+* Fixed OTG detection
+
+Notes :
+
+* Flash latest R firmware
+* Both Vanilla and Gapps build is released
+* Flame/Bit-Gapps is recommended for Vanilla build
+
+Credits :
+
+* Thanks to @ghostrider_reborn for trees
+* Thanks to @bnexus for help and support
+----------------------------------------------------------------------------------------------------------------------------
 XR vX.r :-
 
 Changelog :
