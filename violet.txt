@@ -1,6 +1,11 @@
-Xtended 9.0 Xiaomi Redmi Note 7 Pro - Violet Changelogs
-August 08, 2021
+Xtended XS-v2 Xiaomi Redmi Note 7 Pro - Violet Changelogs
+Jan 16, 2022
 
 Device Changelog:
 
-* Initial official build
+* Initial XS official build
+* Merged January sp
+
+Credits:
+* Thanks to @Dev_Mashru for build support
+* Thanks to @@Joker_V2_0 for device trees
