@@ -1,2 +1,2 @@
-- Updated fp to Redfin August
-- Updated kernel to Ingenium v2.6
+XS V2:
+- Initial build
