@@ -1,0 +1,12 @@
+Xtended XS v2 - r5x Changelogs
+January 18, 2022
+
+Device changelog:
+
+ * Initial Official Release
+ * Added Kharame Dirac
+ * A few fixes for adjust brightness
+ * Use 4.14.129-KharaMe5Series by default
+ * Unlimited google photos storage
+ * Passes SafetyNet by default
+ * Signed build for OTA
