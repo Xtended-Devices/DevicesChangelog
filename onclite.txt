@@ -1,0 +1,12 @@
+Xtended XS-Tribute_to_VladimirS - onclite Changelogs
+February 19, 2022
+
+Device Changelog:
+
+*Initial Official Build
+*Enabled Android Go Optimization
+*Improved Scrolling Responsiveness
+*Added Nodes To Hide Magisk In Banking Apps
+*Increased Speaker And Mic Volume
+*Safetynet Passed By Default
+*Ship With GalleryGo
