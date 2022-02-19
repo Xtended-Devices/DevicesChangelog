@@ -1,8 +1,9 @@
-**Xtended XS - v2 - Device Changelog **
+** Xtended XS-Tribute_to_VladimirS - Device Changelog **
 
-- added GcamGo as default cam
-
-- CAF Kernel bumped to LA.UM.9.1.r1-11500-SMxxx0.0
+- Switch to Qti Bluetooth 
+- Switch to Vulkan Rendering
+- Adress some denials
+- CAF Kernel bumped to LA.UM.9.1.r1-11600-SMxxx0.0
 
 * More minor improvements under the hood 
 
