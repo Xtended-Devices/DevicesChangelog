@@ -1,8 +1,15 @@
 Xtended XS v2 - r5x Changelogs
+February 20, 2022
+ * Better notification support for telegram and similar messaging apps
+ * Google TTS force close fixed
+ * Use VulkanUI renderer
+ * Optimised WiFi
+ * 50% battery on boot fixed
+ * Fixed offline charging
+ * Inlined Devel Kernel
+ * Under the hood updates and tweaks for lesser CPU load, better BT etc
+ 
 January 18, 2022
-
-Device changelog:
-
  * Initial Official Release
  * Added Kharame Dirac
  * A few fixes for adjust brightness
