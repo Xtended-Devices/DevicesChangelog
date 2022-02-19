@@ -3,6 +3,16 @@ Build type: Monthly
 Device: OnePlus 5 (cheeseburger)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 19 February 2022 =====
+
+- Added DeviceSettings
+- Added slider toast
+- Fixed VoLTE for few carriers
+- Updated RIL/IMS
+- Updated GPS blobs
+- Updated media codec
+- Added Enable/disable HW keys
+
 ===== 14 January 2022 =====
 
 - Fixed Night light

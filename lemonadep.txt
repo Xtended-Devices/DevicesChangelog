@@ -3,6 +3,15 @@ Build type: Monthly
 Device: OnePlus 9PRO (lemonadep)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 19 February 2022 =====
+
+- Improved haptics
+- Enable QPower and Deep sleep at the same time
+- Added proper device name for MTP
+- Updated Multiple blobs
+- Added Alipay fingerprint payment support 
+- Fixed ring audio issue while calling
+
 ===== 14 January 2022 =====
 
 - Fixed USB OTG

@@ -3,6 +3,15 @@ Build type: Monthly
 Device: OnePlus 5t (dumpling)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 19 February 2022 =====
+
+- Added DeviceSettings
+- Added slider toast
+- Fixed VoLTE for few carriers
+- Updated RIL/IMS
+- Updated GPS blobs
+- Updated media codec
+
 ===== 14 January 2022 =====
 
 - Fixed Night light

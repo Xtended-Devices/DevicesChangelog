@@ -3,6 +3,15 @@ Build type: Monthly
 Device: OnePlus 7PRO (guacamole)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 19 Febuaury 2022 =====
+
+- Switch to QTI bt
+- Fixed WiFi display
+- Fixed PD charging
+- Improved haptics
+- Updated Nfc configs
+- Improved auto brightness
+
 ===== 14 January 2022 =====
 
 - Updated Gcam Go
