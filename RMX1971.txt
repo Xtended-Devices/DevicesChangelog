@@ -1,15 +1,14 @@
-Xtended XS v2 - RMX1971 Changelogs
-January 14, 2022
+Xtended XS-Tribute_to_VladimirS - RMX1971 Changelogs
+February 19, 2022
 
 Device Changelog:
 
-* January security patch 
-* Updated to Redfin January FP
+* Updated to Raven February FP
+* Switched to Nexus Kernel for better performance (4.9.302 v1) 
+* Switched to Vulkan UI renderer, so UI must be more smoother now
+* Fixed issue of Dialler not being set and resulting in no caller screen in vanilla build
+* Fixed Battery Section showing "Connected but not charging" even though charger not plugged in
+* Aosp dialler and messaging apps are default now instead of Google counterparts 
+* Merge latest CAF tag 'LA.UM.9.8.r1-04600-SDM710.0' 
 * Safetynet passes by default
-* Get unlimited Photos backup in any quality in Google photos 
-* Fixed lockscreen charging info showing power as 0 W
-* Updated WFD, Display, Graphics Blobs from RUI2
-* Uprev graphics hal to v2.3, Display hal to v2.0
-* Upstreamed kernal to 4.9.295
-* Merged latest CAF tag LA.UM.9.8.r1-04400-SDM710.0 into kernel
 
