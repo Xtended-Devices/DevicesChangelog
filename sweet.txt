@@ -1,7 +1,7 @@
-**Xtended XS v2 January Update Changelogs**
-* January secuirty patch
+**Xtended XS-Tribute_to_VladimirS **
+* Uodated to Raven Feb SP
 * Safetynet passes by default
-* Switched to VantomKernel
-* Added GcamGO
-* Gphotos Backup is unlimited
+* Fixed Some Denials
+* Fixed Some Bugs
+* Many More Miscellaneous Changes
 
