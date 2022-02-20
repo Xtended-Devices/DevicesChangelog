@@ -3,6 +3,14 @@ Bugs :
 
 Device Side Changelogs :
 
+Xtended XS-Tribute-To-VladimirS
+Build Date : 20/02/2022
+ * Remove Early/post boot scripts
+ * Enable Schedutil
+ * Enable lpms and bw_hwmon
+ * update Powerhint
+ * Disable Ambient Music Components
+
 Xtended XS-V2
 Build Date : 14/01/2022
  * Update QCRIL configs and properties
