@@ -1,39 +1,13 @@
-**Xtended XS-v2 January Update Changelogs**
-
-• Upstreamed kernel to 4.14.262
-• Added MiuiCamera 
-  https://telegra.ph/Points-to-noted-about-MiuiCamera-01-14
-• Switch to Azure clang 14.0.0
-• Adapt sepolicy to Android 12
-• Remove enable_advanced_sf_offset prop
-• Disable unspecialized app process pool
-• Attach vendor_property_type to properties
-• Specify vendor_fp_prop as vendor public prop
-• Allow ioctl to zram_swap for performance
-• Add aux camera packagelist prop to system props
-• Update the transcoding operating rate
-• Set SSR restart_level in init.qcom.rc
-• Label more wakeup nodes
-• Label idle_state sysfs nodes
-• Made transition animation a bit faster
-• Limit screen recorder frame rate to 60fps
-• Adjusting screen timeouts
-• Dont inherit updatable_apex.mk
-• Disable partial FB excl rect 
-• Disable global mode and CDMA choices
-• Show 4G icon for all carriers
-• Only make recovery permissive on non production builds
-• Remove TxPower2g and 5g from wifi config file
-• Disable all wifi related logging
-• Fix OTA auto-flashing with encrypted f2fs
-• Set media vol steps to 25
-• Kill IMS logspam with fire
-• Update config_safe_media_volume_index
-• Slightly increase the minimum brightness level
-• Use FUSE passthrough by default
-• Update vendor security patch level
-• Switched back to OpenGL as default GPU renderer
-• Import and build GPS stack from LA.UM.9.1.r1-11500-SMxxx0.0
-• Increase gps batch size to max
-• Lower gps debug level
-• Localise NTP to improve GPS TTFF
+• Upstreamed kernel to 4.14.267
+• Removed MiuiCamera (as it's not ready yet)
+• Switch to AOSP Clang 14.0.1
+• Switch back to prebuilt GPS stack (Fixes GPS issues)
+• Build new AIDL power hal
+• Add custom boost extension for scroll handling
+• Add custom mode extension for handling app launch
+• Bump max interactive duration to 5s
+• Update IMS libs from alioth 12
+• Scan input devices for eligible DT2W node
+• Override AIDL Power HAL service
+• Turn on GPU protected composition (Fixes Black PiP window in Netflix)
+• Uprev Perf hal entry in manifest to 2.2
