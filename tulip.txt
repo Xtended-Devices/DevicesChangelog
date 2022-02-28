@@ -1,0 +1,10 @@
+Device Side Changelogs :
+
+Xtended XS-Tribute-To-VladimirS - tulip
+
+===== 28 February 2022 =====
+-  Initial A12 Build 
+- Selinux Enforce
+- Add Call Recording
+- Fix Volte Icon Issue
+- Switch To Raven Feb FP
