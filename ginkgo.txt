@@ -1,3 +1,26 @@
+XS-Tribute-To-VladimirS :-
+
+Changelog :
+* Merged February security patch
+* Fixed NFC on willow
+* Fixed Screen Recorder
+* Disabled Vulkan for better GCam Compatibility
+* Fixed stuck on recovery splash for some users
+* Switched to pie chromatix libs for better Cam quality
+* Upstreamed kernel to v4.14.268
+
+Notes :
+
+* Flash latest R firmware
+* Both Vanilla and Gapps build is released
+* Flame/Bit-Gapps is recommended for Vanilla build
+
+Credits :
+
+* Thanks to @ghostrider_reborn for trees
+* Aryaman for pie chromatix libs
+* Thanks to @SergioQAnon for testing
+----------------------------------------------------------------------------------------------------------------------------
 XS v2 :-
 
 Changelog :
