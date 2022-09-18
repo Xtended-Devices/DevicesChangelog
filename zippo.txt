@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Lenovo Z6 Pro (zippo)
+Device maintainer: Einar Gednochsson (kanstmablason)
+
+===== 18 September 2022 =====
+
+- Initial A13 build
+- Kernel completely reworked, upstreamed to 4.14.293 + LA.UM.9.1.r1-12300-SMxxx0.0
