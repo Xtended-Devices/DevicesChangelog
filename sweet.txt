@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 Pro/Pro Max (Sweet)
+Device maintainer: Basharat (@Ba_Sh_ArAT)
+
+===== 18 September 2022 =====
+
+- Initial A13 build
