@@ -1,0 +1,19 @@
+Highlights & Device Specific Changes
+Build type : Monthly
+Device : Lenovo Zuk Z2 Plus (z2_plus)
+Device maintainer : Pranav Temkar (@PptOo7)
+
+===== 20 September 2022 =====
+
+XT-v1-FirstBlood
+
+ - Initial build
+ - Kernel 4.9.312 - Alchemy
+ - All credits to @shutter-cat for trees
+ - Thanks to Romm46, rrin99, Axwell84 (Telegram id) for testing
+
+Bugs :
+ - Gps
+ - Se-Linux status permissive
+
+==============================
