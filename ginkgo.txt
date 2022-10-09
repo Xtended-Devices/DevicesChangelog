@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
 Device maintainer: TheWeaver786 (@TheWeaver786)
 
-===== 18 September 2022 =====
+===== XT-v2- 09 October 2022 =====
+- October security patch
+- Added back Xiaomi Parts
+- Added back MiCamera
+- Fixed portrait mode in MiCamera
+- Switched to AOSP NFC implementation (not tested)
+
+===== XT-First-Blood- 18 September 2022 =====
 
 - Initial A13 build
