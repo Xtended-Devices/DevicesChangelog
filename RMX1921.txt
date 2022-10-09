@@ -1,0 +1,11 @@
+====================================
+Highlights & Device Specific Changes
+====================================
+
+Build type: Monthly
+Device: Realme XT (RMX1921)
+Device maintainer: thatisJigen (@jigen_was_here)
+
+===== XT-v2- 09 October 2022 =====
+* First Official release
+* Upstreamed kernel to latest ASB
