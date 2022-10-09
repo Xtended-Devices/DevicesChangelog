@@ -3,6 +3,12 @@ Build type: Monthly
 Device: Lenovo Z6 Pro (zippo)
 Device maintainer: Einar Gednochsson (kanstmablason)
 
+===== 09 October 2022 =====
+
+- October Security Patch
+- Kernel upstreamed to 4.14.195 + LA.UM.9.1.r1-12600-SMxxx0.0
+- minor fixes & improvements
+
 ===== 18 September 2022 =====
 
 - Initial A13 build
