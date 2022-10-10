@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme GT Neo 2 (bitra)
+Device maintainer: Andrea Canale (andreock)
+
+===== XT-v2- 09 October 2022 =====
+- October security patch
+- Adjust brightness slider to match stock
+- Reserve some space to vendor and system to install Gapps or mods
+- Device trees updated
+- Fix UDFPS icon extras
+- Use Dragon 3 by default kernel
+
+===== XT-First-Blood- 1 October 2022 =====
+
+- Initial A13 build
+- Gpu driver updated to sm8xxx_v@615.37_v@614v2_SQE
+- Add initial release of RealmeParts
+- Add oplus gesture settings
+- Add Oplus photo gallery
