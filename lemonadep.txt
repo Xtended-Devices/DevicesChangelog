@@ -3,6 +3,13 @@ Build type: Monthly
 Device: OnePlus 9PRO (lemonadep)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 09 October 2022 =====
+
+- Rebased on Latest lineage device sources
+- Added Screen resolution
+- Drop auto HBM (Livedisplay does same)
+- Switched to AOSP color modes
+
 ===== 18 September 2022 =====
 
 - Initial A13 build

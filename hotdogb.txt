@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 9PRO (lemonadep)
+Device maintainer: SuperDroidBond
+
+===== 09 October 2022 =====
+
+- Initial A13 build
+- Default ICE kernel 
