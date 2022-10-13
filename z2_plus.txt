@@ -3,6 +3,18 @@ Build type : Monthly
 Device : Lenovo Zuk Z2 Plus (z2_plus)
 Device maintainer : Pranav Temkar (@PptOo7)
 
+====== 13 October 2022 ======
+
+Xtended-XT-v2
+
+ - Fixed fingerprint sensor page agree button was not clickable
+ - Kernel upstreamed to 4.9.330
+ - Silenced many Kernel log spams
+ - Update gps blobs from LA.UM.9.6.2.r1-04100-89xx.0
+ - Fixed bluetooth audio playback
+
+==============================
+
 ===== 20 September 2022 =====
 
 XT-v1-FirstBlood
@@ -12,8 +24,9 @@ XT-v1-FirstBlood
  - All credits to @shutter-cat for trees
  - Thanks to Romm46, rrin99, Axwell84 (Telegram id) for testing
 
+==============================
+
 Bugs :
- - Gps
- - Se-Linux status permissive
+ - Se-Linux status : Permissive
 
 ==============================
