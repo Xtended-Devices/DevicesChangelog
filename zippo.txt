@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Lenovo Z6 Pro (zippo)
 Device maintainer: Einar Gednochsson (kanstmablason)
 
+===== XT-v3 - 12 November 2022 =====
+
+- November Security Patch
+- Kernel upstreamed to 4.14.299 + LA.UM.9.1.r1-12800-SMxxx0.0
+- Aperture added aux cams successfully 
+- many fixes and New Bugs added :-X
+
 ===== 09 October 2022 =====
 
 - October Security Patch
