@@ -1,7 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: OnePlus 9PRO (lemonadep)
+Device: OnePlus 7tPRO (hotdog)
 Device maintainer: Mukesh Singh (mukesh22584)
+
+===== 11 November 2022 =====
+
+- Rebased device & kernel sources
+- Fixed LS charging info
+- Minimal OnePlus Settings
+- Added mute media option to OnePlus Settings 
+- Gapps included 
 
 ===== 09 October 2022 =====
 

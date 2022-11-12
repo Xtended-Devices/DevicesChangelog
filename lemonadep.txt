@@ -3,6 +3,15 @@ Build type: Monthly
 Device: OnePlus 9PRO (lemonadep)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 11 November 2022 =====
+
+- Fixed LS charging info
+- Fixed glitch on resolution change
+- Fixed FOD animation on 1080p
+- Minimal OnePlus Settings
+- Added mute media option to OnePlus Settings 
+- Gapps included 
+
 ===== 09 October 2022 =====
 
 - Rebased on Latest lineage device sources
