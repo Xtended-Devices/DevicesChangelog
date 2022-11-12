@@ -6,6 +6,30 @@ Build type: Monthly
 Device: Realme 5 Pro (RMX1971)
 Device maintainer: KSSRAO (@kssrao13882)
 
+===== XT-v3 - 12 November 2022 =====
+⚠️Clean flash is Highly Recommended⚠️
+* Fixed issue with in-call volume not changing
+* Fixed issue with Google Photos Unlimited storage
+* Fixed issue with notification icons not showing (only dot was showing up in status bar instead of icons)
+* Replaced Google Dialer, Messages and contacts apps with AOSP Dialer, Messages and contacts apps
+* Added feature to hide system apps in app lock
+* Added feature to show app Memory usage detail in app info 
+* Nuked deprecated legacy ril codes
+* Optimized for kryo385
+* Tuned bmps listening interval to achieve power savings during wifi idle
+* Extended buffer size for offload playback to reduce cpu wake up
+* Used QCOM implementation for audio effects
+* Optimized the shutdown time 
+* Dropped deprecated vp8-vp9 media codecs
+* Reduced number of CPUs for system-background apps to reduce cpu workload 
+* Enabled UXE for performance improvement 
+* Disabled TDLS offchannel in wifi
+* Nuked test apps installation 
+* Switched to AVC 3.1 for screen recording
+* Upstreamed Kharame kernel to latest 4.9.333
+* Switched to Proton clang from aosp clang
+* Miscellaneous other changes to make rom smoother and better
+
 ===== XT-v2- 09 October 2022 =====
 * Official release
 * Switched to User Build from User Debug
