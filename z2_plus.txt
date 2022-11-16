@@ -3,6 +3,15 @@ Build type : Monthly
 Device : Lenovo Zuk Z2 Plus (z2_plus)
 Device maintainer : Pranav Temkar (@PptOo7)
 
+====== 16 November 2022 ======
+
+Xtended-XT-v3
+
+ - Switched back from qcrild to rild
+ - Silenced ims & ril log spams
+
+==============================
+
 ====== 13 October 2022 ======
 
 Xtended-XT-v2
