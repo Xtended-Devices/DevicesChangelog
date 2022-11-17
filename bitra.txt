@@ -3,7 +3,15 @@ Build type: Monthly
 Device: Realme GT Neo 2 (bitra)
 Device maintainer: Andrea Canale (andreock)
 
+===== XT-v3- 14 November 2022 =====
+
+- November security patch
+- Add superdart charging label
+- Fix screen off FOD
+- Update driver to Adreno v655
+
 ===== XT-v2- 09 October 2022 =====
+
 - October security patch
 - Adjust brightness slider to match stock
 - Reserve some space to vendor and system to install Gapps or mods
