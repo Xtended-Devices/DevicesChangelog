@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
+Device maintainer: COSMIC (@cos0i)
+
+===== 11 December 2022 =====
+
+- Initial A13 build
