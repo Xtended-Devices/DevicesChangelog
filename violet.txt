@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 7 Pro (violet)
+Device maintainer: abhi (@abhix202)
+
+===== XT-v3.5 - 11 December 2022 =====
+
+- Initial A13 build
