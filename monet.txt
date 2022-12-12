@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Mi 10 Lite 5G (monet)
+Device maintainer: Alec Chan (@alecchangod)
+
+===== 11 December 2022 =====
+
+- Initial Official A13 build
+- Enabled westwood TCP and set as default
