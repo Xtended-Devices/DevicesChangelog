@@ -1,7 +1,19 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 10 Pro/Pro Max (Sweet)
-Device maintainer: Basharat (@Ba_Sh_ArAT)
+Device maintainer: Suresh S (@Black_Serpent)
+
+===== 14 November 2022 =====
+
+- Imported Apn configs
+- Default Miui camera
+- Used OnePlus dolby
+- Rebased device Specific Settings
+- Added Per App refresh rate
+- Added Some thermal profiles
+- Changed to Azure Clang
+- Fixed YouTube UI Lag When Video Viewed in 1080P
+- Gapps Build
 
 ===== 18 September 2022 =====
 
