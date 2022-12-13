@@ -1,0 +1,18 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: POCOF3 (aioth)
+Device maintainer:OFFENDER (lazyafk)
+
+===== XT-v3.5- 13 December 2022 =====
+Swtiched to N0 kernel
+Tune statusbar start and end paddings 
+Enable blur props
+Switch to Vulkan UI renderer
+Enable AutoHBM service on BootCompleted
+Dolby Config: Update bass enhancer value for speaker in landscape
+Dolby Config: Update bass enhancer value for speaker in landscape
+Dolby:dax-default: update bass-enhancer-boost value 
+Audio Volumes: Update volumes from Google Pixel 7 Pro
+Inherit several Android Go configurations
+Add touch improvements sysprops 
+Props: For smoother scrolling and better responsiveness
