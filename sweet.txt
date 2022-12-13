@@ -3,7 +3,7 @@ Build type: Monthly
 Device: Redmi Note 10 Pro/Pro Max (Sweet)
 Device maintainer: Suresh S (@Black_Serpent)
 
-===== 14 November 2022 =====
+===== XT-v3.5- 14 December 2022 =====
 
 - Imported Apn configs
 - Default Miui camera
@@ -14,6 +14,7 @@ Device maintainer: Suresh S (@Black_Serpent)
 - Changed to Azure Clang
 - Fixed YouTube UI Lag When Video Viewed in 1080P
 - Gapps Build
+- Default kernel is sleepy
 
 ===== 18 September 2022 =====
 
