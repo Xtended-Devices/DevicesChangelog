@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 7/7s (Lavender)
+Device maintainer: Ahmed Hridoy (@Apex_Not_Legend)
+
+===== XT-v3.5- 18 December 2022 =====
+
+- Initial A13 build
