@@ -1,7 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
-Device maintainer: TheWeaver786 (@TheWeaver786)
+Device maintainer: Tejas (@baconpeedit) (t.me/I_Am_Charsi)
+
+===== XT-v3.5- 21 December 2022 =====
+- November security patch
+- Nuked MiCam
+- Fixed NFC For Willow Completely
+- Used pie chromatix libs for better camera quality
+- Increase In-call earpiece volume
+- Fix low mic volume on voip
 
 ===== XT-v2- 09 October 2022 =====
 - October security patch
