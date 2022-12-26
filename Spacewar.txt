@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Nothing Phone 1 (Spacewar)
+Device maintainer: Mukesh Singh (mukesh22584)
+
+===== 26 December 2022 =====
+
+- Fixed video recording
+- Disable blur on app launch
+- Disable skia tracing by default
+- Updated camera blobs
+- Updated carrier config from 1.1.7
+- Updated audio policy configuration
+- Enable the pre-rendering feature
+- Enabled wiregaurd
+- Updated kernel
+
+===== 18 December 2022 =====
+
+Initial A13 build
