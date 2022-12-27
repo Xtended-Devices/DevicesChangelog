@@ -3,6 +3,17 @@ Build type : Monthly
 Device : Lenovo Zuk Z2 Plus (z2_plus)
 Device maintainer : Pranav Temkar (@PptOo7)
 
+====== 27 December 2022 ======
+
+Xtended-XT-v3.5
+
+ - Initial enforcing build
+ - Downgrade time blobs to daisy-QKQ1.191002.002V11.0.2.0.QDLMIXM
+ - Switch Bt Audio to AIDL
+ - Kernel upstreamed to 4.9.33
+
+==============================
+
 ====== 16 November 2022 ======
 
 Xtended-XT-v3
@@ -32,10 +43,5 @@ XT-v1-FirstBlood
  - Kernel 4.9.312 - Alchemy
  - All credits to @shutter-cat for trees
  - Thanks to Romm46, rrin99, Axwell84 (Telegram id) for testing
-
-==============================
-
-Bugs :
- - Se-Linux status : Permissive
 
 ==============================
