@@ -1,7 +1,19 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
-Device maintainer: Tejas (@baconpeedit) (t.me/I_Am_Charsi)
+Device maintainer: Tejas (github.com/baconpeedit) (t.me/I_Am_Charsi)
+
+===== XT-v3.5 (Hotfix)- 29 December 2022 =====
+- Hotfix Build
+- Fixed dt2w for everyone
+- Fixed fingerprint missing for some users
+- Addd Back MiCam with portrait and 48mp fixed
+- Fixed Fast Charging On China Variant
+- Fixed lags after boot on launcher app drawer
+- Fixed aggressive animations
+- Improved battery backup and touch sensitivity a lot
+- Dropped More useless gapps
+- Improve build smoothness and misc. changes
 
 ===== XT-v3.5- 21 December 2022 =====
 - November security patch
