@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Mi 9T Pro
+Device maintainer: @pawelik001
+
+===== 01 January 2023 =====
+
+- Let's name this as initial A13 build
+- Improvements to trees
+- fix for flickering screen
+- switched to bool-x kernel
