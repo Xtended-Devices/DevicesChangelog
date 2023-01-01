@@ -1,7 +1,7 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi POCO M3 / Redmi Note 9 4G / Redmi Note 9 Power / Redmi 9T / Redmi 9T NFC
-Device maintainer: COSMIC (@cos0i)
+Device maintainer: @pawelik001
 
 ===== 01 January 2023 =====
 
