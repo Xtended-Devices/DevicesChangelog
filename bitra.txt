@@ -3,6 +3,19 @@ Build type: Monthly
 Device: Realme GT Neo 2 (bitra)
 Device maintainer: Andrea Canale (andreock)
 
+===== XT-v4 - 9 January 2023 =====
+
+- Update Audio configs to F.02
+- Update configs to F.02
+- Update blobs to F.02
+- Improve camera
+- Introduce fixed Oplus vibration(thanks https://github.com/Blackmanx)
+- Improve haptics 
+- Improve Fingerprint
+- Improve GNSS
+- Update codecs
+- Introduce Realme Audio Effects
+
 ===== XT-v3.5- 12 December 2022 =====
 
 - Update adreno driver to v667 and spoof card as Adreno v730
