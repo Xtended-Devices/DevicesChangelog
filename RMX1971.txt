@@ -6,6 +6,15 @@ Build type: Monthly
 Device: Realme 5 Pro (RMX1971)
 Device maintainer: KSSRAO (@kssrao13882)
 
+===== XT-V4.0 - 29 January 2023 =====
+* Based on January Security Patch
+* Fixed video playback tinting, stuck issues in apps like Instagram
+* Fixed tinting issues when switching between portrait and landscape modes during video playback in apps like YouTube
+* Fixed boot animation lags/freezes
+* Fixed triple frame buffer regression
+* Upstreamed Kharame Kernel to latest 4.9.337
+* Miscellaneous other changes to make rom smoother and better
+
 ===== XT-V3.5 - 11 December 2022 =====
 * Added feature to include sliders for vibration instead of just on/off toggle
 * Nuked the following Google apps: Calendar, Drive, Gmail and Photos
