@@ -3,7 +3,12 @@ Build type: Monthly
 Device: Mi 10 Lite 5G (monet)
 Device maintainer: Alec Chan (@alecchangod)
 
-===== 11 December 2022 =====
+===== XT-4.0 - 29 January 2023 =====
+- Import OnePlus Dolby
+- Added aux camera for Aperture
+- Kernel upstreamed to 4.19.269
+
+===== XT-3.5 - 11 December 2022 =====
 
 - Initial Official A13 build
 - Enabled westwood TCP and set as default
