@@ -7,6 +7,7 @@ Device maintainer: Alec Chan (@alecchangod)
 - Import OnePlus Dolby
 - Added aux camera for Aperture
 - Kernel upstreamed to 4.19.269
+- Updated build fingerprint to Jan release
 
 ===== XT-3.5 - 11 December 2022 =====
 
