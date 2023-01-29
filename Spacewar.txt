@@ -3,6 +3,16 @@ Build type: Monthly
 Device: Nothing Phone 1 (Spacewar)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 29 January 2023 =====
+
+- Updated blobs to NothingOS 1.1.7
+- Fixed Portrait mode
+- Added Paranoid glyph
+- Improved auto brightness
+- Improved haptics 
+- Kernel upstream to 5.4.230
+- Removed High touch polling rate
+
 ===== 26 December 2022 =====
 
 - Fixed video recording

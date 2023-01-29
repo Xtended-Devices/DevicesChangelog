@@ -3,6 +3,12 @@ Build type: Monthly
 Device: OnePlus 7tPRO (hotdog)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 29 January 2023 =====
+
+- Updated blobs to OOS 11.H.32
+- Kernel upstream to 4.14.304
+- Improved screen on charging 
+
 ===== 11 November 2022 =====
 
 - Rebased device & kernel sources

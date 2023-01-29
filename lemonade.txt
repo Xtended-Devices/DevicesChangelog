@@ -1,6 +1,6 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: OnePlus 9PRO (lemonadep)
+Device: OnePlus 9 (lemonade)
 Device maintainer: Mukesh Singh (mukesh22584)
 
 ===== 29 January 2023 =====
@@ -9,7 +9,7 @@ Device maintainer: Mukesh Singh (mukesh22584)
 - Updated blobs to OOS 11.F.18 
 - Kernel upstream to 5.4.230
 - Removed High touch polling rate
-- Removed White balance configs
+- Removed White balance configs 
 - Added OnePlus dolby
 
 ===== 11 November 2022 =====
@@ -19,21 +19,4 @@ Device maintainer: Mukesh Singh (mukesh22584)
 - Fixed FOD animation on 1080p
 - Minimal OnePlus Settings
 - Added mute media option to OnePlus Settings 
-- Gapps included 
-
-===== 09 October 2022 =====
-
-- Rebased on Latest lineage device sources
-- Added Screen resolution
-- Drop auto HBM (Livedisplay does same)
-- Switched to AOSP color modes
-
-===== 18 September 2022 =====
-
-- Initial A13 build
-- Added OOS cam 
-- Alert slider customization
-- Automatic high brightness mode
-- Vibration strength
-- Off screen gesture
-- Pick to wake/pulse
+- Gapps included
