@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
 Device maintainer: COSMIC (@cos0i)
 
+===== 29 January 2023 =====
+
+- Added QR scanner shortcut in lock screen
+- Enabled LZ4 compression for ramdisks
+- Improved Fingerprint 
+- Misc small improvements and bug fixes
+
 ===== 11 December 2022 =====
 
 - Initial A13 build
