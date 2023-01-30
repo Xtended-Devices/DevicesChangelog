@@ -3,6 +3,14 @@ Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
 Device maintainer: Tejas (github.com/baconpeedit) (t.me/I_Am_Charsi)
 
+===== XT-v4.0 30 January 2023 =====
+* Update adreno stack to WAIPIO 16000
+* Update from LA.QSSI.13.0.r1-06400-qssi.0
+* Tune perf xml based on measured fps
+* Finetune statusbar padding 
+* Enable Forced USB Fastcharge
+* Merge XiaomiDoze into XiaomiParts
+
 ===== XT-v3.5 (Hotfix)- 29 December 2022 =====
 - Hotfix Build
 - Fixed dt2w for everyone
