@@ -1,0 +1,235 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Mi A2 Lite (daisy)
+Device maintainer: @TogoFire
+
+===== XT-v4.0 - 30 January 2023 =====
+
+• Kernel Panda 4.9.337
+• Fix video lag youtube (1080p 60fps), instagram, facebook, fixed in kernel and source rom.
+• Clang Playground 16
+• CAF FM - all ok
+• Fingerprint Ok.
+• daisy: drop libmmcamera_ppeiscore unused blob (vendor.qti.hardware.camera.device@1.0.so: built from source)
+• daisy: sepolicy: address denials
+• daisy: rootdir: fix the zram init process 
+• daisy: overlay: Restore pre a13 battery warning threshold
+• daisy: store TaskSnapshot in 16 bit pixel format to save memory
+• daisy: BoardConfig: Drop graphics layer memory buffer
+• daisy: Drop custom display flags 
+• daisy: sepolicy: Dontaudit untrusted_app to open ashmem_device 
+• daisy: Drop QTI camera device usage
+• daisy: Silence ThermalEngine logspam 
+• daisy: Silence RefreshRateConfigs logspams
+• daisy: Suppress several logspam
+• daisy: Drop libhidl & build vendor variant (to build cam and fix fingerprint)
+• daisy: Switch Audio HAL V6 to V5
+• daisy: Remove hw_acc effect
+• daisy: sha1sum libasphere (Add libasphere.so)
+• daisy: properties: Switch to AutoSingleLayer Android 13 Setting
+• daisy: Remove USE_XML_AUDIO_POLICY_CONF
+• daisy: overlay: Update power profile for P
+• daisy: overlay: Fix up CPU power profile
+• daisy: overlay: Update power profile to match framework change
+• daisy: overlay: Drop cpu.core_power.cluster0
+• daisy: overlay: Configure aux camera for Aperture
+• daisy: Migrate vendor.camera.aux.packageblacklist to overlay
+• daisy: Migrate vendor.camera.aux.packagelist to overlay
+• daisy: properties: Kill IMS logspam with fire
+• daisy: rootdir: Disabled some scheduling knobs 
+• daisy: Don't disable sparse userimages
+• daisy: rootdir: Drop Android LMK and lmkd.reinit config
+• daisy: Include OMX_QCOMExtns.h
+• daisy: rootdir: Allow everyone to use /dev/radio0 
+• daisy: Drop BOARD_HAVE_QCOM_FM flag
+• daisy: overlay: Enable Wifi Calling & VoLTE for Nepal Telecom
+• daisy: camera: Cleanup camera HAL 
+• daisy: QCamera2:mm-camera-channel:Added check for max value of cur_capture_idx
+• daisy: QCamera2: The picture show overexpose 
+• daisy: QCamera2: Enable antibanding to fix the flickers issue
+• daisy: QCamera2: HAL3: Update ZSL and 4K video check
+• daisy: QCamera2:HAL1: Assigning NULL to deleted pointer
+• daisy: QCamera2: HAL3: Invalidate cache based on gralloc flag
+• daisy: Qcamer2: Fix for corrupted last couple of frames
+• daisy: QCamera2: HAL: Fix memory corruption issue
+• daisy: QCamera2: HAL3: Fix crash in hdrPlusPerfLock()
+• daisy: QCamera2: Fix crash in releaseOngoingPPData
+• daisy: QCamera2: stoppreview correctly when early preview restart enabled
+• daisy: QCamera2: Fix for incorrect min frame duration
+• daisy: QCamera2: HAL: Fix padding issue in livesnapshot - 480p_HFR60 & restart device in 1080P_HFR60
+• daisy: camera: Set KEY_XM_MAKEUP when change in value is detected
+• daisy: camera: Support Xiaomi makeup parameters 
+• daisy: camera: Always set bDualCamera as 0
+• daisy: camera: no -Werror 
+• daisy: camera: Saner workaround for dark preview issue
+• daisy: camera: Improve ZSL/HDR processing
+• daisy: camera: QCamera2: HAL3: Fix fdleak issue
+• daisy: props: Remove unwanted graphics props
+• daisy: rootdir: Remove cpusets setup 
+• daisy: Use legacy IPA implementation by identifying as UM 3.18 platform
+• daisy: Drop overlay-lineage
+• daisy: overlay: Remove Snap
+• daisy: use LLVM binutils
+• daisy: Enable EGL buffer_age extension support 
+• daisy: QCamera2: mm-jpeg-interface: exif: supply full AE data in exif
+• daisy: wlan: Relax WiFi re-association RSSI thresholds
+• daisy: Make shim for libc++ 
+• daisy: Add ro.hw_timeout_multiplier
+• daisy: sepolicy: Label qcom extcon sysfs 
+• daisy: prop: Enabled 1080p on YouTube
+• daisy: removed some prop (We Think can Improved Performance and smoothest but reality is not for msm8953 devices)
+• daisy: configs: permissions: Add missing permissions for Launcher3 & Systemui
+• daisy: configs: priv-app_permisssion: add com.android.vending
+• daisy: Disable client composition cache
+• daisy: overlay: Allow more cached apps in the background 
+• daisy: overlay: Compact cached app heaps in the background 
+• daisy: prop: audio: extend buffer size to 256kb for offload playback
+• daisy: overlay: Add system app whitelist for applock
+• daisy: Enable world phone bool 
+• daisy: sepolicy: address qr code denial
+• daisy: Remove no-op/dead targets
+• daisy: Drop custom APM flag
+• daisy: camera: Drop HALv1 once and for all
+• daisy: Disable the usage of ConfigStore
+• daisy: Enable qcrild, dataqti by default
+• daisy: parts: Replace com.android.settingslib.collapsingtoolbar.R with com.android.settingslib.widget.R
+• daisy: Drop component overrides
+• daisy: Remove AUDIO_FEATURE_ENABLED_PROXY_DEVICE 
+• daisy: properties: Disable blur on app launch
+• daisy: Disable Skia tracing by default
+• daisy: perf: Enable the pre-rendering feature
+• daisy: overlay: Specify ambient color temperature sensor
+• daisy: Disable AUDIO_FEATURE_ENABLED_KPI_OPTIMIZE
+• daisy: configs: perf: Add performance hint definition for excessive rendering
+• daisy: configs: perf: Improve launch hint handling
+• daisy: configs: perf: Update perfboostsconfig.xml to use msm8953 target
+• daisy configs: perf: Add supported perf kernel switches for msm8953
+• daisy: configs: perf: Set SCHEDUTIL to match kernel 4.9 setting
+• daisy: camera: QCamera2: Update jpeg exif flash mode data properly
+• daisy: camera: QCamera2: HAL3: Fix CTS issue
+• daisy: camera: QCamera2: EXIF tag cleanup
+• daisy: camera: Report the correct QCamera3Stream size
+• daisy: overlay: Move Bluetooth power config away from overlay
+• daisy: overlay: Disable wallpaper scrolling
+• daisy: rootdir: Force Enable DT2W
+• daisy: sepolicy: Label /sys/touchpanel/ DT2W node
+• daisy: libstagefright: Build also foundation
+• daisy: sepolicy: Allow touch hal access to proc_touchpanel
+• daisy: Make shim for cameraservice
+• daisy: rootdir: Don't touch allocstall_threshold
+• daisy: rootdir: drop swappiness (This is defined in the kernel. We don't need it)
+• daisy: wifi: Increase max bss count 
+• daisy: Replace BTM_DEF_LOCAL_NAME with a sysprop 
+• daisy: Move Bluetooth power overlays to sysprops
+• daisy: Wifi: enable P2P MAC randomization
+• daisy: Enable connected MAC randomization
+• daisy: overlay: Remove bnep\\d from tetherable BT interfaces
+• daisy: overlay: enable WCG mode 
+• daisy: overlay: Enable support for Bluetooth hearing aid 
+• daisy: overlay: Add available Color Modes
+• daisy: overlay: Enable video pause workaround for video calling
+• daisy: overlay: Add night display color temperature calibration from Coral
+• daisy: Do not show mobile plan preference item 
+• daisy: Add support for Google Dialer Call recording
+• daisy: overlay: Update multiple vibration intensity levels config for T 
+• daisy: overlay: frameworks: Move onDrawn callback earlier
+• daisy: overlay: Fix CNE indicator exemption role 
+• daisy: thermal-config: fix pid sensors
+• daisy: Make shim for android.hardware.usb.gadget@1.0.so 
+• daisy: Make shim for libcodec2_hidl@1.0.so
+• daisy: Make shim for android.hardware.drm@1.4.so
+• daisy: Make shim for vendor.qti.hardware.fm@1.0.so
+• daisy: Make shim for libwvhidl.so 
+• daisy: dont build QTI power hal
+• daisy: manifest: set vintf to IGnss 2.1
+• daisy: Make shim for vendor.qti.hardware.data.latency@1.0.so 
+• daisy: Make shim for android.system.net.netd@1.1.so
+• daisy: Make shim for libcameraservice.so
+• daisy: build libqdMetaData from source
+• daisy: Remove vendor RenderScript implementation
+• daisy: overlay: Add multi user support 
+• daisy: up vendor.qti.data.factory to 2.3 from fp3 
+• daisy: rootdir: Remove legacy vendor.ril-daemon rules
+• daisy: disable HD Logo
+• daisy: overlay: enable apn menu for cdma carriers 
+• daisy: CarrierConfig: Set support_enhanced_call_blocking_bool to true
+• daisy: Build libjson.so from source
+• daisy: Use libhidlbase from vndk v32 for vendor/lib64/vendor.silead.hardware.fingerprintext@1.0.so (to fix fingerprint)
+• daisy: Give proper permissions for /dev/diag
+• daisy: Update radio interface for vendor.qti.hardware.radio.qtiradio 
+• daisy: init.qcom.rc: create /data/vendor/tzstorage
+• daisy: Build more PowerHAL
+• daisy: Build android.hardware.power-service-qti
+• daisy: Drop switch to File-Based Encryption (for now)
+• daisy: overlay: Update CarrierConfig from LA.QSSI.13.0.r1-05500-qssi.0 
+• daisy: set clang playground
+• daisy: uevent.qcom.rc: Sync up with LA.UM.10.6.2.r1-01900-89xx.0 
+• daisy: Update aptX from coral
+• daisy: Update Display stack from LA.UM.10.6.2.r1-01600-89xx.0 
+• daisy: rootdir: Restart QCRILD on airplane mode
+• daisy: dsds: restart qcrild on data switch 
+• daisy: rootdir: Set hvdcp_opti service as disabled 
+• daisy: sepolicy: Label some RIL property 
+• daisy: set default wifi country code to '00'
+• daisy: rootdir: Drop printk setup based on build type
+• daisy: rootdir: Set permissions for smartcharging sysfs 
+• daisy: Move perf configs to device tree
+• daisy: init: Mount debugfs
+• daisy: Update Processor Model flag as per Source
+• daisy: parts: drop hal switcher 
+• daisy: fixup! Don't advertise vorbis offloading support 
+• daisy: overlay: Switch to AVC 3.1 for screen recording
+• daisy: Add missing android.hardware.media.omx 
+• daisy: disable QC location support by default 
+• daisy: remove deprecated liboverlay target
+• daisy: Remove obsolete debug option
+• daisy: camera: Fix cleanstep file name
+• daisy: camera: Fix header paths from HALs 
+• daisy: overlay: Set fingerprint location 
+• daisy: sepolicy: label /bt_firmware 
+• daisy: overlay: Offload WM shell to another thread
+• daisy: Use the ?= operator so BT properties can be overridden
+• daisy: Enable Audio Support for Hearing Aids central support
+• daisy: Disable LE audio related profiles 
+• daisy: Update LE Audio profile properties to match spec and implementation
+• daisy: Enable bluetooth profiles with system_ext.prop
+• daisy: Align ASHA prop with BluetoothProperties
+• daisy: Added new vendors for Bluetooth config migration
+• daisy: Set default the Bluetooth class of device
+• daisy: Add a system property for System UI compiler filter
+• daisy: Switch BtAudio to AIDL 
+• daisy: Unpin updatable-media from memory
+• daisy: overlay: Update deprecated screen power items
+• daisy: QCamera2: fix excess elements
+• daisy: Manifest: Use passthrough for A2DP
+• Revert "daisy: Add QTI health implementation"
+• daisy: Drop audio.a2dp.default
+• daisy: rootdir: Update fstab to LA.UM.7.6.c25-01700-89xx.0
+• daisy: overlay: fixup! Enable Smart Charging
+• daisy: overlay: Adjust overlays for recently added light capability
+• daisy: camera: Fix compilation errors
+• daisy: overlay: Adjust landscape status bar padding
+• daisy: overlay: Adapt for A12L QPR3 statusbar height API 
+• daisy: Turn ON LED by default while charging
+• daisy: Update GPS from LA.UM.9.6.3.r1-06200-89xx.0
+• daisy: update remove some packages in runtime 
+• daisy: Remove obsolete eBPF property
+• daisy: rootdir: Remove IO read_ahead_kb tune 
+• daisy: rootdir: Add offline charging LED indicator
+• daisy: Update GPS blobs from LA.UM.9.6.2.r1-04200-89xx.0 
+• daisy: Only white led is present 
+• daisy: overlay: Make UI less laggy by surface flinger optimization
+• daisy: Sync EGL symlinks with CAF
+• daisy: Enable quick tap
+• daisy: Remove references for antradio_library
+• sepolicy: Allow Launcher3 to access zram 
+• sepolicy: allow mediaserver to get media_wfd_prop
+• sepolicy: disable vendor_persist_camera_prop (duplicate)
+• Custom system_libhidl to fix fp
+• Custom sepolicy-legacy-um to fix booted 
+• Custom fm-commonsys to most beautiful icon
+
+
+===== XT-v3.0 - 15 Nov 2022 =====
+
+• Initial A13 build
