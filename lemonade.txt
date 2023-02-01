@@ -3,6 +3,10 @@ Build type: Monthly
 Device: OnePlus 9 (lemonade)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 31 January 2023 =====
+- Fixed statusbar padding
+- Fixed Google sign in in some cases
+
 ===== 29 January 2023 =====
 
 - Rebased device sources
