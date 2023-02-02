@@ -3,6 +3,10 @@ Build type: Monthly
 Device: Lenovo Z6 Pro (zippo)
 Device maintainer: Einar Gednochsson (kanstmablason)
 
+===== XT-v4.0 - 01 February 2023 =====
+- Kernel upstreamed to 4.14.304 + LA.UM.9.1.r1-13000-SMxxx0.0
+- enable 60fps in Aperture 
+
 ===== XT-v3.5 - 10 December 2022 =====
 
 - Kernel upstreamed to 4.14.301 + LA.UM.9.1.r1-12900-SMxxx0.0
