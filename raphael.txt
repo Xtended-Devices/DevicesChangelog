@@ -9,3 +9,12 @@ Device maintainer: @pawelik001
 - Improvements to trees
 - fix for flickering screen
 - switched to bool-x kernel
+
+===== 06 February 2023 =====
+
+- improved UDFPS scan speed
+- fixed AOD
+- UDFPS on AOD working
+- AOD not freezing
+- dt2w working
+- https://blog.project-xtended.org/2023-01-29/Xtended-XT-v4.0
