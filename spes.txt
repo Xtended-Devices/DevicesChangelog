@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 11 (spes/spesn)
+Device maintainer: Bratasij (riju2007)
+
+===== 07 February 2023 =====
+
+Initial A13 build
