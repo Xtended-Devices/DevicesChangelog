@@ -1,0 +1,13 @@
+====================================
+Highlights & Device Specific Changes
+====================================
+
+Build type: Monthly
+Device: Xiaomi 11T Pro 5G (vili)
+Device maintainer: ChampionsGod
+
+===== XT-V4.0 - 29 January 2023 =====
+* Official release
+* Based on January Security Patch
+* Hide magisk better (banking apps should work even better now) 
+* Miscellaneous other changes to make rom smoother and better
