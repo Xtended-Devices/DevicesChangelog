@@ -3,6 +3,14 @@ Build type: Monthly
 Device: Nothing Phone 1 (Spacewar)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 19 February 2023 =====
+
+- Fixed statusbar clock alignment
+- Increased doze brightness
+- Enable Wi-Fi 6GH band
+- Allow all filesystems for USB-OTG
+- Kernel upstream to 5.4.231
+
 ===== 29 January 2023 =====
 
 - Updated blobs to NothingOS 1.1.7

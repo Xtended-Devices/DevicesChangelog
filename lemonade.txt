@@ -3,6 +3,16 @@ Build type: Monthly
 Device: OnePlus 9 (lemonade)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 19 February 2023 =====
+
+- Updated blobs to OOS 11.F.20
+- Fixed statusbar clock alignment
+- Fixed Slow charging issue in some cases
+- Fixed ringtone isn't ringing if bt headset connected
+- Improved auto brightness
+- Improved kernel
+- Added Warp charging config
+
 ===== 31 January 2023 =====
 - Fixed statusbar padding
 - Fixed Google sign in in some cases
