@@ -3,6 +3,14 @@ Build type: Monthly
 Device: Realme GT Neo 2 (bitra)
 Device maintainer: Andrea Canale (andreock)
 
+===== XT-v5 - 19 Febbrary 2023 =====
+
+- Fix DT2W
+- Match WifiResTarget with RMX3370_11.F.01
+- Improve auto brighness
+- Fix brighness scaling
+- Add Livedisplay 2.1
+
 ===== XT-v4 - 9 January 2023 =====
 
 - Update Audio configs to F.02
