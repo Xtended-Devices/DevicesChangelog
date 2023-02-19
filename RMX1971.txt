@@ -6,6 +6,14 @@ Build type: Monthly
 Device: Realme 5 Pro (RMX1971)
 Device maintainer: KSSRAO (@kssrao13882)
 
+===== XT-V5.0 - 19 February 2023 =====
+* Based on February Security Patch
+* Enabled smart pixels feature
+* Enabled display protected contents in SF (required for PIP in Netflix and other widevine apps) 
+* Disabled Async MTE on System Server
+* Offloaded WM shell to another thread (improves performance)
+* Miscellaneous other changes to make rom smoother and better
+
 ===== XT-V4.0 - 29 January 2023 =====
 * Based on January Security Patch
 * Fixed video playback tinting, stuck issues in apps like Instagram
