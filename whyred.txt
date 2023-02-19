@@ -1,0 +1,25 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 5 Pro (whyred)
+Device maintainer: Arijit Saha ( @whyred_404 )
+
+
+===== 19 February 2023 =====
+
+• Synced with latest Xtended source 
+• Speed up heavy system apps
+• Speed up system profile services 
+• Added Relax Wifi
+• Disabled system blur
+• Disable blur on app launch
+• Added better ram management prop
+• Added offline charging led indicator
+• Added smooth motion prop
+• Disabled by default Bluetooth on after first boot
+• Enabled extended wifi service
+• Disabled by default Adaptive brightness on after first boot
+• Disabled by default ui touch sound on after first boot
+• Disabled ripple unlock animation by default
+• Added props for smoother scrolling and better
+• Added a system property for System UI compiler filter
+• Increased handset speaker and mic volume to 100
