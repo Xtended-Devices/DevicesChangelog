@@ -3,6 +3,17 @@ Build type: Monthly
 Device: Mi 10 Lite 5G (monet)
 Device maintainer: Alec Chan (@alecchangod)
 
+===== XT-5.0 - 19 Feburary 2023 =====
+- Update Clang version to 17.0.0
+- Enabled smart charging
+- Enabled smart pixel
+- Prebuilt LDAC and LDHC
+- Enable ro.audio.monitorRotation
+- Fix status bar clock padding
+- Disable blur
+- Switch to AVC 3.1 for screen recording
+- Updated build fingerprint to Feb release
+
 ===== XT-4.0 - 29 January 2023 =====
 - Import OnePlus Dolby
 - Added aux camera for Aperture
