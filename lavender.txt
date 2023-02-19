@@ -3,6 +3,19 @@ Build type: Monthly
 Device: Redmi Note 7/7s (Lavender)
 Device maintainer: Ahmed Hridoy (@Apex_Not_Legend)
 
+===== 19 February 2023 =====
+lavender: qcom-caf: audio: Remove ndk_platform backend. Use the ndk backend
+lavender: Kill IMS logspam
+lavender: Remove unnecessary QTI logkit directories
+lavender: rootdir: Increase ZRAM size to 70% of Ram size
+lavender: rootdir zRAM tuning
+lavender: props: Disable Skia tracing by default
+lavender: Speed profile services and wifi-service to reduce RAM
+lavender: overlay: Offload WM shell to another thread
+lavender: overlay: Allow more cached apps in the background
+lavender: overlay: Compact cached app heaps in the background
+lavender: props: Enable display protected contents in SF
+
 ===== 29 January 2023 =====
 camera: Disable QTI perf lock usage in camera HAL
 parts: Add headphones warning for clear speaker
