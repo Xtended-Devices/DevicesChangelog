@@ -3,6 +3,11 @@ Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
 Device maintainer: Tejas (github.com/baconpeedit) (t.me/I_Am_Charsi)
 
+===== XT-v5.0 20 February 2023 =====
+* Added smart Charging
+* Fixed all dialer related issues (call ui was not shown sometimes or hard visiblity of accept reject buttons)
+* Minor reflections and misc. upstreams 
+
 ===== XT-v4.0 30 January 2023 =====
 * Update adreno stack to WAIPIO 16000
 * Update from LA.QSSI.13.0.r1-06400-qssi.0
