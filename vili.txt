@@ -6,6 +6,12 @@ Build type: Monthly
 Device: Xiaomi 11T Pro 5G (vili)
 Device maintainer: ChampionsGod
 
+===== XT-V5 - 21 February 2023 =====
+* Based on February Security Patch
+* Added props for smoother scrolling and better
+* overlays: Push 120 FPS for ScreenRecorder
+* Miscellaneous other changes to make rom smoother and better
+
 ===== XT-V4.0 - 29 January 2023 =====
 * Official release
 * Based on January Security Patch
