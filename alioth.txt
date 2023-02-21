@@ -3,7 +3,21 @@ Build type: Monthly
 Device: POCOF3 (aioth)
 Device maintainer:OFFENDER (lazyafk)
 
-
+===== XTv5.0 22 FEBUARY 2022 =====
+ Drop QTI Vibrator compilation 
+ Import and adapt Xiaomi Proprietary vibrator hal
+ BT: Import more LDAC deps & Import back legacy BT Audio Target
+ overlay: Change all three default haptic levels to high
+ overlay: Show "Turbo charging" instead of "Charging rapidly"
+ Disable blur on app launch 
+ Use MIUI poweroff charging animation 
+ Enable QPower and Deep sleep at the same time 
+ Disable client composition cache 
+ Configure SQLite to operate in MEMORY mode 
+ rootdir: Register more game libraries to sched_lib_name 
+ overlay: Enable Smart Pixels
+ mport QTI MediaCodecs 
+ 
 ===== XTv4.0 7 FEBUARY 2022 =====
 Add burn-in protection for statusbar and navbar
 Limit AOD refresh rate to 60hz
