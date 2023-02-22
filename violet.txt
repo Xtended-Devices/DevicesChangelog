@@ -3,6 +3,12 @@ Build type: Monthly
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: abhi (@abhix202)
 
+===== XT-v5.0 - 22 February 2023=====
+
+-Based on February Security Patch
+-Enabled smart charging
+-Fixed some minor lags
+
 ===== XT-v4.0 - 29 January 2023 =====
 
 - Shifted to Xcalibur Kernel
