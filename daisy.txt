@@ -3,6 +3,22 @@ Build type: Monthly
 Device: Mi A2 Lite (daisy)
 Device maintainer: @TogoFire
 
+===== XT-v5.0 - 22 February  2023 =====
+
+• daisy: Disable bluetooth enhanced SCO connection
+• daisy: Enable avrcp controller bluetooth profile 
+• daisy: Disable SF composition prediction model on 5.4 and lower 
+• daisy: Tune dalvik heapminfree for devices with 3gb ram 
+• daisy: Switch to jemalloc for libc
+• daisy: Set config_supportsUdfps to false
+• daisy: Drop renderscript bits
+• daisy: overlay: Disable smart pixels (Smart pixels not saving battery on ips lcd display)
+• daisy: rootdir: Change ipa trigger level to early-boot
+• daisy: rootdir: Remove useless attempt to chmod /system/bin/ip
+• daisy: overlay: Disable Smart Charging
+• Clang Playground 17
+
+
 ===== XT-v4.0 - 30 January 2023 =====
 
 • Kernel Panda 4.9.337
