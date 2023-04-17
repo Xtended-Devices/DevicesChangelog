@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Lenovo Z6 Pro (zippo)
 Device maintainer: Einar Gednochsson (kanstmablason)
 
+
+===== XT-v6.0 - 17 April 2023 =====
+
+- Updated graphics & display from LA.UM.9.1.r1-12900-SMxxx0.0 msmnile-user
+- Upstream kernel to 4.14.312
+- Updated wlan driver from LA.UM.9.1.c11-51900-SMxxx0.QSSI13.0
+
 ===== XT-v5.0 - 19 February 2023 =====
 - Kernel upstreamed to 4.14.305 + LA.UM.9.1.c11-48400-SMxxx0.QSSI13.0
 - Added SmartCharging overlay
