@@ -3,7 +3,25 @@ Build type: Monthly
 Device: Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
 Device maintainer: COSMIC (@cos0i)
 
+===== 17 April 2023 =====
+
+- Switched to common Xiaomi light AIDL
+- Switched to common Xiaomi fingerprint HIDL
+- Switched to AIDL power hal
+- Removed aptX(HD) encoder shared libs
+- Build QTI vibrator from source
+- Updated USB controller configuration
+- Flatten APEXs for performance
+- Update media codecs from V13.0.2.0.SJZMIXM and blobs from v13.0.4.0SJZMIXM
+- Improved screen recording
+- Disabled smart charging
+- Enabled blur and added an option to disable it from developer settings if user wants
+- Increased QS panel smoothness after QPR2 update
+- Switched to gapps build
+- Overall increased Stability, smoothness & ram management
+
 ===== 19 February 2023 =====
+
 - Based on February Security Patch
 - Enabled smart pixels feature
 - Misc small improvements and bug fixes
