@@ -6,6 +6,12 @@ Build type: Monthly
 Device: Xiaomi 11T Pro 5G (vili)
 Device maintainer: ChampionsGod
 
+===== XT-V6.0 - 19 April 2023 =====
+* Based on April Security Patch
+* Shipped with TUF kernel
+* Upstreamed kernel to v5.4.240
+* Miscellaneous other changes to make rom smoother and better(many changes are maded u can see commit history)
+
 ===== XT-V5 - 21 February 2023 =====
 * Based on February Security Patch
 * Added props for smoother scrolling and better
