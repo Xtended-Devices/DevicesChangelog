@@ -3,6 +3,16 @@ Build type: Monthly
 Device: Realme GT Neo 2 (bitra)
 Device maintainer: Andrea Canale (andreock)
 
+===== XT-v6 - 19 Febbrary 2023 =====
+
+- Update blobs to F.03
+- Update WCNSS path to make ROM compatible to Dragon 6 / Bigshot T source
+- Tweaks schedtune for better battery saving
+- Remove RenderScript(deprecated)
+- Update init scripts from latest CLO tag(LA.UM.9.12.1.r1-05500-SMxx50.QSSI12.0)
+- Remove Livedisplay 2.1
+- Fix FP registration
+
 ===== XT-v5 - 19 Febbrary 2023 =====
 
 - Fix DT2W
