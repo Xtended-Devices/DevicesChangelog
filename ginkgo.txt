@@ -1,7 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
-Device maintainer: Tejas (github.com/baconpeedit) (t.me/I_Am_Charsi)
+Device maintainer: Tejas (github.com/Charsi-Tejas) (t.me/I_Am_Charsi)
+
+===== XT-v6.0 20 February 2023 =====
+* Synced with latest Project-Xtended 13 source code
+* Merged April 2023 security patches
+* Shipped with CharsiKerneL-v1 (4.14.312)
+* Disabled combined qs on status bar (Fixes QS Pull Down Or Scroll Lags Due Android QPR2)
+* Reverted Waipio Drivers Back To Stock Adreno Stack
+* Improved left right status bar paddings
 
 ===== XT-v5.0 20 February 2023 =====
 * Added smart Charging
