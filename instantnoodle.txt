@@ -1,0 +1,23 @@
+====================================
+Highlights & Device Specific Changes
+====================================
+
+Build type: Monthly
+Device: OnePlus 8 (instantnoodle)
+Device maintainer: ZIZZYBOI (@twinchin96)
+
+===== XT-v6.0- 21 April 2023 =====
+* First Official release
+* Switched kernel to Catalyst (based off meteoric)
+* Disabled QPR2 clock for now
+* Fixed lockscreen charge info
+* Various behind the scenes fixes and improvements
+* Smoothness tweaks
+* Add 90hertz screenrecording
+* Dolby Included
+* OOS CAM included
+
+Bugs:
+* No google photos spoof (will be fixed next update)
+
+you tell me :)
