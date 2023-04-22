@@ -3,6 +3,16 @@ Build type : Monthly
 Device : Lenovo Zuk Z2 Plus (z2_plus)
 Device maintainer : Pranav Temkar (@PptOo7)
 
+======= 22 April 2023 ========
+
+ - Switch to Qcrild
+ - Patch qcril to support only RadioConfig::1.0 interface
+ - Disable Bluetooth APCF Extended features
+ - Remove aptX(HD) encoder shared libs
+ - Apply aggressive write caching
+
+==============================
+
 ====== 22 February 2023 ======
 
 Xtended-XT-v5
