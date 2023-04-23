@@ -2,6 +2,10 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: abhi (@abhix202)
+===== XT-v6.0 - 23 April 2023========
+-Fixed Mic issues
+-Correct partition sizes
+-Improved ideal drain
 
 ===== XT-v5.0 - 22 February 2023=====
 
