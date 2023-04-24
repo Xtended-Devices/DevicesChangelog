@@ -3,7 +3,24 @@ Build type: Monthly
 Device: POCOF3 (aioth)
 Device maintainer:OFFENDER (lazyafk)
 
-===== XTv5.0 22 FEBUARY 2022 =====
+===== XTv6.0 24 APRIL 2023 =====
+Redline kernel by Default 
+Added netwrok switch toggle in QS
+Update bloobs from MIUI 14.0.7
+Added battery frinedly pocket mode 
+Import thermal profiles from MIUI 14.0.7 
+Switch back to QTI vibrator 
+Fixed per app RR and cpu stucked at 2.74ghz 
+CarrierConfig: Enable voLTE/voWIFI/ViLTE for IDC Moldova
+sm8250-common: CarrierConfig: Enable VoLTE and Wi-Fi calling for Telcel 
+add some more dolby libs from 14.0.7.0
+Enable Qualcomm TrueWireless™ Stereo
+Used QCOM implementation for audio effects
+Enable vonr for Airtel and Jio
+Switched to AOSP clang 
+
+
+===== XTv5.0 22 FEBUARY 2023 =====
  Drop QTI Vibrator compilation 
  Import and adapt Xiaomi Proprietary vibrator hal
  BT: Import more LDAC deps & Import back legacy BT Audio Target
@@ -18,7 +35,7 @@ Device maintainer:OFFENDER (lazyafk)
  overlay: Enable Smart Pixels
  mport QTI MediaCodecs 
  
-===== XTv4.0 7 FEBUARY 2022 =====
+===== XTv4.0 7 FEBUARY 2023 =====
 Add burn-in protection for statusbar and navbar
 Limit AOD refresh rate to 60hz
 Configure display cutout 
