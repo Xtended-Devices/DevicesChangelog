@@ -3,6 +3,10 @@ Build type: Monthly
 Device: Mi 10 Lite 5G (monet)
 Device maintainer: Alec Chan (@alecchangod)
 
+==== XT-6.0 3 May 2023 ====
+- Updated build fingerprint to April release 
+- Ignore some invalid camera in Aperture
+
 ===== XT-5.0 - 19 Feburary 2023 =====
 - Update Clang version to 17.0.0
 - Enabled smart charging
