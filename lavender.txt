@@ -3,6 +3,9 @@ Build type: Monthly
 Device: Redmi Note 7/7s (Lavender)
 Device maintainer: Ahmed Hridoy (@Apex_Not_Legend)
 
+===== 16 May 2023 =======
+Switch to nekolite kernel
+
 ===== 19 April 2023 =====
 lavender: Add tethering usb props
 lavender: Extend buffer size to 256kb for offload playback
