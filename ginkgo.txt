@@ -3,6 +3,15 @@ Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
 Device maintainer: Tejas (github.com/Charsi-Tejas) (t.me/I_Am_Charsi)
 
+===== XT-v7.0 16 May 2023 =====
+* Fixed fingerprint lock missing for some users
+* Added KernelSU support
+* Upstreamed Kernel to v4.14.314
+* Fixed blank space on qs when not expanded
+* Reduce schedutil rate limits
+* Fixed issues with Android Auto
+* Nuked smart charging (as was not working)
+
 ===== XT-v6.0 20 February 2023 =====
 * Synced with latest Project-Xtended 13 source code
 * Merged April 2023 security patches
