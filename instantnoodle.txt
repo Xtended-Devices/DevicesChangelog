@@ -6,6 +6,17 @@ Build type: Monthly
 Device: OnePlus 8 (instantnoodle)
 Device maintainer: ZIZZYBOI (@twinchin96)
 
+===== XT-v7.0- 16 May 2023 =====
+* Switched to playground clang
+* QRP2 Clock is back
+* Google Photos Spoof is back
+* Speed up Launcher3
+* Modify refresh rate timers
+* Some behind the scenes improvements and fixes
+
+Bugs: 
+* Statusbar center clock
+
 ===== XT-v6.0- 21 April 2023 =====
 * First Official release
 * Switched kernel to Catalyst (based off meteoric)
