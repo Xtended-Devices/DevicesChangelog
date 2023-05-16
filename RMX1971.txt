@@ -6,6 +6,17 @@ Build type: Monthly
 Device: Realme 5 Pro (RMX1971)
 Device maintainer: KSSRAO (@kssrao13882)
 
+==== XT-V7.0 - 16 May 2023 =====
+* Switched to new Moto Dolby Implementation (Nuked OP Dolby)
+* Restored pre a13 battery warning threshold (changed from 20% to 15%)
+* Update System blobs from LA.QSSI.13.0.r1-09700-qssi.0
+* Updated Carrier blobs from LA.QSSI.13.0.r1-09700-qssi.0
+* Imported more surface flinger flags (Improvement in smoothness)
+* Removed useless esepmdaemon, qseeproxydaemon, ssgqmigd, ptt_socket_app, sensingdaemon from rootdir
+* Imported Google photos properties from pixelify
+* Forced device to treat 170M as sRGB in SF
+* Configured correct wifi overlay configuration
+
 ===== XT-V6.0 - 17 April 2023 =====
 * Based on April Security Patch
 * Ships with Dolby Atmos Sound from Oneplus 9R 
