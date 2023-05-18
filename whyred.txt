@@ -3,6 +3,28 @@ Build type: Monthly
 Device: Redmi Note 5 Pro (whyred)
 Device maintainer: Arijit Saha ( @whyred_404 )
 
+===== 18 May 2023 =====
+
+• Synced with latest xtended 7.0 source
+• Fixed internal error after every reboot
+• whyred: prebuilts: Add GoogleCameraGo
+• sdm660-common: enable ro.hwui.render_ahead
+• sdm660-common: Added more blur disable props
+• sdm660-common: overlay: Allow all apps to use smart replies 
+• sdm660-common: Add props to improve battery backup
+• sdm660-common: set combined qs header in status bar to false
+• sdm660-common: set ro.hwui.render_ahead=20
+• sdm660-common: prop: Fix screen record lag
+• sdm660-common: prop: Use HintManager for HWUI
+• sdm660-common: Reduce screenshot delay to 0
+• sdm660-common: Compile HWUI for performance
+• Decreased app opening lag
+• Re-added full system animation
+• Many more underhood changes
+
+Note :-
+• Dt2w may not work properly.Use magisk module for now
+
 
 ===== 19 February 2023 =====
 
