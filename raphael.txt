@@ -1,5 +1,5 @@
 Highlights & Device Specific Changes:
-Build type: Monthly
+Build type: Monthly *kinda*
 Device: Xiaomi Mi 9T Pro
 Device maintainer: @pawelik001
 
@@ -18,3 +18,67 @@ Device maintainer: @pawelik001
 - AOD not freezing
 - dt2w working
 - https://blog.project-xtended.org/2023-01-29/Xtended-XT-v4.0
+
+===== 16 May 2023 =====
+
+* https://blog.project-xtended.org/2023-02-19/Xtended-XT-v5.0
+* https://blog.project-xtended.org/2023-04-17/Xtended-XT-v6.0
+* https://blog.project-xtended.org/2023-05-16/Xtended-XT-v7.0
+* Bringbacked overclock display with fix fod after QPR2
+* Creating new Uclamp cpuset for Game and Display
+* Switched to Fod new impl
+* Droped color inversions
+* Switched to Common Xiaomi 1.0 sensors implementation
+* Updated ksu to KSU 0.5.5 and fixed some issue
+* Imported BRQ BT props from Pixel Devices
+* Fixed up wpa supplicant for service init
+* Disable adsprpcd service caused logspam
+* Set display mode to DCI-P3
+* Optimized everything on preopt
+* Set ro.hwui.render_ahead to 20
+* Update CarrierConfig from munch V13.0.4.0.SLMMIXM
+* Disable qdcm display factory mode
+* Add DRM aidl to FCM
+* Remove FM Tuner from input devices
+* Extend buffer size to 256kb for offload playback
+* Remove USE_SENSOR_MULTIHAL
+* Address vendor init cgroup getattr denial
+* Decouple suspend from screen state
+* Switched to Boolx-clang 17 for kernel build
+* Upstreamed to latest linux tag 4.14.314
+* Merged to clo tag LA.UM.9.1.r1-13500-SMxxx0.QSSI13.0 
+* Upstreamed and updated f2fs
+* Bringback overclock display upto 90hz
+* Add new Uclamp cpuset for Game
+* Dropped overclock display on kernel side due to fix FOD greentint after qpr2 but user stay can use ocd on standalone kernel with a bit bugs of FOD
+* Completelly clo frameworks boost impl
+* Enable QR Code on Lockscreen
+* Fixed nfc service
+* Enable config_autoPowerModePreferWristTilt
+* Add custome tunables for cgroups and read_ahead_kb
+* Add support kernelSU and fixups some magisk modules to running on ksu
+* Add AAPT config
+* Disable sf EGL image tracking
+* Sync Uclamp tune to Boolx Kernel
+* Set 3 frame render ahead to reduce jank without adding much input latency
+* Drop deafult SysUI list qs tiles
+* Disable intrusive gms components
+* Correct system partition size
+* Configure default light sensor type
+* Forced limit max refresh rate to 60hz on aod and lockscreen
+* Add back Dirac
+* Added Miui camera
+* Fixed some sepolicy denials
+* Add CLO framework boost implementation
+* Add some props hax
+* update pasrmanager blobs
+* Add back fps info tiles
+* Use hint manager props
+* Updated value for Vibrations streng
+* Add task_profiles command for cgroup migration
+* Swithced to Skiagl thread as default renderer
+* Fix 24bit audio playback
+* Completelly stuff on dt side for Fixed audio right channel by adding some modded mixer_path files
+* Disable skiathred traces 
+* Enable config_ui_enableFadingMarquee for fading edges when marquee is enabled in TextView
+* and more ...
