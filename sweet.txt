@@ -3,6 +3,24 @@ Build type: Monthly
 Device: Redmi Note 10 Pro/Pro Max (Sweet)
 Device maintainer: Suresh S (@Black_Serpent) & Niranjan (@mrfox2003)
 
+===== XT-v7.0- 19 May 2023 =====
+
+- Changed Kernel to Vantom
+- Fixed HDR on Netflix
+- Removed Some Duplicate Props
+- Used Some Audio Configs from MIUI 13
+- Disabled NearbyMessagesService & DiscoveryService Overlay
+- Fixed carrier video call (use google dialer)
+- Updated Adreno blobs to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- Updated CarrierConfig from LA.QSSI.13.0.r1-08600-qssi.0
+- Updated Gps Blobs to LA.UM.9.1.r1-12900-SMxxx0.0
+- Updated DPM, IMS, and RIL system blobs from LA.QSSI.13.0.r1-08600-qssi.0
+- Import missing blobs
+- Fixup wpa supplicant service init
+- init: Don't mount TraceFS twice.
+- Fixed some lags
+- Fixed refresh rate issue
+
 ===== XT-v6.0- 18 April 2023 =====
 
 - Converted common tree into sweet tree
