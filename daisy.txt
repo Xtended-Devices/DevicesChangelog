@@ -3,6 +3,26 @@ Build type: Monthly
 Device: Mi A2 Lite (daisy)
 Device maintainer: @TogoFire
 
+===== XT-v7.0 - 24 May 2023 =====
+- Kernel Panda 4.9.337 24052023
+- d0342b141 - daisy: sha1sum Screenshot Tile (TogoFire)
+- cf0f5b344 - daisy: overlay: Separate notification and ringtone volumes (Gaurav241)
+- 75d1d4699 - daisy: rootdir: Add HID gadget nodes (TogoFire)
+- ceabb19df - daisy: Import Google photos properties from pixelify (Kingsman44)
+- b2edeb23c - daisy: Optimize Launcher3 and Settings for speed (Andrzej Perczak)
+- 64932b472 - daisy: Add AppWidget permission (Patrick Tjin)
+- d8d9fd9ba - daisy: Set config_criticalBatteryWarningLevel threshold to 8 (zeelog)
+- 7874c264e - daisy: prima: Disable EXT_SCAN, WifiScanner support (Karsten Tausche)
+- f1475ecbb - daisy: prop: Disable Bluetooth APCF Extended features (me-cafebabe)
+- fca7f2b24 - daisy: overlay: Switch to `config_screenBrightnessSettingMinimumFloat` (DarkJoker360)
+- 46d00085a - daisy: audio: Remove AUDIO_OUTPUT_FLAG_FAST definition (chrisl7)
+- db9ac8503 - daisy: rootdir: drop boot-time toggle on clkscale_enable (Chenyang Zhong)
+- 30d3f244b - daisy: install-hook.sh: Add a script to generate change-id commit msg (TogoFire)
+- 7b65055b4 - daisy: cherry-pick.sh: Add a script to pick commits with signature (TogoFire)
+- Updated the frameworks_av to fix youtube that sometimes the video stops working out of nowhere
+- 11009a81 - msm8953-common: Add Screenshot Tile (Pzqqt)
+
+
 ===== XT-v6.0 - 23 April 2023 =====
 - Trb Clang 17 20042023
 - Kernel Panda 4.9.337 r52 https://github.com/TogoFire/kernel_xiaomi_panda/releases/tag/r52
@@ -74,6 +94,7 @@ Device maintainer: @TogoFire
 - 837d6c183 - daisy: overlay: Auto select Data/SMS/Voice preference in SIM hotswap. (Amit Mahajan)
 - 3ab19728 - vendor: msm8953-common: Import datastatusnotification from coral [2/2] (Lucchetto)
 - f58c6e2a - vendor: msm8953-common: Drop aptx blobs (Alexander Martinz)
+
 
 ===== XT-v5.0 - 22 February 2023 =====
 
@@ -164,7 +185,6 @@ Device maintainer: @TogoFire
 • daisy: Make shim for libc++
 • daisy: Add ro.hw_timeout_multiplier
 • daisy: sepolicy: Label qcom extcon sysfs
-• daisy: prop: Enabled 1080p on YouTube
 • daisy: removed some prop (We Think can Improved Performance and smoothest but reality is not for msm8953 devices)
 • daisy: configs: permissions: Add missing permissions for Launcher3 & Systemui
 • daisy: configs: priv-app_permisssion: add com.android.vending
