@@ -6,6 +6,17 @@ Build type: Monthly
 Device: OnePlus 8 Pro (instantnoodlep)
 Device maintainer: ZIZZYBOI (@twinchin96)
 
+===== XT-7.0-HOTFIX-24 May 2023 =====
+* Changed to Neutron 17.0.2
+* Fixed lockscreen clock font not changing
+* Enable CLO boost
+* Tune memory management and performance
+* Smoothness tweaks
+* Misc other fixes
+
+Bugs: 
+* Statusbar center clock
+
 ===== XT-v7.0- 16 May 2023 =====
 * Switched to playground clang
 * QRP2 Clock is back
