@@ -2,6 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: POCOF3 (aioth)
 Device maintainer:OFFENDER (lazyafk)
+
 ===== XTv7.0 26 MAY 2023 =====
 Improved dolby for headset 
 Add thermal profiles tile 
