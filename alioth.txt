@@ -2,6 +2,15 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: POCOF3 (aioth)
 Device maintainer:OFFENDER (lazyafk)
+===== XTv7.0 26 MAY 2023 =====
+Improved dolby for headset 
+Add thermal profiles tile 
+Enable zram writeback
+Force triple frame buffers 
+Properly disable phantom process killing 
+Set scroll friction to 0.012
+Skip screen on animation when wake and unlock via biometrics
+Update reticker specs to latest OneUI brief pop up style
 
 ===== XTv6.0 24 APRIL 2023 =====
 Redline kernel by Default 
