@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Pixel 7/7Pro (cheetah/panther)
+Device maintainer: Pyrtle93
+
+===== 27 May 2023 =====
+
+Initial A13 build
+Added Pixel-Framework
+Added Googles Face Unlock
+Fix WiFi-calling
+Switched kernel to MadHunter
+Fixed cts failing
+Other bug fixes/clean-ups
