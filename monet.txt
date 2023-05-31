@@ -3,6 +3,11 @@ Build type: Monthly
 Device: Mi 10 Lite 5G (monet)
 Device maintainer: Alec Chan (@alecchangod)
 
+==== XT-7.0 30 May 2023 ====
+- Included firmware 
+- Enable VoNR Calls support
+- Allow VoLTE and VoWiFi/WFC by default
+
 ==== XT-6.0 3 May 2023 ====
 - Updated build fingerprint to April release 
 - Ignore some invalid camera in Aperture
