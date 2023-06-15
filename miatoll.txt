@@ -1,7 +1,23 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
-Device maintainer: COSMIC (@cos0i)
+Device maintainer: COSMIC (@cosmic_00x)
+
+===== 15 June 2023 =====
+
+- Added inbuilt Miui Camera (Leica v4.0)
+- Added KSU support (v0.6.0)
+- Switched to AOSP-Clang 17.0.0 to compile kernel for better optimisation
+- Merged latest CAF tags in Kernel
+- Added missing display and media hals and fixed up few props 
+- Fixed google voice assistant
+- Fixed overlays and converted it to Runtime Resource Overlays (RROs)
+- Fixed blobs mess and properly updated it from V13.0.4.0.SJZMIXM
+- Improved Xiaomi Parts
+- Added FPS Tile 
+- Added KCAL in Xiaomi Parts
+- Aligned status bar content with punchole
+- Overall increased Stability, Smoothness and fixed minor bugs
 
 ===== 16 May 2023 =====
 
