@@ -3,6 +3,25 @@ Build type: Monthly
 Device: Redmi Note 5 Pro (whyred)
 Device maintainer: Arijit Saha ( @whyred_404 )
 
+===== 15 June 2023 =====
+
+• Synced with latest xt 7.5 source
+• Fixed dt2w in lock screen
+• Fixed an issue with "Ok Google"
+• Imported overlay-lineage
+• Fixed battery light indicator
+• Fixed battery issue due to some props
+• Added some perf tweaks
+• Fixed some issues related to pubg
+• Decreased night drain
+• Dropped some unwanted blobs
+• Improved brightness power
+• Added new workaround for cam lag
+
+
+
+
+
 ===== 18 May 2023 =====
 
 • Synced with latest xtended 7.0 source
