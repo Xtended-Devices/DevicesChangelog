@@ -3,6 +3,11 @@ Build type: Monthly
 Device: Poco F1 (beryllium)
 Device maintainer: AKSHAT (github.com/Legendleo90) (t.me/leopubglover)
 
+===== XT-v7.5 15 June 2023 =====
+* Synced with latest xt 7.5 source
+* Improved UI smoothness
+* Dropped some unwanted blobs
+
 ===== XT-v7.0 19 May 2023 =====
 * Initial Official release
 * Switched to kawaii kernel
