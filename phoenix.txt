@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Poco X2 / Redmi K30 (phoenix)
+Device maintainer: JAY MISTRY (JAYMISTRY258)
+
+===== 15 June 2023 =====
+
+- Added Dolby Atmos
+- Added Miui Camera (Leica Camera)
+- Added QS blur
+- Added some performance tuning
+- Update graphics blobs from LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
