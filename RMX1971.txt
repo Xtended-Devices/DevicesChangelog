@@ -6,6 +6,16 @@ Build type: Monthly
 Device: Realme 5 Pro (RMX1971)
 Device maintainer: KSSRAO (@kssrao13882)
 
+==== XT-V7.5 - 15 June 2023 ==== 
+* Tuned Dolby values from Oneplus 9R for Improved sound quality 
+* Disabled volume leveler by default in Dolby (Fixes volume Automatically goes up and down) 
+* Enabled post process for voice call 
+* Set combined qs header in status bar to false (Reduces qs pulldown lags) 
+* Enabled Surface Flinger Cache by default (fixes flickering issues ) 
+* Disabled Nearby Messaging & Discovery services
+* Updated Dolby Blobs
+* Silenced dmesg spam from kernel side
+
 ==== XT-V7.0 - 16 May 2023 =====
 * Switched to new Moto Dolby Implementation (Nuked OP Dolby)
 * Restored pre a13 battery warning threshold (changed from 20% to 15%)
