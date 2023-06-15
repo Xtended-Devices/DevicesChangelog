@@ -3,6 +3,15 @@ Build type: Monthly
 Device: OnePlus 7tPRO (hotdog)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 15 June 2023 =====
+
+- Added OnePlus camera
+- Added QS blur
+- Added screen off udfps
+- Added governor settings from coral
+- Added some performance tuning
+- Kernel upstream to 4.14.317
+
 ===== 17 April 2023 =====
 
 - Updated blobs to OOS 11.H.38

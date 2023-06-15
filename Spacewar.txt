@@ -3,6 +3,15 @@ Build type: Monthly
 Device: Nothing Phone 1 (Spacewar)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 15 June 2023 =====
+
+- Device sources rebased to Aswin dt
+- Glyph interface: updated as per AOSPA
+- Added QS blur
+- Added screen off udfps
+- Extend audio offload buffer size to 256kb
+- Kernel upstream to 5.4.246
+
 ===== 19 February 2023 =====
 
 - Fixed statusbar clock alignment

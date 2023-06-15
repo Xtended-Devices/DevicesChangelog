@@ -3,6 +3,17 @@ Build type: Monthly
 Device: OnePlus 9PRO (lemonadep)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 15 june 2023 =====
+
+- Added QS blur
+- Extend audio offload buffer size to 256kb
+- Import powerhint from coral
+- Optimized hwc 
+- Lower down rate limit for prime CPU 
+- Fixed WhatsApp volume control on calls 
+- Update blobs to OOS 13.1
+- Kernel upstream to 5.4.246
+
 ===== 17 April 2023 =====
 
 - Updated blobs to OOS 11.F.21
