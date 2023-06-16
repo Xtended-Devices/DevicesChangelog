@@ -3,6 +3,11 @@ Build type: Monthly
 Device: Redmi Note 7/7s (Lavender)
 Device maintainer: Ahmed Hridoy (@Apex_Not_Legend)
 
+===== 16 June 2023 =======
+Fixed Gps Dead
+Fixed Night light & dim not working on last build
+Fixed Gcam Crash(Gcam Should Works Fine now)
+
 ===== 16 May 2023 =======
 Switch to nekolite kernel
 
