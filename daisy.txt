@@ -3,6 +3,16 @@ Build type: Monthly
 Device: Mi A2 Lite (daisy)
 Device maintainer: @TogoFire
 
+===== XT-v7.5 - 18 Jun 2023 =====
+- K4.9 Panda 17062023
+- 35e0fa677 - daisy: parts: Introduce DT2W Switch (TogoFire)
+- 190087017 - daisy: Drop force enable dt2w (TogoFire)
+- d811293de - daisy: parts: Nuke DiracSound (TogoFire)
+- 0bfdb42b5 - daisy: sepolicy: Address denials for audio mods (7Soldier)
+- a68bdb745 - daisy: Add support for ViPER4Android FX Redesign and build it (TogoFire)
+- e48f4ae8 - msm8953-common: Nuke libdirac (TogoFire)
+
+
 ===== XT-v7.0 - 24 May 2023 =====
 - Kernel Panda 4.9.337 24052023
 - d0342b141 - daisy: sha1sum Screenshot Tile (TogoFire)
