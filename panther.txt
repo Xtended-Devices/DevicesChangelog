@@ -1,6 +1,6 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Pixel 7/7Pro (cheetah/panther)
+Device: Pixel 7 (panther)
 Device maintainer: Pyrtle93
 
 ===== 27 May 2023 =====
@@ -12,3 +12,18 @@ Fix WiFi-calling
 Switched kernel to MadHunter
 Fixed cts failing
 Other bug fixes/clean-ups
+
+===== 18 June 2023 =====
+
+Switched kernel to Kirisakura
+Fixed refresh rate not showing in settings
+Fixed screenoff fod
+Config tweaks to help with heating
+Set default peak/refresh rate to 120
+Fix notification swipe lag bug
+Add toggle to switch between aosp/google battery graphs
+Fixed extreme battery saver f/c
+Fixed Udfps icons/animations not showing
+Fixed double tap power for camera
+Updated default wallpaper
+Other various improvements/updates
