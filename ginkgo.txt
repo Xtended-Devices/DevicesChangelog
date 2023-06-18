@@ -1,7 +1,14 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Redmi Note 8/8T (ginkgo/willow)
-Device maintainer: Tejas (github.com/Charsi-Tejas) (t.me/I_Am_Charsi)
+Device: Redmi Note 8 (ginkgo)
+Device maintainer: RahulPalXDA (github.com/RahulPalXDA) (t.me/WeeboDemon)
+
+===== XT-v7.5 18 June 2023 =====
+* Fully rebased device tree.
+* Dropped Miui Camera support (it's worthless over Gcams).
+* Dropped Willow Varrient Support (Due to long broken NFC).
+* Enabled Gboard side padding.
+* Some Improvements underthehood.
 
 ===== XT-v7.0 16 May 2023 =====
 * Fixed fingerprint lock missing for some users
