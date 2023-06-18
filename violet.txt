@@ -3,6 +3,10 @@ Build type: Monthly
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: abhi (@abhix202)
 
+===== XT-v7.5 - 18 June 2023========
+- Synced with latest xt 7.5 source
+- Added KernelSu support 
+- Added GcamGo as default 
 ===== XT-v7.0 - 16 May 2023========
 - Based on May Security patch 
 - Added blur support 
