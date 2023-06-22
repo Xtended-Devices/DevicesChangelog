@@ -18,6 +18,8 @@ Device maintainer: ZIZZYBOI (@twinchin96)
 * Misc improvements and fixes
 * Center status bar clock fixed
 
+Base: Final OOS F.64 build. Next build will be OOS 13.1
+
 Bugs: you tell me! :)
 
 ===== XT-7.0-HOTFIX-24 May 2023 =====
