@@ -6,6 +6,20 @@ Build type: Monthly
 Device: OnePlus 8 (instantnoodle)
 Device maintainer: ZIZZYBOI (@twinchin96)
 
+===== XT-7.5 - 22 June 2023 =====
+* June patch skipped
+* Various behind the scenes improvements
+* Improve boot time
+* Improve random drains
+* Switch to Stellaris kernel 17.0.2 clang
+* Smoothness tweaks
+* Improve idle drains
+* Improve heating
+* Misc improvements and fixes
+* Center status bar clock fixed
+
+Bugs: you tell me! :)
+
 ===== XT-7.0-HOTFIX-24 May 2023 =====
 * Changed to Neutron 17.0.2
 * Fixed lockscreen clock font not changing
