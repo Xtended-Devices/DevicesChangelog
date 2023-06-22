@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 9RT (martini)
+Device maintainer: @Mrick343
+
+===== XT-v7.5 - 22 Jun 2023 =====
+- Initial Official Build
+- Updated to Xtended 7.5
