@@ -28,3 +28,12 @@ Fixed double tap power for camera
 Updated default wallpaper
 Other various improvements/updates
 
+===== 25 June 2023 =====
+
+Update Google battery graph toggle string
+Set Google Dialer as default dialer package name
+Switch to Pixel's CarrierSettings
+Completly fixed google restore including sms/mms
+Fixed CTS
+Fixed Clear All recent app screen loop bug
+Fixed Set screen lock as None then open a app bug
