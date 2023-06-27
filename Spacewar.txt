@@ -3,6 +3,11 @@ Build type: Monthly
 Device: Nothing Phone 1 (Spacewar)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 27 June 2023 =====
+
+- Fixed Camera & Gallery icon theming
+- Kernel upstream to 5.4.248
+
 ===== 15 June 2023 =====
 
 - Device sources rebased to Aswin dt

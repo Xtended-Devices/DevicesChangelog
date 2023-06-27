@@ -3,6 +3,11 @@ Build type: Monthly
 Device: OnePlus 9 (lemonade)
 Device maintainer: Mukesh Singh (mukesh22584)
 
+===== 27 june 2023 =====
+
+- Kernel rebased to LineageOS
+- Kernel upstream to 5.4.248
+- 
 ===== 15 june 2023 =====
 
 - Added QS blur
