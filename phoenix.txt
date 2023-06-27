@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Poco X2 / Redmi K30 (phoenix)
 Device maintainer: JAY MISTRY (JAYMISTRY258)
 
+===== 27 June 2023 =====
+
+- Switched to Pure Kernel
+- Added KSU Support
+- Added Smart Charging Feature
+- Added Some Performance Tuning
+
 ===== 15 June 2023 =====
 
 - Added Dolby Atmos
