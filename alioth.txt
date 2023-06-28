@@ -1,7 +1,16 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: POCOF3 (aioth)
-Device maintainer:OFFENDER (lazyafk)
+Device maintainer:OFFENDER (lazyafk).
+
+===== XTv7.6 28 JUNE 2023 =====
+ Implement DC dimming
+ Added DC dimming tile 
+ Update wifi configs from MIUI 14 Disable memtrack support  
+ Remove max ZRAM compression streams setting
+ Switch to jemalloc for libc
+ Further reduce loglevel
+ 
 
 ===== XTv7.0 26 MAY 2023 =====
 Improved dolby for headset 
