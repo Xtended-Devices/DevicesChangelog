@@ -37,3 +37,8 @@ Completly fixed google restore including sms/mms
 Fixed CTS
 Fixed Clear All recent app screen loop bug
 Fixed Set screen lock as None then open a app bug
+
+===== 28 June 2023 =====
+
+Fixed qs battery % not showing
+Optimization updates
