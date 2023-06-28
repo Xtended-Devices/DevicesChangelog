@@ -3,6 +3,14 @@ Build type : Monthly
 Device : Lenovo Zuk Z2 Plus (z2_plus)
 Device maintainer : Pranav Temkar (@PptOo7)
 
+======== 28 June 2023 ========
+
+Xtended-XT-v7.6
+
+ - No device side changes
+
+==============================
+
 ======== 22 June 2023 ========
 
 Xtended-XT-v7.5
