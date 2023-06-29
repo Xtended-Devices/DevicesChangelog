@@ -3,6 +3,8 @@ Build type: Monthly
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: abhi (@abhix202)
 
+===== XT-v7.6 - 29 June 2023=====
+- Shifted to perf kernel
 ===== XT-v7.5 - 18 June 2023========
 - Synced with latest xt 7.5 source
 - Added KernelSu support 
