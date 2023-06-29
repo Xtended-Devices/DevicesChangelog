@@ -6,6 +6,9 @@ Build type: Monthly
 Device: Realme 5 Pro (RMX1971)
 Device maintainer: KSSRAO (@kssrao13882)
 
+==== XT-V7.6 - 29 June 2023 ====
+* Synced with latest source
+
 ==== XT-V7.5 - 15 June 2023 ==== 
 * Tuned Dolby values from Oneplus 9R for Improved sound quality 
 * Disabled volume leveler by default in Dolby (Fixes volume Automatically goes up and down) 
