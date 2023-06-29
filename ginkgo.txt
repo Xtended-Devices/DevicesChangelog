@@ -3,6 +3,10 @@ Build type: Monthly
 Device: Redmi Note 8 (ginkgo)
 Device maintainer: RahulPalXDA (github.com/RahulPalXDA) (t.me/WeeboDemon)
 
+===== XT-v7.6 29 June 2023 =====
+* Switched to USER build.
+* Some underthehood changes.
+
 ===== XT-v7.5 18 June 2023 =====
 * Fully rebased device tree.
 * Dropped Miui Camera support (it's worthless over Gcams).
