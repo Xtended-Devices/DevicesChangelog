@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Poco F1 (beryllium)
 Device maintainer: AKSHAT (github.com/Legendleo90) (t.me/leopubglover)
 
+===== XT-v7.6 30 June 2023 =====
+* Removed Kernelsu support
+* Inlined new MIcam
+* Fixed google recorder issues
+* Switched HWUI rendering backend to opengl
+* Enabled perf hint window
+
 ===== XT-v7.5-HOTFIX 23 June 2023 =====
 * Eliminated qs/lock screen/brighntess slider/volume panel lags
 * Brought back QPR2 clock as qs lags has been eliminated
