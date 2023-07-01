@@ -3,6 +3,16 @@ Build type: Monthly
 Device: Mi A2 Lite (daisy)
 Device maintainer: @TogoFire
 
+===== XT-v7.6 - 01 Jul 2023 =====
+- K4.9 Panda 01072023
+- 0c11ad66d - daisy: Use clang-weebx (TogoFire)
+- 658c4a601 - daisy: Cleanup dropbox on user reboot (minaripenguin)
+- 14fc86d2e - daisy: Remove deprecated TARGET_KERNEL_VERSION (Alin Jerpelea)
+- afa609ca8 - daisy: init: Remove some data cache (theangelofdead01)
+- 6ed75198d - daisy: Enable LTE_CA workaround (DarkJoker360)
+- 896ceb1e6 - daisy: overlay: Update lights capabilities (flex1911)
+
+
 ===== XT-v7.5 - 18 Jun 2023 =====
 - K4.9 Panda 17062023
 - 35e0fa677 - daisy: parts: Introduce DT2W Switch (TogoFire)
