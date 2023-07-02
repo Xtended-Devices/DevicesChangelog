@@ -3,6 +3,52 @@ Build type: Monthly
 Device: Mi 10 Lite 5G (monet)
 Device maintainer: Alec Chan (@alecchangod)
 
+==== XT-7.6 2 July 2023 ====
+- Build fingerprint updated to cheetah latest
+- Leica camera added
+- Switch and use jemalloc libc
+- [TEMP] Increase vendor size a bit for testing leica camera lib
+- props: Enable LTE_CA workaround
+- Use RSA4096 keys for recovery and vbmeta_system
+- Import Google photos properties from pixelify 
+- Set Brightness slider curve Implementation
+- Optimize ram management 
+- Separate notification and ringtone volumes
+- Compact cached app heaps in the background
+- Allow more cached apps in the background 
+- Force device to treat 170M as sRGB in SF 
+- Set internal screen recorder to 60fps 
+- Enable USB FastCharge
+- Smarter decisions on whether to use a 2.4Ghz or 5Ghz AP
+- [TEMP] Enable usb debugging by default
+- Enable display burn-in-protection in Ambient Display
+- Optimized auto brightness adjustment
+- Correct SoC manufacturer name
+- Use AOSP Bluetooth APEX aptX/aptX HD blobs
+- Register more game libraries to sched_lib_name
+- Set permission 0771 for audio hal 
+- Tell vold we are done when we are actually done
+- Deprecate debugfs mounts
+- Sync data encryption with sm8250
+- Tune zram performance
+- Remove zram cold page writeback file
+- Enable zram writeback 
+- Set 50% Zram size 
+- Cleanup post_boot zram setup
+- Move swap mount target to default fstab
+- init: Remove useless esepmdaemon, qseeproxydaemon, qvop-daemon, ssgqmigd, ptt_socket_app, sensingdaemon
+- prop: Drop max_frame_buffer_acquired_buffers
+- Speed profile services and wifi-service to reduce RAM and storage
+- Set default color mode to saturated
+- Use default color composition space
+- audio: Update dolby config values from oneplus
+- Update adreno blobs to LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+- Update graphics blobs from LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- Enable automatic channel selection
+- Enable support for IEEE80211AX, IEEE80211AC, IEEE80211AX
+- Patch vendor.qti.hardware.camera.postproc@1.0-service-impl.so 
+- prop: set default bluetooth name
+
 ==== XT-7.0 30 May 2023 ====
 - Included firmware 
 - Enable VoNR Calls support
