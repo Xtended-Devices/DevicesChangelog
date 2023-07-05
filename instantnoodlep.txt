@@ -6,6 +6,21 @@ Build type: Monthly
 Device: OnePlus 8 Pro (instantnoodlep)
 Device maintainer: ZIZZYBOI (@twinchin96)
 
+===== XT-7.6 - 05 July 2023 =====
+* June patch skipped
+* Improve vertical qs layout
+* Added two-tone translucent qs style
+* Prebuilt with Stellaris kernel
+* Updated base to latest OOS 13.1 (13.1.0.580(EX01))
+* Improve qs panel 
+* Speed up system
+* Various bug fixes and improvements
+
+REQUIRES latest OOS 13.1 (13.1.0.580(EX01)) NOT the version before it
+
+Bugs: DT2W is broken
+Workaround: Use single tap for ambient screen or lift to wake or lift to wake for ambient display then double tap to wake.
+
 ===== XT-7.5 - 22 June 2023 =====
 * June patch skipped
 * Various behind the scenes improvements
