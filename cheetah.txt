@@ -42,3 +42,20 @@ Fixed Set screen lock as None then open a app bug
 
 Fixed qs battery % not showing
 Optimization updates
+
+===== 05 July 2023 =====
+
+Fixed QS tile reset text color
+Apply QS transparency to footer actions background
+Fixed QS custom footer not working
+Fixed battery color on QS for circle battery styles
+Some animation optimizations
+Volume Panel improvements
+Fixed volume % not showing for rice & rui vol styles
+Align the qs carrier text to its gravity bias
+Enable and improve bouncer user switcher style
+Enable limited alpha composting by default
+Fix a new recent task added with an empty one not removed
+thinLTO optimizations
+Some scrolling optimizations
+Fixed glove mode not working
